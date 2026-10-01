@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
+  "versionCode": 3,
+  "versionName": "0.1.2",
   "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/latest/download/linia-wisly.apk",
-  "sha256": "b304c1273c7fc82aeced52eec3b6f0313ea56241b3e6c4ca9e5f208fcf5cc2f4",
+  "sha256": "4e01538b6d68d8aaaf0343745412bfb5df170c7fb8029dcd98dc5ff2e415aa20",
   "mandatory": false,
   "minSdk": 26,
-  "releaseNotes": "Wersja podglądowa interfejsu aplikacji. Backend jest celowo wyłączony; możesz sprawdzić wygląd, zakładki i mechanizm aktualizacji."
+  "releaseNotes": "Wersja podglądowa z mapą Polski działającą offline, Wisłą, głównymi miastami i obsługą pozycji GPS."
 }
