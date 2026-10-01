@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/latest/download/linia-wisly.apk",
+  "sha256": "127e57aeb4b4a399f1efbd202261af16c884092c7c6200af01bf7682e47deac9",
+  "mandatory": false,
+  "minSdk": 26,
+  "releaseNotes": "Pierwsza testowa wersja aplikacji Linia Wisly."
+}
