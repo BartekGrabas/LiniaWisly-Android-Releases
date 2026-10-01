@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/latest/download/linia-wisly.apk",
-  "sha256": "2b27015148ef42be4f2ef1c9d0354953d74f68f61d950d0e5ff1c8297d33ec01",
+  "sha256": "0d7e9ad3d5088c6fe3978d809c13704b9e79313f91854c5ff9ce753a2d42787f",
   "mandatory": false,
   "minSdk": 26,
-  "releaseNotes": "Lepsza mapa Polski wzorowana na panelu Centrum Operacyjnego: granice województw, Wisła, miasta, GPS, zoom i przesuwanie. Mapa działa offline."
+  "releaseNotes": "Nowy ekran zgłoszeń z przyciskami, kompas telefonu, GPS, profil użytkownika ze zdjęciem, kwadratowa mapa oraz oficjalne logo Linia Wisły jako ikona aplikacji."
 }
