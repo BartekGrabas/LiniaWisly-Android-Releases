@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
   "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/latest/download/linia-wisly.apk",
-  "sha256": "0d7e9ad3d5088c6fe3978d809c13704b9e79313f91854c5ff9ce753a2d42787f",
+  "sha256": "deefbcfcbd302e78f6b444a29a651c944687a6433e13919fa367d1cf1e4b9d34",
   "mandatory": false,
   "minSdk": 26,
-  "releaseNotes": "Nowy ekran zgłoszeń z przyciskami, kompas telefonu, GPS, profil użytkownika ze zdjęciem, kwadratowa mapa oraz oficjalne logo Linia Wisły jako ikona aplikacji."
+  "releaseNotes": "Nowa zakładka OSINT: codzienny serwis informacyjny, artykuły i źródła, odświeżanie oraz wiadomości offline. Zachowano mapę, zgłoszenia, alerty, społeczność i profil."
 }
