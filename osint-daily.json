@@ -1,215 +1,182 @@
 {
-  "generatedAt": "2026-10-28T08:38:39+00:00",
+  "generatedAt": "2026-10-29T13:07:25+00:00",
   "newsletter": [
     {
-      "title": "Valve wie o zalewie gier AI na Steamie, ale nie zamierza ich blokować. Ma inny plan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWZ4ZENNVVNuMXU0bDJ2Y190ZWNlQnFreHQ0UF9QUnR1LWV3VkM2YVBBZkdGOXdTc2hoNmVvZTZjTlRnTWw2WE5pVmNUZF9NcFZ5TU10bGRHbXZYN2NHSFFRanF0OHNOUm4xdWRfeGxsbzNpRWtFaXMzT3p0aFdmeXlWV0EwbUc1MXltLW5NejdtV1VTcV9BRmtPTldkQ1ktRFdqeE9Wb0Fab3pL?oc=5",
-      "publishedAt": "2026-10-28T08:18:12+00:00",
+      "title": "Aleś Bialacki: przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUE5QeU9aVF90X19lcDVpSlI5akZWRl9hV0RlX0hIZjRkcjVXYUJoY2F4clFzUHZyNzhkd0x2dERQSkxXM3RyVmY1Vk9PMEwwNWM1UUc4eDRWRm5SaU9TbENQbGxRTHY2Y0czQU13dXcyQ3hJcmFsN0ZDTnJreFhaVmh2MzI4R3M4MXlUcm1XODUxeEpiRUNEcGh3c19YZzE1TmNmRzF4Mkp3ZXBiRGVQZW8tbTRXRDA?oc=5",
+      "publishedAt": "2026-10-28T06:33:57+00:00",
       "summary": "",
-      "source": "GRYOnline.pl"
+      "source": "Dzieje.pl",
+      "category": "Geopolityka",
+      "geo": null
     },
     {
-      "title": "ZUS wydał nowy komunikat. Od stycznia 2027 r. renta wdowia mocno pójdzie w górę. Kto dostanie więcej pieniędzy?",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUk9obzhrcUVxSDFSTUw2blVBRVdfNkxwem9CS0E4ZHBRVkZXbkc2VklUN0hUTzRTM3NKWXBIVW82cFpNdlRqcEtjSFlQWHlFRHBtVkJjejI3WkNWWVZfWDFxMGNhWldJUTRhT05GT3pmNE5RSGtkUVhlX1JnT3hZa2NvSVlDbUhEVWhfcXhjZ3F6Qm9WSU1PUkhfWDJuTFZOVmF0Y2prLU0xOUJPcEZNcXg4ZE9Td3hUNDBERXhONHFXMHF5SnJTV01obDQ0d1VnNVdMSmE5SlR1OHc5MFhmcW5wXzRNMXZ3Y3dMWV9zdVBzekt5bGo3MW9Oa2hLNU9PSDl0dG9CV1p2SXc?oc=5",
-      "publishedAt": "2026-10-28T08:12:49+00:00",
+      "title": "Rosyjski atak powietrzny na Ukrainie. Kolejny alert RCB dla województwa lubelskiego",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWZDa0VkcXZvQk5xbFhHTnB0eDhOMkNGMlZRdUZxczBTWHVZdHRtLU9LdE1TNFdFUkRPVU9jazVabFFkcmZObXROQ0tOaTc3NXlzamJSSVh0bTlRT1ZHdDM0MXB1RlJ0aHNsMkNYbmNLLVR6TWpTTE1yVDFSVE92UE1ZaHBEV3NQOGxSTUlaRENyVmlCTGk5bHpBM3RRV3pYdWtPVDdEcEw2NUdlTTkzVkM0TWs1bEtJ?oc=5",
+      "publishedAt": "2026-10-28T09:26:32+00:00",
       "summary": "",
-      "source": "INFOR.PL"
+      "source": "Gazeta",
+      "category": "Zagrożenia",
+      "geo": null
     },
     {
-      "title": "Miasto-bankrut w USA wstaje z kolan? \"Puste działki, opustoszałe domy\"",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1RpakhMX2RzaEF1M0ItNmJVWlRQUTBkbE95TkdSVXItd2d6RlZBWXdwSU04R213alp5NGJ6RDFhTG1tMGJ5V3NZdVNkRS1vTzFQMGxVZGFNQ1RFYzVQLXV6bnZZbkE3X1lOazVrLUlNeUpKSjllT3VEWUJLc0xJX2NXQnJHaWpzcWFyZFR6dlU4a2x5ZlIyellRVzN6TnQwZFNZTnlWcUpkcEQ3a29KVGlOUkVoNXJE?oc=5",
-      "publishedAt": "2026-10-28T07:59:00+00:00",
+      "title": "Pentagon: Centrum serwisowania rakiet Patriot w Polsce to „kamień milowy” dla NATO",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMk1UaUd6VS1aTVFuZUJick5nenIxTnpGcUU2YjlCdVlEZ3JzenBMLURPNGIzVFI3SzZudHJJUTFuVlJTd2pRMFFqcmMxWl9tWVJlOXBvblgxNUJ0dHg0MW51VDh2UzJQdzB2c1NTd2ZjLVdoeW5fU1VDcmxNS0k2QzQtR3JJVThpaVdjZ0Nja1RKNWVUZlRRWGpiM2tFa1ZrREE1cDc4OU1Ca0pj?oc=5",
+      "publishedAt": "2026-10-28T12:44:35+00:00",
       "summary": "",
-      "source": "Money.pl"
+      "source": "Kresy.pl",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Zbliża się koniec ery influencerów? Eksperci wskazują możliwe powody",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2g2c29nV2EtQ1QxNXZ4V0xOZ3JLTzlHSjhvelFWZmNaTkswV3dOdDhMN3Nrb01raEpodmpXcGRfVUl4c2RvVlF3LXZGMEdaaE1MTTlsbW9PQ0dSdWhqbU9CUWFhME1PenhQTUN5bl9mSFJwSVZHRGpCOFAxcjV0ZVRyd1diZk9zVlBQM216UG9HbklKWXlxWWpUM24tMHd0eVg1LWIyQ3RBeFg5cEtWeEpNV2U?oc=5",
-      "publishedAt": "2026-10-28T07:56:33+00:00",
+      "title": "Siedem maili w dwa dni. Przedsiębiorca pokazuje, jak oszuści podszywają się pod PKO BP. Ekspertka i CERT Polska ostrzegają",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNWN4TG1XdlgzdWZLQS1rY0pucnF6RU9jRWg2clN0cUtFZUM2d0J2Y3J4OUZVWHhScW55TXFSaUZSalJsWnAxSmlRQmpOckh5QTN0b2JLajJWX3NnemZPRmtxTnBHNnZvWkNvcmZLaFRac2hpdEdQUFFHRWZFZzc5Rm91eGFmVWQxLVZwbktDNGxONkExYWFyZVJUWkVXQU9seHNwS0g1dGhDZF9HWGliYk5hMFNmSV9qQXNFWHU2ZktiQmxnLUU4Ump5a1ZuU1JvSFRLU0VNRmhqeXVCeGpITjhVQm91OF9ZaW9mSVZxV01Vdw?oc=5",
+      "publishedAt": "2026-10-29T06:00:00+00:00",
       "summary": "",
-      "source": "Business Insider Polska"
+      "source": "MyCompanyPolska.pl",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Wybrali najlepszego napastnika Bayernu. Oto miejsce Lewandowskiego",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGhIRjE5V1lqNU8zOWxKVWlGcGRIT2Qzbmk2QnkzMWEtdjdxTjdYVW9zV3Vobmg3bFk2TXVPdVhTeFlBbXJoNHRIb29HOXlvTDRFcHIzMWxIdHVXeTVMUUtPanJveEVDR1d5Wkd0S2wtcGVTVnd1MUZob0FsTzhZWWpPQ1pHT2llajNSeER0dGtqTnc5SWR3RFBwajdtTjJLNmhiSTNfVHNpMURuenpfS1Jsbw?oc=5",
-      "publishedAt": "2026-10-28T07:53:09+00:00",
+      "title": "Gazociągiem za linie wroga. Mistrzowski manewr Ukrainy pod Kupiańskiem",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDl1ZmpONkZmOVZnalBkRU1jSzBKd3lzNjBzV2dES0hQendwenliM21MUlc2cmtOOV9YSXV1NEZ0NjQydDFWT0Q4b05GMTYzUkU2eDduSFJwVEdRQlFFalkwZDJjMTBxLUR2NGhYdkprcnBDMHFlVzZwemdqcTROU3lRTEpmWkEzdVFialNaX1ptbmlZWGZQN3VVZVlXNkotbjVCdzFoREY1cmh0bHJzdE9B?oc=5",
+      "publishedAt": "2026-10-28T00:29:50+00:00",
       "summary": "",
-      "source": "SportoweFakty"
+      "source": "WP Wiadomości",
+      "category": "Energia i infrastruktura",
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Trump zaostrza kurs przed wyborami. Celuje w głosowanie nieobywateli",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUU3elJSVm8zVURadGJxckJmelN3SS1UWVVPSmpERUFRTVMwejZHTVQ2ZXdtcmdnNlM2R3VGc1ViQ2VNX0F1Mm81cFZncTNBdjhBeVBrREN6QUYyYU5Ba1VyWXlfdjNldUJ2Q0Q4SGQ0VmVFYTlweXRmOGctYjl4VEpUQjhpbXV5V2VpbXh0Qk9UVGlQUjBlZ0NBZzVBaXBiSVU1QVBxX3NkcnNvRmpudA?oc=5",
-      "publishedAt": "2026-10-28T07:41:57+00:00",
+      "title": "Były piłkarz reprezentacji Rosji Andrij Solomatin ponownie wyruszył na wojnę przeciwko Ukrainie",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakw5TGZvci1BY3BOajR6SVVzUzQ1a0tTZFVmb1hRZ0NwcGVPYm0tRXZYQVhqbzNEZkNsVXdval9FaUc1eXlWdU1MX0lCOGMxem1iNWRNN3JHaTBJd20wcHR3RWtIbWs0LXFkX3BWSnpfVnpVYUtyY192UVpXSXN6LXhETnJWY1pSN0RjQUJnU0d1YXpHS09mWFhqaHVSUkVaR2REWHhuc0E4R0R6TUc4S203YWRLLVE?oc=5",
+      "publishedAt": "2026-10-29T12:30:59+00:00",
       "summary": "",
-      "source": "Wiadomości Onet"
+      "source": "UA.NEWS",
+      "category": "Geopolityka",
+      "geo": null
     },
     {
-      "title": "Fotowoltaika z obierków. Naukowcy z Łodzi tworzą lekkie ogniwa",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlpNTUdhYW1kQ0RYRTdPdmtDeWU0TnVybmI4QkNwTXF5eTZKXzYxbVBYTW5HREk3Ri1LLXJHTFoyNHM2SHdtMzR3MVZJcVc5SVc0dlBhNmgzdVdYbTlUZmNKbnV2N3dBOXdHLWdpNnpyX0tVWm1ZS19IaWxiUGpBTHBVR3cwNFhFRFF6Ynl5UDE3VEFkQ2ZOdG5jc0JDVjlUcmZNSEwwNA?oc=5",
-      "publishedAt": "2026-10-28T07:40:01+00:00",
+      "title": "Atak Rosji na Ukrainę. Odwołano alert RCB",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEVmTXZNWDdwSWhUdGpEa3FwQlEySjNBTW8ycFh2ZXFWd1VzZzB1NDNFUUEwRXdoaHpZaWRDYXhDbUs3OGNrRWkwWkRPb19CTlN0OTFSMUwzdmpMQW5CTG42ZEtzQjlFVTUwSkxYeHktb05McUhpSXRDczhLb01UMGZtektpc1NqUmRvOXFQY29oSExrakF6SXdtWmVEU2pBSUYwNWlYN1V5dUV5Q3c?oc=5",
+      "publishedAt": "2026-10-28T09:22:40+00:00",
       "summary": "",
-      "source": "WP Wiadomości"
+      "source": "TVN24",
+      "category": "Zagrożenia",
+      "geo": null
     },
     {
-      "title": "10 mln dolarów nagrody. Amerykanie szukają Ukraińca",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaS1mUXg3Z2J2OUhhWEFwS0xwT1ZycXBQV1FsdnFEamtGVkRMeVRzVVhMMkZfckwyYkQyeEN3cUNidDZnZXNheHg1VzZHRzg3U0ZYM2gtUUVKWGJrRlE5dWlIaWlMbDB3WlJ5VVlvTmNOR0ZZbVVkOGVnT3lfY1Q4QnZHN3pxUjFDeGU3OG0teGg5UWtSdWl5SXBkTWlUUQ?oc=5",
-      "publishedAt": "2026-10-28T07:23:44+00:00",
+      "title": "Serwis pocisków PAC-3 w Polsce. Odpowiedzialność za obronę powietrzną NATO",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0MxUDNtbDB5TlJKanpvVEc5UUdUYUxJbF9JMzJpa0JUTXNURTVNdEZvV3ExbU1WSFNTaUl5ckNfdW5ETzNFQUQ2LXNfamRmNzEtOGk5NlJhOV81OWd3RW4wRFRHQUpGTUVJZ0NyWmJxSDRlbDl1eHpySFJDZy04alRlWHNaTHFzRVpTT1lnS1RtQmFuLTNVa19PSmV1QjRqRlFSX2dBTTVraFlSazhJ?oc=5",
+      "publishedAt": "2026-10-28T11:11:00+00:00",
       "summary": "",
-      "source": "o2"
+      "source": "WP Tech",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Ceny ropy znacznie w górę. Paliwo będzie jeszcze droższe?",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHAteWZfaEZRTFhHUEFseC1NcG5icHBHRGNPV1QwczY2RXhoVi1ORXdub0VsR2kzVlVYNXR0d2dOMVlodklRa2N2dTlQWjJCRTFEZGdkREM0d2d5ei1HeV9PeS1TVktYTUpnTWtOYjU4TDZadklPRU1lZDVQX1NjcDk5M1AzSFE0MkhUMkxETmZMblRRMFV3c0pWNWPSAZYBQVVfeXFMUHgxUVRJRVlDTWNkRUdmNVFVeWdBOUFDRnczX3ZaSTlQZTFhYkZOcDJ6ZjI3OXBETmFlSXBUNkw5YWlLR21VYzZrYm1vWXFhZ0tKTFNDSk1FNXZvZXhqbzQxQUVkTmpwTGN3SjhNM3k4MF9rNURBdFJial9Fb2NwZWpsaHoxVFBERHJYMHMzWUYzdVpWYUhB?oc=5",
-      "publishedAt": "2026-10-28T07:21:00+00:00",
+      "title": "CERT Polska ostrzega przed nową falą oszustw. Przestępcy podszywają się pod banki",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNci12eGdWeVVqM3ZocXh1ZF9OV3ZqXzNibTJlTFhBOUN1eE1aYTRzNkdBOWVzajFkMjh3RDlGQTAwNmJuWXlSdGtHNVFzQW1selFVb1ZYRnRiNVo1bjE5eHdHVGFueHFHemE0Zzc2dXQ5WXEtUHRhS1Bjd08wVjRsMWw5WmxqUk5INHBMeGpTY3U4Snh3dEp1QjVRamk4N1FxeGk2eTg3ZnVIaWpqbHN0RFR4RFd1TUZ0M1pr?oc=5",
+      "publishedAt": "2026-10-28T12:11:04+00:00",
       "summary": "",
-      "source": "Do Rzeczy"
+      "source": "Portal.Faktura.pl",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Sabotażysta pracował dla Rosji. Ukrainiec zatrzymany w Polsce",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEotTGpBdnRySWhVTnVaNTV0Z25FUzVhNWhSYXZSbVBKSnlQVjY4NFNHT3hFWEs0ZVZCSlMzeHJIeUlxX0hQOFg3VS1UdFZDd2VSbVZmeWdlbC0tb1lBV0NweHlKbS12VjhhZThPeFBQemNlZWpmWW1heWdkYk0zYm94LUZlRzMyTjgwZVVpUXE5c2ZZRXVVLXJrTGZPRDJQb3cw?oc=5",
-      "publishedAt": "2026-10-28T07:18:00+00:00",
+      "title": "Sztab Generalny zaktualizował dane dotyczące strat Rosji w wojnie przeciwko Ukrainie na dzień 29 października",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkxUY19md1pBZk9peG85MG0xSUVYd3gyUUNxTEtpdUI0dnJjeENKcS1MakJJUE96Q2RDYXUwNGJtT2lMM1p3UXJxS0ktZzJ4TG1ZV2ZZTVloMUo5U0dIX1MxbmdaUmpTX1MyRTdvcDE0UG5IS3duQ0RkNVhWNnoyN1RaVzZFdi1vcXpHb2dNVlJwOEs5YVAwYk1SODlUaDRVT3dLWDlEUG8?oc=5",
+      "publishedAt": "2026-10-29T05:52:06+00:00",
       "summary": "",
-      "source": "PolsatNews.pl"
+      "source": "UA.NEWS",
+      "category": "Geopolityka",
+      "geo": null
     },
     {
-      "title": "Gigant skurczył się o 1,8 tys. sklepów. Zmienia strategię w Polsce",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkQ2d04tbzBaTkRSMGJpNGt0RWpkUlVMUVU0SDlWRkhqY2hwMlNsMmE4WGt5aDdXNXBvM2NZQjRPN2dhSnB6eURPejdrU2pGVkJTRXRoUUFpcUV2RVRReUJTWlhfUmRXWEJERjdDTTVvNXI0ZWN2VFhha2lpN2pjMXFqdzh5Smp4a2M0NTAtVzc1X3NqR0x0dHVzRnVSaGw1cDFMTW5Ldw?oc=5",
-      "publishedAt": "2026-10-28T07:05:16+00:00",
+      "title": "Wydano alert RCB. Rosyjski atak powietrzny na Ukrainie",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWVNVWlfQ0tYbG9Ib1lxZ3pob3YwSVlUcllKWHVWcVMwQ0VaQkFUWGZHdExYY0NIZXdqdml0NDZKRDZnME9pTWRBZGxKcUxNb3ZIb2hJY1lwQ0EtMFBGN3Z1bk9uRjJ3ajN4OHZSZTIyZ0hhWGRWYWRKVktLVGU0dWRxRzEzTWVQYXV5dUIxakZIaS1fNGtsTFhvdW9WUlpJa2FnOE4ya0s?oc=5",
+      "publishedAt": "2026-10-28T09:22:00+00:00",
       "summary": "",
-      "source": "WP Finanse"
+      "source": "RMF24",
+      "category": "Zagrożenia",
+      "geo": null
     },
     {
-      "title": "Atak hakerski przed wyborami w USA. \"Mamy do czynienia z intruzem\"",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3BfOFJSbFhZQ2dHTUhiNTJVcV8xVFNxR1pDdE5pQ2JIS0h5MkYyVUwzR1FnNkFUQlEtWGdjOGxKbG8xMVZETnYzbXhQdldtNjA1ZDdfZWxfc0JkYVBTb1JFY0xEWUFxdm5YbkwtM19KZEZoaXhXd0dqN1hGYVF2R3NUQTc0NVVadVlpWTdfQW8xRHVRdGJNamtZQi14YzF2U0h5QVNxSWtMeFN3ZnI1RGJxQ2h1RnlJazJiTHVR?oc=5",
-      "publishedAt": "2026-10-28T07:02:04+00:00",
+      "title": "„Polska obronność zaczyna się w Tallinie”. Były szef estońskiego wywiadu o Rosji i wschodniej flance NATO",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2dEa25VR1NRa3pPcmUwWE5fSENYM1B6TW56WGFkNmJpb2NacWRJQkg1Z1dSZjNSa2F2Q0RnQXd1QkRVVndReG9ZQjd6Z2xjUTlGWDhEbm90eW92VlVrVlJTSVlWSFpEVzc1SlhUQ3FuZWQ3eG1MVGtiUTU0bjdRLVRFM1pDbktKM2ctWHZrV1kxYTJkcHhrRENrOHBSRnd3Vmc?oc=5",
+      "publishedAt": "2026-10-27T20:55:02+00:00",
       "summary": "",
-      "source": "Gazeta"
+      "source": "Zero.pl",
+      "category": "Obronność",
+      "geo": null
     },
     {
-      "title": "Serbia. Atak przed ambasadą Izraela w Belgradzie. Napastnik nie żyje",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0M1QXhGai01cm9jVERtWlI3Yk1XQ0R3Y3doVEZLX1o1YmppclVkVDBEOVZ6clRZU1lBU3VGal81MWlrUVE4ejgxTk1vYkpxYVhyb0plLUFJSUNjVy1vRjV1VXZPdVUxN2RWZGFXTGUtWUkxYUthYnhuLUN0X09JSllPRjNoQWZtUFdMRlZFUjdoelRmQ0lmc0FYbGNrWW1Wb3Q0UjNiWU01VS1XY0VCMEFR?oc=5",
-      "publishedAt": "2026-10-28T06:55:01+00:00",
+      "title": "CERT Polska ostrzega przed fałszywymi sklepami ze zniczami. Możesz stracić pieniądze i dane",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmZOSTFvRWxteDBfUkJKU0d5dHJ3WGtCWV9mVFZzSFRpNzliT3lyRmlZSTlxZW1HY0Q0NEdHcW9DTEs2SmJPWGlEQ2JTa3pGbzVOQWRuTnQ0TVktR2pleWtnSUZlcWdtS0loMUpreW5vSUZtZHpCcEdyTjR1Tm9CdEcyNnF5QnZMamJFRTJkVlNSLTNNZGdNWE1QVHFKQ2t1dWVSWmttOEpOVWM5TWc?oc=5",
+      "publishedAt": "2026-10-27T14:00:00+00:00",
       "summary": "",
-      "source": "Interia Wydarzenia"
+      "source": "Fakt",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Wybory w Izraelu. Trump przypisał sobie wynik Netanjahu",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMEhVYUJuYlk4YkxDcEVfTnh0M28wQ29KcXR3TkFWeXpNWXhidVdfbU1wU2lwSGRvc3ZuVklGcWpUZ2Y1QVdsRS1fOWlTbDJxNnFTM0VjLS03QnU5Nk5ibWxMS0N5bW1EOHpfQVhieGZVdzVPZzFzM2RFLV9yNTgyRXF3cVNuVTd4b2VGcC1UczM1TTV6WXlDb1plYUwxQQ?oc=5",
-      "publishedAt": "2026-10-28T06:54:53+00:00",
+      "title": "Witold Jurasz: przeczytałem 60 tez analityka Putina. Po obecnej wojnie Rosji z Ukrainą nastąpi kolejna",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNem4ycGR4MkVfNnoxUjFqVjlySG84bjhucTQxejFLUUxhWnowOUNTc3lGdlVBaTVTbGhnZVN0Vlhid29zN2t6N1MyWXo1MmNxTG5YVDcwVGs5Wlc2TTAybkRLczVieHZIb1pBNVRCSEZuYXBKTjNGUlJaVWYzY0tVbUhhTTY2RzVaZGx0SnJSZkVreUlpRjZEWGFKaC1USy1Sc21YaFFOdWI2cjFGdEZqTUh0X0JuSDB5Qk9jd3M0OFJZRFU?oc=5",
+      "publishedAt": "2026-10-28T16:34:40+00:00",
       "summary": "",
-      "source": "WP Wiadomości"
+      "source": "Wiadomości Onet",
+      "category": "Geopolityka",
+      "geo": null
     },
     {
-      "title": "Było 81, jest 4,5 tys. Samorządy w pośpiechu chcą budować schrony",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkZuVHhiU1pnZ3A1QkJxczBidGNJREZNWHRBdnZNaVdXSTdra2NXVUh1ZHFvWTIxdGdVb1Z3V0xIY19zTmd2VWVQZ2N5SnMxS3hiRWZkMGJDOUZwdjJWLXBxcU11ZU92RXR5VUltR3JNS0ZmMDhRUmNoa0lMcU10eXp5VXVxNmkwWExtdWNZWktVc29aZTlsUWRfakRSRUpLSlJULQ?oc=5",
-      "publishedAt": "2026-10-28T06:54:05+00:00",
+      "title": "Rosja atakuje Ukrainę. Alert RCB dla mieszkańców Lubelszczyzny",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVpyV2hPOXpELVl0UjZ2OFdYTzdXYlhjNXhyV0F5dzQtQmYtMl9VdDQxZXJDeVdHQ2ptWGNQbEZ1WjdqQnZQaGtDZXBWVjJyM0hmWGRvRXVPRk53Wlp2RHNGZ0FPaTUwVEZaN2hQR1huREl6eGJmV2owMmJCX09vVC0zMVNOUFB4OE5nWFdxbGlRN05XLXRNbkVzbG53YXFibGphTm5B?oc=5",
+      "publishedAt": "2026-10-28T09:15:50+00:00",
       "summary": "",
-      "source": "Business Insider Polska"
-    },
-    {
-      "title": "mObywatel Europa: już 61 wniosków do testów dema",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazRZWVdCOFJfTkpyRnVhR0w4X2FlUnlPU3ZhWllaOEFmNUxFSnBQN2JCNUlrYnFaVF9HTTdvUHk0R1ozaUtpb0NqZXhsaXc0NmFVajEwUXVLNmdUWThSVzhFVGdtSC00Rm5fNHQ1MkhqOGdqREVBendOTTZvNzl4Z0RFSDIydFFucEdWXzVzMGM0X1FaV3hyWFB3?oc=5",
-      "publishedAt": "2026-10-28T06:52:32+00:00",
-      "summary": "",
-      "source": "Dobreprogramy"
-    },
-    {
-      "title": "Jest zdjęcie. Tak wygląda tajny chiński samolot kosmiczny na orbicie",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVl9xU3RsaDFOMHBMMDJ3NFBnclFuRWtVWmx1YndWM2ZpM1NrdkQxeXdIUHhXcG5sYVdEeXpZUVdLQ0I3NFpUaV9XeFJBWnVtMlNEQ1pYekx1bEVDR2ZOZXZoNDIxb0txb3ZwWTVXYjZPSmk5c29lai1xZHlLdy1fcTg3YW8wcGRPdW55d1JRZ1NzbE1fSG9KMkNiaW05RnczMUYwUDNSWQ?oc=5",
-      "publishedAt": "2026-10-28T06:50:00+00:00",
-      "summary": "",
-      "source": "WP Tech"
-    },
-    {
-      "title": "Co łączyło Daniela Martyniuka i \"Wiki Fiki Miki\"? Na jaw wyszła cała prawda",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUNxS2hUeVBDT2xhczlNUHdTckI3VnVEM3o2c0tkNmVOQjZqNkZKV0dRTzBLd2xrRy1BamRqT3FpTG5OOVFxay1KUEJGWnhpeEJiU1hGeVExVEhUWkN5NHNUTnctRTRDcVdUZEI3U3c3RHhtbHppVS15aTdFa3JScGhFVW5lWmJ1MFExMnV4SWlYcTktbUxqQ3dFR3lRSWVEY0RxTzM2NG45RHBxSmh4WDM0aHJlWkZKZkRDQXYwN2NoV1Y0RW5NaU1jb2hqYmJjMS1Vc2t0aFduZTdEdDhKQ3NJa1NaRlhrTzRfbmVtUEM0RWM1X3B3alZLMkRTdGNNODBv?oc=5",
-      "publishedAt": "2026-10-28T06:44:14+00:00",
-      "summary": "",
-      "source": "Pudelek.pl"
-    },
-    {
-      "title": "Wrócił na plażę po rzeczy, znaleziono ciało. Horror na rajskiej wyspie",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN05iUURPMUJlOXNyYzd2cU03M2JIdFVLdi1UR0ozRmtlMTd2TnJkSl9LYWtBZU5YS1JpbUxFb29QcGp0M3o5Vko1dEdwRzlIUmlPUHVwUUFYX1B6czZQUnpNUGlzUjlMZU9EZE9UdTRYSVBEVlpnb1p3N3g2ZVQwaWNDRlVsLVhJMzEtT01QSEZCTjdhNFZxRjhZdFFaZWNiQjVHYzlyZWY2Rm5l?oc=5",
-      "publishedAt": "2026-10-28T06:42:00+00:00",
-      "summary": "",
-      "source": "Fakt"
-    },
-    {
-      "title": "Miał działać na zlecenie Rosji. 25-latek zatrzymany w Warszawie",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGR1MjN5RWRpQzFxaWtvajBXSHhPdlVvVDYzWU9VUzR6SDlFaHdNbmZYUlB4SllkRXk4Z1NDdHFRaml5VEw2cUhUVmtuSXhGbUdKLW5LMTBXN21GLWhxT202MTFYU2FsTXBwTzF6UzZmY1lIZU5vYndXWE5xVDdxb1hLQjAwcHpETWx3Vm9pc0V5Y25qQzNKbGJuM1J3UHUtcE82OFk4Zk5oOG82akZ4d3Rmcw?oc=5",
-      "publishedAt": "2026-10-28T06:34:29+00:00",
-      "summary": "",
-      "source": "Wiadomości Onet"
-    },
-    {
-      "title": "Prezydent postraszył wetem, Senat zmienia ustawę. Stawką miliardy złotych dla polskich firm",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFJ5Njc2YnRsWlBmSVRsaFdjZTYxVVQ5MWZjSHRrcUlBdHlrUWpFM25ZeU55SkRIZEs5ak5RS1VmRmM1cGJOY1NBY0tEQTdoR0xLbEx3c3FMUF94M3NaVGRKTEhhWl9EeG9qMktEZkF3NV84TERIY0Q1N05JV2FHZE11ZW0tZmNScWJGeXg1a3l0RGNTeEpMdDVaMjFKRFYwMm9PU0hrenZWeDhO?oc=5",
-      "publishedAt": "2026-10-28T06:26:30+00:00",
-      "summary": "",
-      "source": "Zero.pl"
-    },
-    {
-      "title": "Arteta zabrał głos po klęsce. Zaskakujące słowa trenera Arsenalu",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGRTcDVETDhVQ093V01kRmxvaW42SmZOVHVyd1U2YnZWTHBaVjEzakVSMkZKVGQ4cURiZ2t6eldZOU95TTlVbzdYSTFzSnRYWkpjd0hCcnVneXdmV0hNNlpNc0hBb0FkVmM5UnBFMVBzc1h4QnkzeUZCZUZnVnhwMzZOcEdsQktVNEVPT25DOUxOdzFBeVFxZ1Vxb1RDTTF5dzZMX0RKQi1aRnBOcWprVg?oc=5",
-      "publishedAt": "2026-10-28T06:20:05+00:00",
-      "summary": "",
-      "source": "Meczyki.pl"
-    },
-    {
-      "title": "Kurs bitcoina pod znakiem zapytania. Padają prognozy od 10 tys. do miliona",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFlWcklkeFVOeTlyZFMwNjg3cFM3c0VCTW5wTDJlbl9rclRGZTg3a2ZJeXR3cGc0WFAwcHA0SHRYRlVPcXIyR0FOY0ltOHg3dFpzejdWZlNYOU10QXhwVDBEb0tZMFlYdl9vRjRCWl9yb040LXd6U2JodV82QjNLQmdIX3RNdlQtdmxqQzNBTDFtTVVNSTFnampKRzU1SlVNdk1tWEVObHctazdWMGJBWEtoclhjTlNYNVpTdlhYeXU?oc=5",
-      "publishedAt": "2026-10-28T06:15:16+00:00",
-      "summary": "",
-      "source": "Interia Biznes"
-    },
-    {
-      "title": "Czytelniczka: system kaucyjny jest upokarzający",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkFHMjdTMjJyU0JhYi1OZGVtNHJrc0VqX0htQ2hYRW1UeVA5OXFUSm01WWhCNlNpdWozWTh6S0RULXJHN0VCa04yTWUtR3FINS1TRF90OUNmMWVzSmRzRXpXem5acEVCVXA2RmZWazQ4S1VIUkFITnM2STRCb3F5RTZKVkNKMWh3NjhKY1QwOEpTQXhrdmtSYWQ2MG0?oc=5",
-      "publishedAt": "2026-10-28T06:00:00+00:00",
-      "summary": "",
-      "source": "Trojmiasto.pl"
-    },
-    {
-      "title": "Astronomiczne koszty wojny z Iranem. Pentagon wystawił rachunek",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWVxZnE1aS15X1QxZkdwU0pvNktMa015UzZqUVBsSzZsSGRYZ3FNcGR0MHJSNkp5VjhOSlRDeXlvZjNDNGhfRFljTkE4dDktaWk0OWRZc0ZSb2RXZzBzZEdZbzlTV295VVhUcUFUWmF2WXlDV0tQUi1NcGpscVRjTWcyQWFOUUNxeUp5Z1JiU1h3dUt1cDZuZ18tV1pRT1A2bUk3YlJXWVl1eDJlU0FQYmlVUUlndw?oc=5",
-      "publishedAt": "2026-10-28T05:58:07+00:00",
-      "summary": "",
-      "source": "Interia Biznes"
-    },
-    {
-      "title": "Chińczycy wiercili w głąb Ziemi. Chcą składować odpady radioaktywne",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbU11WnFJckVjUGRTOG1yN2daT2dveTdNb1ItcTYzTmZ0dGVSZEphMGJodjNMVDRvZ0Z2OUhpLW9sd0FaZk94UEFhU1BTckpZU3BkOVk2dUdZYWxNb0NlTVF3LW1sY0JHVk5TZGdtQTJDdkk0dWlpdnQ3dUdMOFVlMWZRQVFvVUx4empNMVNTSjFEMzhyS3lFdFBsaWgzM3d3d1g2S0tn?oc=5",
-      "publishedAt": "2026-10-28T05:55:28+00:00",
-      "summary": "",
-      "source": "WP Tech"
-    },
-    {
-      "title": "Smutna wiadomość ze świata kultury. Nie żyje Barbara Nieman",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNTNCVEVyYTloa1pSd0p0aDQzZENGMS1WRmlQMm5mUE05c3JhVGIwbUhzVDgwUUdXdFRKVVVXWGZBc0JPQ29xeDM3UTBpQjgyY3hJWUZrUUk0aGxaX3lPMnFGamlFS3JPRFM5ZHZLRi1GYnZwVGEwNVQ0S2lvLXFqQVhPQ1lYcWJhRkJyc3VRQ0NTbnNFcmhkUmFkVDlfUVlOcm5zTlJoOWQ?oc=5",
-      "publishedAt": "2026-10-28T05:48:37+00:00",
-      "summary": "",
-      "source": "o2"
-    },
-    {
-      "title": "Nowość z Xbox Game Pass to prawdziwy hit. To jedna z najlepiej ocenianych gier 2026 roku",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVNleGdfLTZfMUd5dWJTaTNjbmRwVnZMaHpvU0RYT0taVVpxczJWdzE4UXd6aXpPVHV3aUVvT2ZmeXJaMGR1cjVfYlRsb285UHBkNmlMYlJKcnY5YWx1Mzc0OUhuMGhhSHZyM1RCYkUyc3VtWG0yTjJvTWtWWmlNc0twQjhqbjJzUU5oSGpBajhjSmdPaXZtWm5hb19jUzI5OXhRdHF0ckdRT25wUk5na0VYeXNoLXRwZk8xZmpBS0c?oc=5",
-      "publishedAt": "2026-10-28T05:43:25+00:00",
-      "summary": "",
-      "source": "PPE"
-    },
-    {
-      "title": "Tylu Polaków nie ma oszczędności. Pokazali niewygodne dane",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWVVWnh2QWQyeGZ3dWV1VXZDUE84UTV6dFlsM056eXlFdnpYbms2OUxMZVBHdURkdEFld1RMdV9BREU1azFVZzAyVGh3MGIwWWgtZmFCOWlhaU9qakVYOTRuLUVhOXh5WENUcDdXQ04zbkQ5RDdRclRHaW9fS25LVGdJZFM4eDVIb0FVV2MyNHNYN0puOE1pdE9qU3p0Zw?oc=5",
-      "publishedAt": "2026-10-28T05:40:10+00:00",
-      "summary": "",
-      "source": "WP Finanse"
-    },
-    {
-      "title": "USA z dumą witają rosyjską ropę. Tankowiec właśnie dopłynął",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc016TFdGZXYzazFkclVFd213ajk4SFdrNEg4Y0ppTnJ4R2VkbXc5WDVrTE10VFZfUmNVeUJFTGN1TkJSZW5TWTUyX3FOVTdmNmpSV3BmV29ILUdQamZLbVpEWFhxbERPTFBrMlJKNW9EdmNyRWt5UktnS3U4OWlmaTlKVmdBSU94NUlld1laWlFsOXR6VkcwaXoxSE5RQnJnLXBsd21PUlNiRFdUUkRmWFN5WQ?oc=5",
-      "publishedAt": "2026-10-28T05:32:05+00:00",
-      "summary": "",
-      "source": "Business Insider Polska"
+      "source": "Wiadomości Onet",
+      "category": "Zagrożenia",
+      "geo": null
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
