@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
-  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/download/v0.1.7/linia-wisly.apk",
-  "sha256": "b126cd03ec13b2bbf15cbfea95cb0442d07185d5d076053295b7098c5a726cde",
+  "versionCode": 9,
+  "versionName": "0.1.8",
+  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/download/v0.1.8/linia-wisly.apk",
+  "sha256": "d5813c1e9e10562bc5eb83fd8e5a376e65bfad733364484b5bf3447939f7ff45",
   "mandatory": false,
   "minSdk": 26,
-  "releaseNotes": "Nowa domena liniawisly.org, aktualny OSINT i bezpieczna kolejka offline. Aktualizacja obecnej aplikacji; centrala zgłoszeń nadal nieaktywna."
+  "releaseNotes": "Połączenie aplikacji Android z aktywną centralą Linia Wisły na OVH. Wysyłka zgłoszeń HTTPS do panelu operatora; zachowano profil, mapę, OSINT, kolejkę offline oraz aktualizacje bez odinstalowywania."
 }
