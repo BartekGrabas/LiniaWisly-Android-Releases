@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/download/v0.1.6/linia-wisly.apk",
-  "sha256": "deefbcfcbd302e78f6b444a29a651c944687a6433e13919fa367d1cf1e4b9d34",
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/download/v0.1.7/linia-wisly.apk",
+  "sha256": "b126cd03ec13b2bbf15cbfea95cb0442d07185d5d076053295b7098c5a726cde",
   "mandatory": false,
   "minSdk": 26,
-  "releaseNotes": "Nowa zakładka OSINT: codzienny serwis informacyjny, artykuły i źródła, odświeżanie oraz wiadomości offline. Zachowano mapę, zgłoszenia, alerty, społeczność i profil."
+  "releaseNotes": "Nowa domena liniawisly.org, aktualny OSINT i bezpieczna kolejka offline. Aktualizacja obecnej aplikacji; centrala zgłoszeń nadal nieaktywna."
 }
