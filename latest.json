@@ -1,7 +1,7 @@
 {
   "versionCode": 7,
   "versionName": "0.1.6",
-  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/latest/download/linia-wisly.apk",
+  "apkUrl": "https://github.com/BartekGrabas/LiniaWisly-Android-Releases/releases/download/v0.1.6/linia-wisly.apk",
   "sha256": "deefbcfcbd302e78f6b444a29a651c944687a6433e13919fa367d1cf1e4b9d34",
   "mandatory": false,
   "minSdk": 26,
