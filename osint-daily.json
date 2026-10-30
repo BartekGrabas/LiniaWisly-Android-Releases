@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:07:25+00:00",
+  "generatedAt": "2026-10-30T13:00:29+00:00",
   "newsletter": [
     {
       "title": "Aleś Bialacki: przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją",
@@ -16,6 +16,124 @@
       "publishedAt": "2026-10-28T09:26:32+00:00",
       "summary": "",
       "source": "Gazeta",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Kolejny kraj NATO rozszerza obowiązkową służbę wojskową. Gdzie jeszcze jest pobór i co z Polską?",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdThJRXpoM3VIWXdTR3c3VmJTcGUtODRldnF1a0lweWVsNDdWTV9sbldDWjZrdmFxbnJ4NGpESEs5LW93NkhrNHQ2UE5YU2JhYW9NR0Q4U1ExWjBObWpDV2Ezdzc4QjFEMGxqZnpFVW1hMUtJVll4MXQ0TVR6TWY0c1UzRjdZLUZSdFJ5TlB5MEpYY2dmOUdZZDV4cHZ4MTcteVVYVzRjM2RFTVE4RXBYU0NteEkzTlBndFNJcXVrSQ?oc=5",
+      "publishedAt": "2026-10-30T12:42:00+00:00",
+      "summary": "",
+      "source": "Newsmax Polska",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "CERT Polska bije na alarm. Klienci PKO BP na celowniku cyberprzestępców",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFItdXFyYVNyZW50djBkVncxTEZEY1hid2FjTXB2UkFnZFFxSklXMF9CdzBkSXRka1YyUlQ5LVZfT0hqa2tPLUVjXy13UUJHcm5nS3k5emYzdmQ1ZmxRWUFCNWRLVFllN19DdXBob2dvdGxtdEdwT25rT25DeW5aTnItNnFOZ19xREtuOVdvUVgzQXRaQm5DcmI5M3A?oc=5",
+      "publishedAt": "2026-10-27T17:40:01+00:00",
+      "summary": "",
+      "source": "naTemat.pl",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Łączność i infrastruktura teleinformatyczna Transbit na XII Seminarium WAT ICT Days",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzNnQVFNUEhrcTBoRkhOTVFnS3RydzJsbURsQllOZkdKSThZajdGb1Q5X2Rfek1HUGZMTkN1Q29mZktJQXI1b2dMZENNdUlEc3Y0UnhWUnJ3cjhsQXN6S1VVMTd6a25HeWgzdWExM2FFYXNjbXh2c204Q3R4cWVFTXE0LWJjR19MbHFFbmpVLVI2NHdBZ0VMdXlEZ3A5OUdZaDR4Uw?oc=5",
+      "publishedAt": "2026-10-30T07:52:30+00:00",
+      "summary": "",
+      "source": "MILMAG",
+      "category": "Energia i infrastruktura",
+      "geo": null
+    },
+    {
+      "title": "Płk Lewandowski o wojnie dronów na Ukrainie. \"Rosja to wygra\"",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0F4cUhzTXdNYjdfbWhPZVEtY1lXV0lmYmRYNkFLR2JRUzZJWXNJVUhCZ1F4Q2Qxb2tXX3AxdVdvN1N2QkpjbVFzVER1Tlc2X3hsQUpyUm15RjJqbXc5NDFmYmhHQkxNeE5QbHR6U3ZnUXZGUTltRnlNNE0tdlM4akpRcW51eUNHMXZnd1ZDYXY4bVhUSFpmRkVhZTlNQWJtNVNF?oc=5",
+      "publishedAt": "2026-10-30T08:06:21+00:00",
+      "summary": "",
+      "source": "WP Wiadomości",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Atak Rosji na Ukrainę. Odwołano alert RCB",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEVmTXZNWDdwSWhUdGpEa3FwQlEySjNBTW8ycFh2ZXFWd1VzZzB1NDNFUUEwRXdoaHpZaWRDYXhDbUs3OGNrRWkwWkRPb19CTlN0OTFSMUwzdmpMQW5CTG42ZEtzQjlFVTUwSkxYeHktb05McUhpSXRDczhLb01UMGZtektpc1NqUmRvOXFQY29oSExrakF6SXdtWmVEU2pBSUYwNWlYN1V5dUV5Q3c?oc=5",
+      "publishedAt": "2026-10-28T09:22:40+00:00",
+      "summary": "",
+      "source": "TVN24",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Polska prekursorem w NATO. Nowy standard badań pilotów wojskowych",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHBkZnAyazMtTDROMWx3ZTZDOU03MFdQZ2VtNmhPVGNWeGk4dHUwVVJUTGJ4WnA0RFVrbE05SGlVOWR4Y1Y3ZGdBOGlkam5LZU91eVBOcnBJazNEczNQQW5zZU1RNVBPcGkyeGVPTDhYMTdXRE9Bb3VwdllYZEdJMUpyd21pU0F3eTJWaXRmXzM2bXFRbmhXNHVCUHJfQmc?oc=5",
+      "publishedAt": "2026-10-30T11:15:04+00:00",
+      "summary": "",
+      "source": "Defence24",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Ten e-mail wygląda jak wiadomość z banku. CERT Polska ostrzega przed oszustami",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmxrSDNuSjBLQURqLW5Ka3YwdzM1RUNNdmJFVUJEa3hWNDdzUnZvYUJQaURwMEU4dXJtV0cxUTRXVFlGd1FITEFLN0tRdUdlajNQU2VzOWFqeTFGNkd3QVAtYkNLWVFwYmtjRTE1Y1ZwV1dJSE5zWkdROXN0Z0JReDExNjlnaDBma2k1SnV0emd4a044UGRWX2hKNHhrcko4RVUzQWM3M3B5T0x5UXhIU1k0QQ?oc=5",
+      "publishedAt": "2026-10-29T14:33:00+00:00",
+      "summary": "",
+      "source": "Interia Wydarzenia",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "W Polsce zatrzymano obywatela Rosji fotografującego infrastrukturę kolejową",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWJ3WU11MWRGS1otaUwtSVgwOHAwcVJoangxeU5TNjlOb25FY2ZJb0t0WTJSMTB4LWhEazR6MTZJNkVWcnhLa0d0Nlo1X3ZWUHlvU1FabmxZQlYzRnRZYldlTjJUM0k2UlRSdFlwdFctVlp0djM5YUJVVWwyVlE0amU4czcyY0x2WUJheko2bE5GR3BaMFZsV1JPR3BybFloMFB0cEdjcHRqcml6M3BJbTRWZ2V1aE1kaE1LTVBB?oc=5",
+      "publishedAt": "2026-10-30T11:39:00+00:00",
+      "summary": "",
+      "source": "LRT",
+      "category": "Energia i infrastruktura",
+      "geo": null
+    },
+    {
+      "title": "Wojna w Ukrainie. Zawieszenie broni w Ołeszkach. Zełenski oskarża Rosję",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzZNVkMzbHlmWmpIZTBBSmtHS1BFRGtCTno5cFowNnltU3ZVNmw3Z2VuTjRxeXNfZ1Y0NDJWbXo0RW9SSWJ3WElCRnlVWmhUd3JHZ1RvZHZjWXdvVUdLTlJNVUJ2Ul9uMmhjWXM0Wmd0T3VOdzhqMm10T1p5anJxZ2t5bkxjVkxHQmxRbTRGSjd3X1ZKU0FiM1ZYbHhQQVJnSVl5dXh4a2FBdXN1blhCMm9HYnB3VmM0UkM5Xw?oc=5",
+      "publishedAt": "2026-10-29T21:10:00+00:00",
+      "summary": "",
+      "source": "PolsatNews.pl",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Wydano alert RCB. Rosyjski atak powietrzny na Ukrainie",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWVNVWlfQ0tYbG9Ib1lxZ3pob3YwSVlUcllKWHVWcVMwQ0VaQkFUWGZHdExYY0NIZXdqdml0NDZKRDZnME9pTWRBZGxKcUxNb3ZIb2hJY1lwQ0EtMFBGN3Z1bk9uRjJ3ajN4OHZSZTIyZ0hhWGRWYWRKVktLVGU0dWRxRzEzTWVQYXV5dUIxakZIaS1fNGtsTFhvdW9WUlpJa2FnOE4ya0s?oc=5",
+      "publishedAt": "2026-10-28T09:22:00+00:00",
+      "summary": "",
+      "source": "RMF24",
       "category": "Zagrożenia",
       "geo": null
     },
@@ -52,130 +170,12 @@
       }
     },
     {
-      "title": "Gazociągiem za linie wroga. Mistrzowski manewr Ukrainy pod Kupiańskiem",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDl1ZmpONkZmOVZnalBkRU1jSzBKd3lzNjBzV2dES0hQendwenliM21MUlc2cmtOOV9YSXV1NEZ0NjQydDFWT0Q4b05GMTYzUkU2eDduSFJwVEdRQlFFalkwZDJjMTBxLUR2NGhYdkprcnBDMHFlVzZwemdqcTROU3lRTEpmWkEzdVFialNaX1ptbmlZWGZQN3VVZVlXNkotbjVCdzFoREY1cmh0bHJzdE9B?oc=5",
-      "publishedAt": "2026-10-28T00:29:50+00:00",
+      "title": "NATO nie walczyłoby tak jak Ukraina. Rosja musiałaby zmierzyć się z inną siłą",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXZwTmVKTjhKSHBjamVVamFaTW81REdTOGZORy1BOW9nN243a2twcF80azZBX3BlM2psemVuWVBWX19TcWNycjJQOTFyMGR5OXdFQ19hYU5ORDBabkJ1MG5uZGRzTU1URldMcEdkSE1YWUdCc0lDalQtLTdUUmtpdzBnandoc2pwTlNqa1ZpM3RNek1yXzlJX29SVG5ldjcybUlXaVRUNU1zU3FCNGdIdVZISmwya09TTUprMTRtWW1PeUU?oc=5",
+      "publishedAt": "2026-10-29T18:55:15+00:00",
       "summary": "",
-      "source": "WP Wiadomości",
-      "category": "Energia i infrastruktura",
-      "geo": {
-        "label": "Ukraina",
-        "lat": 49.0,
-        "lng": 31.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Były piłkarz reprezentacji Rosji Andrij Solomatin ponownie wyruszył na wojnę przeciwko Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakw5TGZvci1BY3BOajR6SVVzUzQ1a0tTZFVmb1hRZ0NwcGVPYm0tRXZYQVhqbzNEZkNsVXdval9FaUc1eXlWdU1MX0lCOGMxem1iNWRNN3JHaTBJd20wcHR3RWtIbWs0LXFkX3BWSnpfVnpVYUtyY192UVpXSXN6LXhETnJWY1pSN0RjQUJnU0d1YXpHS09mWFhqaHVSUkVaR2REWHhuc0E4R0R6TUc4S203YWRLLVE?oc=5",
-      "publishedAt": "2026-10-29T12:30:59+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
+      "source": "Rzeczpospolita",
       "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Atak Rosji na Ukrainę. Odwołano alert RCB",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEVmTXZNWDdwSWhUdGpEa3FwQlEySjNBTW8ycFh2ZXFWd1VzZzB1NDNFUUEwRXdoaHpZaWRDYXhDbUs3OGNrRWkwWkRPb19CTlN0OTFSMUwzdmpMQW5CTG42ZEtzQjlFVTUwSkxYeHktb05McUhpSXRDczhLb01UMGZtektpc1NqUmRvOXFQY29oSExrakF6SXdtWmVEU2pBSUYwNWlYN1V5dUV5Q3c?oc=5",
-      "publishedAt": "2026-10-28T09:22:40+00:00",
-      "summary": "",
-      "source": "TVN24",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Serwis pocisków PAC-3 w Polsce. Odpowiedzialność za obronę powietrzną NATO",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0MxUDNtbDB5TlJKanpvVEc5UUdUYUxJbF9JMzJpa0JUTXNURTVNdEZvV3ExbU1WSFNTaUl5ckNfdW5ETzNFQUQ2LXNfamRmNzEtOGk5NlJhOV81OWd3RW4wRFRHQUpGTUVJZ0NyWmJxSDRlbDl1eHpySFJDZy04alRlWHNaTHFzRVpTT1lnS1RtQmFuLTNVa19PSmV1QjRqRlFSX2dBTTVraFlSazhJ?oc=5",
-      "publishedAt": "2026-10-28T11:11:00+00:00",
-      "summary": "",
-      "source": "WP Tech",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "CERT Polska ostrzega przed nową falą oszustw. Przestępcy podszywają się pod banki",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNci12eGdWeVVqM3ZocXh1ZF9OV3ZqXzNibTJlTFhBOUN1eE1aYTRzNkdBOWVzajFkMjh3RDlGQTAwNmJuWXlSdGtHNVFzQW1selFVb1ZYRnRiNVo1bjE5eHdHVGFueHFHemE0Zzc2dXQ5WXEtUHRhS1Bjd08wVjRsMWw5WmxqUk5INHBMeGpTY3U4Snh3dEp1QjVRamk4N1FxeGk2eTg3ZnVIaWpqbHN0RFR4RFd1TUZ0M1pr?oc=5",
-      "publishedAt": "2026-10-28T12:11:04+00:00",
-      "summary": "",
-      "source": "Portal.Faktura.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Sztab Generalny zaktualizował dane dotyczące strat Rosji w wojnie przeciwko Ukrainie na dzień 29 października",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkxUY19md1pBZk9peG85MG0xSUVYd3gyUUNxTEtpdUI0dnJjeENKcS1MakJJUE96Q2RDYXUwNGJtT2lMM1p3UXJxS0ktZzJ4TG1ZV2ZZTVloMUo5U0dIX1MxbmdaUmpTX1MyRTdvcDE0UG5IS3duQ0RkNVhWNnoyN1RaVzZFdi1vcXpHb2dNVlJwOEs5YVAwYk1SODlUaDRVT3dLWDlEUG8?oc=5",
-      "publishedAt": "2026-10-29T05:52:06+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Wydano alert RCB. Rosyjski atak powietrzny na Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWVNVWlfQ0tYbG9Ib1lxZ3pob3YwSVlUcllKWHVWcVMwQ0VaQkFUWGZHdExYY0NIZXdqdml0NDZKRDZnME9pTWRBZGxKcUxNb3ZIb2hJY1lwQ0EtMFBGN3Z1bk9uRjJ3ajN4OHZSZTIyZ0hhWGRWYWRKVktLVGU0dWRxRzEzTWVQYXV5dUIxakZIaS1fNGtsTFhvdW9WUlpJa2FnOE4ya0s?oc=5",
-      "publishedAt": "2026-10-28T09:22:00+00:00",
-      "summary": "",
-      "source": "RMF24",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "„Polska obronność zaczyna się w Tallinie”. Były szef estońskiego wywiadu o Rosji i wschodniej flance NATO",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2dEa25VR1NRa3pPcmUwWE5fSENYM1B6TW56WGFkNmJpb2NacWRJQkg1Z1dSZjNSa2F2Q0RnQXd1QkRVVndReG9ZQjd6Z2xjUTlGWDhEbm90eW92VlVrVlJTSVlWSFpEVzc1SlhUQ3FuZWQ3eG1MVGtiUTU0bjdRLVRFM1pDbktKM2ctWHZrV1kxYTJkcHhrRENrOHBSRnd3Vmc?oc=5",
-      "publishedAt": "2026-10-27T20:55:02+00:00",
-      "summary": "",
-      "source": "Zero.pl",
-      "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "CERT Polska ostrzega przed fałszywymi sklepami ze zniczami. Możesz stracić pieniądze i dane",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmZOSTFvRWxteDBfUkJKU0d5dHJ3WGtCWV9mVFZzSFRpNzliT3lyRmlZSTlxZW1HY0Q0NEdHcW9DTEs2SmJPWGlEQ2JTa3pGbzVOQWRuTnQ0TVktR2pleWtnSUZlcWdtS0loMUpreW5vSUZtZHpCcEdyTjR1Tm9CdEcyNnF5QnZMamJFRTJkVlNSLTNNZGdNWE1QVHFKQ2t1dWVSWmttOEpOVWM5TWc?oc=5",
-      "publishedAt": "2026-10-27T14:00:00+00:00",
-      "summary": "",
-      "source": "Fakt",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Witold Jurasz: przeczytałem 60 tez analityka Putina. Po obecnej wojnie Rosji z Ukrainą nastąpi kolejna",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNem4ycGR4MkVfNnoxUjFqVjlySG84bjhucTQxejFLUUxhWnowOUNTc3lGdlVBaTVTbGhnZVN0Vlhid29zN2t6N1MyWXo1MmNxTG5YVDcwVGs5Wlc2TTAybkRLczVieHZIb1pBNVRCSEZuYXBKTjNGUlJaVWYzY0tVbUhhTTY2RzVaZGx0SnJSZkVreUlpRjZEWGFKaC1USy1Sc21YaFFOdWI2cjFGdEZqTUh0X0JuSDB5Qk9jd3M0OFJZRFU?oc=5",
-      "publishedAt": "2026-10-28T16:34:40+00:00",
-      "summary": "",
-      "source": "Wiadomości Onet",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Rosja atakuje Ukrainę. Alert RCB dla mieszkańców Lubelszczyzny",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVpyV2hPOXpELVl0UjZ2OFdYTzdXYlhjNXhyV0F5dzQtQmYtMl9VdDQxZXJDeVdHQ2ptWGNQbEZ1WjdqQnZQaGtDZXBWVjJyM0hmWGRvRXVPRk53Wlp2RHNGZ0FPaTUwVEZaN2hQR1huREl6eGJmV2owMmJCX09vVC0zMVNOUFB4OE5nWFdxbGlRN05XLXRNbkVzbG53YXFibGphTm5B?oc=5",
-      "publishedAt": "2026-10-28T09:15:50+00:00",
-      "summary": "",
-      "source": "Wiadomości Onet",
-      "category": "Zagrożenia",
       "geo": null
     }
   ],
