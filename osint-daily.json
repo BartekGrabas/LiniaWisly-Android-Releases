@@ -1,22 +1,13 @@
 {
-  "generatedAt": "2026-11-02T16:00:14+00:00",
+  "generatedAt": "2026-11-03T14:21:15+00:00",
   "newsletter": [
     {
-      "title": "Aleś Bialacki: przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją [WYWIAD]",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjFsVGx2MnZGNFNuVDhlaUJuaFJpdF81c2JtQXUzUlZWeGh5NjFrMmJVUElRSjkwOFFyeUU1OWVnTVp6T2lpdmhfZDY0eFJZazJfRFBHYkRLYkNwWXRXdTZFVF9XU0JzZkt6RmFKcW5xZXR2UGtOT3FpZTdhbTZMLTlHRjFHVmJ3a1dOalBJc2NYVzV0WGZXTEdidExhaUJadS1PV0ZzM0lEdmNXWm5WanVpMmlRWkZQclE?oc=5",
-      "publishedAt": "2026-10-31T11:30:00+00:00",
+      "title": "Atak powietrzny w Ukrainie. Wydano alert RCB",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHpKbFhrTUZsMnpBMEpPUGtMaEFWYm4xMXNDZ19iMF9rd29HLTRGQnRHcGhfbE1zWV9rUF9YSHlWc2FMWTUtS1cySXRmMzVTa3MtdjJCN3dzYzZ0eU5rZHZsYWpnUHNzZnh4ZG5aaENwa05YUGJLa0lzTmJVU3drZWVjYndiTjd1d2F2d3lUdEhMMjkxbzlOcklIbnV4VzFrMWttWUYzQ29hTGtKa2gxZA?oc=5",
+      "publishedAt": "2026-11-03T13:58:47+00:00",
       "summary": "",
-      "source": "Polska Agencja Prasowa SA",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Film: Żołnierze Sił Zbrojnych Ukrainy ewakuowali za pomocą drona rannego obrońc",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGh3bzl3bEQ5VmtmUGl6SDhmLWs4elNXX0o5WklnUXZfX3BmTDEwYmVjd19ndk1TZ21DOWxfdVFPd3JXaUpIQ05XZ0dTVmRJSjJlMVVxblgycVNoNl9sUlFPSmU1Z3FRRnhuMWVlTG5IdDRIUjdaZ1dualpJQ2djZ3R6QmlERm1jMjRoYWo0bEtKNTR3cUQ1enNPSUJ5RTA3T3hfeWR3WDEwaEpxQ1F3M1RRZUMxSEM4dlJR?oc=5",
-      "publishedAt": "2026-11-02T15:35:07+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Obronność",
+      "source": "TVP Info",
+      "category": "Zagrożenia",
       "geo": {
         "label": "Ukraina",
         "lat": 49.0,
@@ -27,16 +18,34 @@
       }
     },
     {
-      "title": "Alarm na granicy z Rosją. Policja ściąga dodatkowe siły i kontrterrorystów",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYURzMHFvVHpFQWRFUmVqYUc5Mm5QcE9vbF9zS2RxUWo3Uy11QnJ5c2h4VElyLVgyWnlZZ3MwMXNxTzF1eGJGM3FfTndSdU9UV2xoY2U3b243MG1QRjdlN3lSeUh6ZVhicXo1dGdLTG1USXh6cjNEMEl4MllKZFNqb3pSUl8zSjNvYmdjaFZ0U3A1LWFWRVZ0ZGFjTFo5NjhORmFFQmNVVHNGRm1Vbl93MUFMU2Q?oc=5",
-      "publishedAt": "2026-11-02T13:14:20+00:00",
+      "title": "Wojna na Ukrainie może się rozszerzyć. „Europa nie ma szans uniknąć starcia z Rosją”",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSkRNbHhuWnd2TG5kOEVmNW5aWFdmMVV2T254aWcwdXRDdmtJeDJxd210NUVtUkFIZ3JYcklSS3plbXp3VjFnUGhRNEluZmNPRll6QkN3ci1YZ0s0SlJaNG5DVnhWa0RidXdiSE5VZ1JXRl9KM29FLTlnM0ZOUkx4bmNzUEx2eURJUnZBRnR3a3BtZzdvZ3VfUmQzVmlGQUctbFpVNzU4ZTRaZDdUV3JMX3MyLURXRU5CUkxHSVhmeFU2cXR3WElZ?oc=5",
+      "publishedAt": "2026-11-03T09:04:20+00:00",
       "summary": "",
       "source": "Rzeczpospolita",
-      "category": "Zagrożenia",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Alarm w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnk5TEZwWTlIMEhKV2RFNU1UQVNnWDdxVUpHZnFNQlVULXRjTTV3QmlBa0hyVG5aMWFDMVl1S1l6c0V6aUEtUVBzQUNmeXI2Mmt4RjZNVEc2eVRyeUdaVExwbEpsRFFlNlRDV3BFRTg4ZDRmMTRaNkQ3MHgwbFRFZG05QVN3dXJFUEJNaWJZNTdxWGpzQUtLNUF1LTIzZUMxV2hra21RVnhKNXBsb1ZpaEVrMURNVWM?oc=5",
+      "publishedAt": "2026-11-03T04:53:00+00:00",
+      "summary": "",
+      "source": "PolsatNews.pl",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "CERT Polska wykrył 140 lodówek podatnych na atak hakerski. Jedna została już zaatakowana",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGY4RGZGM3NmZExmeDY0YVY2bGlMLTlSemh5LUtFWHJsd1pwTUEwdjVxaFRsaGM1eUludXJiWk9BUlFOOW5vaVJ4ZUFQUmhyS3oxeW82T2hFOUZ5THZEYk9SSUJOMkVmUktlcEg0WXdHWmlWUDVuTm0xLVpqQ0xUUDIxTExYcHRzUzV5Ui1XMGl5d2s3aTRjMFJ6cmNKRzZxVzNlbURuX2VkT1R4bG5ZWnpzdzgxdw?oc=5",
+      "publishedAt": "2026-11-03T13:07:42+00:00",
+      "summary": "",
+      "source": "Next Gazeta.pl",
+      "category": "Cyberbezpieczeństwo",
       "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
@@ -59,25 +68,77 @@
       }
     },
     {
-      "title": "Prawie 3000 kanadyjskich Senatorów dla Ukrainy. Jak Roshel zbudował swoją potęgę na wojnie?",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXE4NUtKZzR1c2Z2UEVZT2tBeHJXT2J1aGFFM2J6WndHRjVDZlljTmJsQTJXUjdlOWNhYXR0c1RiZU01emVSenBXLTloN3NJQlYtYTJMVmotWld0NXR6QVhlNVNCaWxFXzQtTEdqeTdBY05MUlRPdTRpTmRDa0d1MXhUYUNKcHNVYjdyanFHRUkzNVVDWHp5bG1fa0pKT2Y4SWRkV1l2Z3Z3Ni0wdkRqZzNjS0VkbUlxcExPLV9GN0FGWkdacXdRX01B?oc=5",
-      "publishedAt": "2026-11-02T11:46:33+00:00",
+      "title": "Rosja atakuje Ukrainę. Jest alert RCB dla części województwa lubelskiego",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVJmWDF3SHlYNU5WZHphaDFhRHpiNmFkSVQxS0lDby0tZGxuUUlPX0hCZnBWSmlNRkxFT2JRSWhNOFcyN21BcXNURTEteXRQSTIxREFKczYtTmNZemVoN1dVSktxU2tsWGNqYXRDelMxcExlM2ZkcmdRRTRhcndSMXo2M09fRWpFTUZVaG90TDR0NTNpcmRYbUwwUllXZzdZRWd4UzNpcw?oc=5",
+      "publishedAt": "2026-11-03T13:46:00+00:00",
       "summary": "",
-      "source": "Strefa Obrony",
+      "source": "TVN24",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "\"New York Times\": Rosja próbuje wykorzystać konflikt wokół Trybunału Konstytucyjnego do osłabienia wsparcia Ukrainy",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHpFekp1NVZNYXB6cVU0ZFFQM3dCSWxCb1E5WUNWVW1iUmdMeHMzOHVjNjBqb2VUVEhZTWJsWnpNRmo0czRaUmo5dWxYNUYxVnhHcVZhNDZNeXpkZmJURGYyQ1h0MzB4QXpnRTVNSzcyanJKUnNVZWF3bGZZNklTUHhRaGFCM1BvS3VQR2NxbURxQnhmbm9BSzZwRGhUT1dGYV9YTmtyNUdzNDItLUhiWFM0TG1LQXg3dVRWUWhxQjRQNXB5SnNNZDJpUGtsd3N0MHNnOFlkVHNaSk1jZHRV?oc=5",
+      "publishedAt": "2026-11-03T08:19:36+00:00",
+      "summary": "",
+      "source": "TVN24",
       "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Ukraińska obrona przeciwlotnicza zestrzeliła 257 rosyjskich dronów i 52 rakiety podczas nocnego ataku",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkJueldWRjRNR0ZVcVU1RkwtTE1tZWFLNEtPNTBkTk5ZNHRXNXh6QUsxUUVyVkxUY2w2cTRpeFhFUFA4THl6XzhIazVjSHBvdV9NaXpIYm1GXzRYQS13eXFfa1dYLWk5UkVkb1BHNXBRU3hLMy1DVWl3d05sTVh5RlVyd2Iyb1M2Mk9aLXJqeWw1dHRkRkNWNHRpc3Exb1hmZlFmX3I4V28?oc=5",
+      "publishedAt": "2026-11-03T08:52:52+00:00",
+      "summary": "",
+      "source": "UA.NEWS",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "CERT Polska płaci za wykrywanie błędów w rządowych serwisach",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2lMZU9kRkVWcWJYR3lXYVlyVGdnVm5BOTd4TnpwNEVIRHhyZU1FaFJrdkdsWWRxRFdsa2ZKalNCZmJVdHpJNW1Iamk2OGdXRlY4a2NNNkpQdndfemppeERUS21kNk9FUUl3NFZHcjZScjVCNWZuanNOUG0wYUdHUHFTYjhLZk5ucDBPZ2pib041aGdMRlpJQ2VFdm1CT1VXMUxBWTZuNy1EOG1IeEE?oc=5",
+      "publishedAt": "2026-11-03T12:14:14+00:00",
+      "summary": "",
+      "source": "INSTALKI",
+      "category": "Cyberbezpieczeństwo",
       "geo": {
-        "label": "Ukraina",
-        "lat": 49.0,
-        "lng": 31.2,
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
     },
     {
-      "title": "Nowe mosty dla polskich czołgów już w kraju. Dostawa M1110 JAB dla Wojska Polskiego",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY2diNlFqMHQyU1l6ZExGWUlqNGE2Y1dTcHVGNXo2RWxMMHdPcjBLbXRPekx3MnBhcmY5TWZseEZVVjJXeHU0T0d0SDVWZTRfelVLb3VkUHMxY2oxQVUzSDhYY216VTAzS2VFV3FBdE1Ec0dVY0ZYRk9zSVlqMURqNWFBUWlHOGJaSHlWOTh2WmY0Vm5hSEFfT016Y3VTUGJQWVVaeHA0U0JTZnBfSUxmX0ZVMlFtU09FaHc0OTAxTjRUcE16OW10N3FrdFI0ekd4ZVB3a29EV29TclFFSlJVbzFPQTVzdllXYmNHVjVxcE0?oc=5",
-      "publishedAt": "2026-11-02T10:00:00+00:00",
+      "title": "Rosja atakuje z powietrza. Mieszkańcy dwóch województw dostali alerty RCB",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFLV2ZvVXkwTTNublpMXzNfZ04yRnJHeTU2eWs4S2ZPVGFTSWZJSnU1NVh4ZDB5UlVQZUFOY1dmTTloV1lKSjZySjVmTkFVNXNLZ3B5MEN2LWt5YTlzQ2NBa0dDaGRpSzliUXU4OWxDZEZJNzd4TWFHMklLbHVmWEVWTTY2VzU2RmhzaXF5N2NMMXF1YWs5c1VudV9nQ0FMdDgtU1JNUDR2ZHgy?oc=5",
+      "publishedAt": "2026-11-03T06:42:00+00:00",
+      "summary": "",
+      "source": "Fronda.pl",
+      "category": "Zagrożenia",
+      "geo": {
+        "label": "Rosja",
+        "lat": 56.0,
+        "lng": 37.6,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Rozmowy o końcu wojny. USA organizują spotkanie delegacji z Ukrainy i Rosji. Jest termin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmdSWTBwUW1TYW9ZWkdiR1NGcmVwdUlZMlpFWW5lbmQ1Ml9laGVBN3ZGT0VOTmE5T1NZeXNRV1RldHg2V2NibTdXYXJ6M2FreUUzSXlyYlo1OExTNjdlZEhsVXJnSHpSZFZYM2lhWFhDd1hZaXF4akQyWlNMWXpWLWk4U2xaaFV5RzJidTQ4NGR1aE4zUWJfN0tiYS0tRkgxanVDZFlhUUh4MzQ?oc=5",
+      "publishedAt": "2026-11-02T23:45:09+00:00",
+      "summary": "",
+      "source": "Wiadomości Onet",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Wyjątkowy w skali NATO. Nowy standard badań medycznych polskich pilotów wojskowych",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVBzU2UtQjAzV2w2bTdpS3FXbG1zeU0yTGszeXBtVlkzOHJYNHRhbTBFTE12NDlBUXVZWV9LT3lVeWFqb1BMSUNSbDU5emgwUUdCSlo5UjNWODIwVHVFa1p2TUFfU2w3SzFFRzU3bnVNSUc4N0U1YlNWNTFwT0QwclM5ZDlKY2hfanhxaHFKR1JXUE5IaGMxZGk5ZWl4eEI4WEhXZ0hJSzZqVHRmMld5aVRjeUlsT1IxQ3RtZWoyNGpXT2loZURyTmdQYzZGeFVMTEVXNTFUblkxemN1aWpaV0ZSSQ?oc=5",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
       "summary": "",
       "source": "Portal Obronny",
       "category": "Obronność",
@@ -91,37 +152,12 @@
       }
     },
     {
-      "title": "Policja reaguje na zagrożenie przy granicy z Rosją. Wysłano grupy funkcjonariuszy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlI2eEw1cUkwdGVuNG8xV0JCdUw3RFljS1drdjNsTE9ReHJVTGFQTE1jckdiR2R6MVp6elUwVFZjZWotZUJUazY4cGVCdlM4M2lINVo4ZURkTWMyc2V1RE5IWGJGblIyVktUX1gzVThUVjB2NHF5M3g3bW8zZHVOX05GSnZWVV9GOGtia1ZBc1pEUFZJRk50V2hfZXNha2V6c0lOdVdNTnE4NTRaV1p0enc4VQ?oc=5",
-      "publishedAt": "2026-11-02T13:04:13+00:00",
+      "title": "Państwo płaci za szukanie luk w e-administracji. Milion złotych od NASK i CERT Polska",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUZBZkdXdVp4SVRHVkZXeDdNX0QyelpkbzJsQ0t4QmFHRkwxcE5wbUIyWHBnX2FsQVRNUUVWZlFDVHJWWEJsZVhjcldibGlhcy1rcjhON204ZWR5TGNoZGFXVTg0RFVFWDBrNVFkYnlKQmZNSVN0OFVVSnBpWkJFc3dLYmszSTdKZmxpcjBXTGJqclJ0cWZMR2hSUWoxaUdsaDV0YU5BNWY?oc=5",
+      "publishedAt": "2026-11-03T11:46:02+00:00",
       "summary": "",
-      "source": "Polskie Radio 24",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Od sygnałów wojny do błędnej oceny. Studium przypadku holenderskiego wywiadu przed inwazją Rosji na Ukrainę",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbUJQZGpsY0Rna3YtZTZWOVphcUFzSEdILXZCVk8zSW5nUEQyT09JRXdKcko4Q0F2dWxnSFNiMTJtT1luZnVxV3hTWDJNWHEzMEpiaDRzYlNDS2lFUlBTU19fNkc5VnVaSlpIMklQMnZLTmljXzlJak1zUnlLbnZxNkJlR2lDMDFGYzZaejYycEhMY0xYYUFGaDd2cjFGRzFyMk5FX2FsemxCMGlKTE4xSFljbUlFNWVGQzVISUxQcUJhdFlFWDJPbTZpSENPci1XMXFpSHBYWVNmNzlvcmxnbnZGVmJCM2N0MWEtcE41YUUzRWUwVkxETURMVU5VMEN1Q3c?oc=5",
-      "publishedAt": "2026-10-31T12:00:01+00:00",
-      "summary": "",
-      "source": "Defence24",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Nowe drony FlyEye dla Wojska Polskiego. Kolejne zestawy trafiły do kluczowych jednostek",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVHAxVDAtYlpDeXptMkp1QTNXeHBuWnJSaW51RmwxdkdrTDNnNno4SXRBc2pVOUJRTUN3cTBYczVyWk9ERGpfX3dCaGFHeExsM21TVURmeXc1OFlfTDNENlZLcE9qQ3Y3SVp3d2VWLUVDOUhyVlRZV2paaDBKNkJjeXNUZkJiY1hQdWlRMmxxaUs4TFFkdG56Vmw1WUtBcW5SUUkwajRUX25CamZZMGtRWHh0VkxlRWtSc0lvaGRoNVZSM3dSNVYwTnhhWTg0NkhHMmg3N2p2TUlmc05ER3hkQTFDaE9oR3Qyd3c?oc=5",
-      "publishedAt": "2026-11-02T08:30:00+00:00",
-      "summary": "",
-      "source": "Portal Obronny",
-      "category": "Obronność",
+      "source": "26. Piętro",
+      "category": "Cyberbezpieczeństwo",
       "geo": {
         "label": "Polska",
         "lat": 52.0,
@@ -132,79 +168,22 @@
       }
     },
     {
-      "title": "Ukraina i Rosja zgłaszają cyberataki na aplikacje alarmowe po zakończeniu rozejmu w Chersoniu",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlFZcFVZNTg1S240S1dkRGJGYmxYdUpFbDRobjMwNmptdnZlZG9tckZpa3g2aEsteWNmclVYcUpaV2FVZm1yVkFFOU1vaTlGRDRkOE16YXZUbkwxd0lvbHEyb3RTYWROb2tua2RGejdyalI5M3J3OExiOC0zZC15OTUtcjdGbDdIZl9yQ0lmWERjX01ocl9zeC1HTS0wME8zZ3pKZDh1RTZFbHVSTkxLY3dHa2N1X3ltVnlsWlBQS0ZPdmc?oc=5",
-      "publishedAt": "2026-11-02T08:50:51+00:00",
+      "title": "Jest alert RCB dla dwóch województw — Atak Rosji na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU1fOXQzTGN1cGhqeXpQR0NzdnlVdjYtdFQ0VXdBSkdCOTk2akFOcF9nU01kRDZXQW9Ia2JEVGlOUFVaMUxfYzc2X2V1dDEwUElQcUNzWTQ2ckNWa0syWWxNNXhxQTRMUjMxdGhoVzBOZ2VoLVl2T0Q1dlcxTllSQkhRbXZwU0xRVDA4?oc=5",
+      "publishedAt": "2026-11-03T05:38:15+00:00",
       "summary": "",
-      "source": "Euronews.com",
+      "source": "cedarnews.net",
       "category": "Zagrożenia",
       "geo": null
     },
     {
-      "title": "Polityka banku centralnego Rosji w warunkach wojny z Ukrainą",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnhyYjByaVlyZ3JITkh1Vm53Z1pmR0hsQzJSU3NMQXdzVVpyTVBNQ1k0VldwX080Y3VHY25YMVljZDJ6NV92S053Q21mazZkRnU0Rm9oYm5Ra1VXTGo0S2VzeXloNHBpamhLMHJCaDdmdF9uWGczX3NoaXVqeGtWbFJxNHdkNkhIbWV4TkhjOFhGR0tpelFKalFEVFNHUzFLRWJtYnF2TS15SjJjSS04Zmt3X0R1anpOX0w0Nm1IdGo1QmlmcGpvNUJaSQ?oc=5",
-      "publishedAt": "2026-10-31T04:45:19+00:00",
+      "title": "Wojna w Ukrainie. Ofensywa Rosjan na Zaporożu. Atak w rejonie kluczowego miasta",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTBBd29NREJpR3paQzJ1MXdTZElZZ0lJLWlLeURkRmI5cGdTY3dqV1FtTjNwV1hYTEN0YnJ0UlNiTGRSQ1VibFJWUFdXbFdpZGw5S3pxUm5mWjBlRVBrNkVIYWJnb082M3NFaDVBSWhBeThadHBLZksxR21CZldELU4wbm9vd0lqRC1XTnJHLWlvNE1ndEdfY2RBaFI3ZFNLSncyQURnaVZDVWIwNjVxMGZIamhBMXNNWEVmV1VxcGotZw?oc=5",
+      "publishedAt": "2026-11-02T17:43:00+00:00",
       "summary": "",
-      "source": "Obserwator Finansowy",
+      "source": "PolsatNews.pl",
       "category": "Geopolityka",
       "geo": null
-    },
-    {
-      "title": "Rosja zaatakowała Ukrainę 193 dronami, a obrona przeciwlotnicza zneutralizowała większość z nich",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnBma0RneW1JNE5EdE0yMjlLcGNMSnZ3QWt0MjVkR1RrZ1BDOHNRX3dld2V1S1c4Ulo5bnNRMkVaZGFjN0hNZEkyS2stdHhxYWFRVDZPYmkyOWhzVEVodEsyYk0yT1J6dFJFNnVScWgwdWgzcEYxVXdGendsaFNVV1NSTnNBel9kVmtmNUtpMFRFRnVUVkR0S1VRZ0dhN0U?oc=5",
-      "publishedAt": "2026-11-02T07:49:13+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Ostrzeżenie przed atakiem nuklearnym. Ukraiński system alertów zhakowany",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaGdZVF9ycFBCcUprU2xDZG53anIyT0JKX1RDZDVWc0gzUy0td0h3OTNLdjl6RnN5cWVQd2VxajVraG9xNEdhRjFKdTF1UHlCOXFKdExqNUkxaTVTMC1fTHhmTjZPdDhhRUNxWm01RVRYYVpINUVrZEdLTnBoRXN1NkFUTU9Uc19rUlNlNndOVGRDWEg2LVd4LTVCS3UwZHlXUnE3VW9fb2E5TzhONmszSjFUMXJveU8zeHVCako5Mko2Zy1KeUtaX2ZsdmhqcVVsVzRxUDFHRk8?oc=5",
-      "publishedAt": "2026-11-02T06:44:00+00:00",
-      "summary": "",
-      "source": "TVP Info",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Ukraina",
-        "lat": 49.0,
-        "lng": 31.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Mieszkaniec obwodu ługańskiego został skazany za zdradę stanu i udział w wojnie przeciwko Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMU5rS2tFZXNpUVRONC1DRUtCSFJOVm5ORl9fS1g0clk3clpaWkNYNVVlRGJkTHhwejB2Zk85WlY5RS1UWWpaTkR5cGp3YWs0bnlmVU9vTXplS0Mwb00tanVZMXZrMzFKVVFEMWpaN1QtMzdFNTVBamVpdnVoalFzb3AybUZBa2xkaHJXYk11SDlsbWZPaTNRb2g5ZUliOUo3QjEyd1psX1RtT2NRNWhIdA?oc=5",
-      "publishedAt": "2026-11-02T14:33:44+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Geopolityka",
-      "geo": {
-        "label": "Ukraina",
-        "lat": 49.0,
-        "lng": 31.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "„Rosjanie przygotowują się do ataku”. Nagrania z dronów pokazują ruchy wojsk",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcUpmaTR6UDAwb2lrRmFGSzhQRHV1a1pZdFhBX2hsY3hnS3hXUUtsMnlWN3lVbFZvbG42RG5rNDVjVExuc3dLZE9meFU1dFpTUDA0Um14MWN1TGNXU2VlLVZzVDJIMFFCWUliWEZmR3dWdkxuYjhqVW55bkM2RUlHY2pfd0k0V0k2TVEwbmpVdUNnR1RSeUNIWDhqMVdrbHNBVS1iNlhTdEtGb0wyUl90OUp3N3dpMU1fUUZPZ3gxVnZsbks0dUw4eXE3dXZ4cE1tOTdIdndB?oc=5",
-      "publishedAt": "2026-11-02T04:30:01+00:00",
-      "summary": "",
-      "source": "Defence24",
-      "category": "Obronność",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
