@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T14:21:15+00:00",
+  "generatedAt": "2026-11-04T14:37:28+00:00",
   "newsletter": [
     {
       "title": "Atak powietrzny w Ukrainie. Wydano alert RCB",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHpKbFhrTUZsMnpBMEpPUGtMaEFWYm4xMXNDZ19iMF9rd29HLTRGQnRHcGhfbE1zWV9rUF9YSHlWc2FMWTUtS1cySXRmMzVTa3MtdjJCN3dzYzZ0eU5rZHZsYWpnUHNzZnh4ZG5aaENwa05YUGJLa0lzTmJVU3drZWVjYndiTjd1d2F2d3lUdEhMMjkxbzlOcklIbnV4VzFrMWttWUYzQ29hTGtKa2gxZA?oc=5",
-      "publishedAt": "2026-11-03T13:58:47+00:00",
+      "publishedAt": "2026-11-03T19:36:27+00:00",
       "summary": "",
       "source": "TVP Info",
       "category": "Zagrożenia",
@@ -27,29 +27,13 @@
       "geo": null
     },
     {
-      "title": "Alarm w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnk5TEZwWTlIMEhKV2RFNU1UQVNnWDdxVUpHZnFNQlVULXRjTTV3QmlBa0hyVG5aMWFDMVl1S1l6c0V6aUEtUVBzQUNmeXI2Mmt4RjZNVEc2eVRyeUdaVExwbEpsRFFlNlRDV3BFRTg4ZDRmMTRaNkQ3MHgwbFRFZG05QVN3dXJFUEJNaWJZNTdxWGpzQUtLNUF1LTIzZUMxV2hra21RVnhKNXBsb1ZpaEVrMURNVWM?oc=5",
-      "publishedAt": "2026-11-03T04:53:00+00:00",
+      "title": "w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlpFc2hzOEloUnlTeGtaNjU1MGdPX2tvQXVMeGM5ajhocWFJWmVBVFg0cVVDTkQ2Yi1ScTdWZVpjbkpCLVdBMWRGMUJlRTNCdHF2cEdZSkdvalNMZkwzb0pEOG11aVhkQXBKb1VGOTVQeUhEcHZQTjRFS25LZjhWR1I1ZFR0RW9FNXRHUW1fLVVGSHhZVXdTTUtn?oc=5",
+      "publishedAt": "2026-11-03T05:03:17+00:00",
       "summary": "",
-      "source": "PolsatNews.pl",
+      "source": "cedarnews.net",
       "category": "Obronność",
       "geo": null
-    },
-    {
-      "title": "CERT Polska wykrył 140 lodówek podatnych na atak hakerski. Jedna została już zaatakowana",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGY4RGZGM3NmZExmeDY0YVY2bGlMLTlSemh5LUtFWHJsd1pwTUEwdjVxaFRsaGM1eUludXJiWk9BUlFOOW5vaVJ4ZUFQUmhyS3oxeW82T2hFOUZ5THZEYk9SSUJOMkVmUktlcEg0WXdHWmlWUDVuTm0xLVpqQ0xUUDIxTExYcHRzUzV5Ui1XMGl5d2s3aTRjMFJ6cmNKRzZxVzNlbURuX2VkT1R4bG5ZWnpzdzgxdw?oc=5",
-      "publishedAt": "2026-11-03T13:07:42+00:00",
-      "summary": "",
-      "source": "Next Gazeta.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
     },
     {
       "title": "Cyberatak, blackout, paraliż infrastruktury krytycznej. Czy Polska jest gotowa na ataki hybrydowe?",
@@ -68,11 +52,20 @@
       }
     },
     {
-      "title": "Rosja atakuje Ukrainę. Jest alert RCB dla części województwa lubelskiego",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVJmWDF3SHlYNU5WZHphaDFhRHpiNmFkSVQxS0lDby0tZGxuUUlPX0hCZnBWSmlNRkxFT2JRSWhNOFcyN21BcXNURTEteXRQSTIxREFKczYtTmNZemVoN1dVSktxU2tsWGNqYXRDelMxcExlM2ZkcmdRRTRhcndSMXo2M09fRWpFTUZVaG90TDR0NTNpcmRYbUwwUllXZzdZRWd4UzNpcw?oc=5",
-      "publishedAt": "2026-11-03T13:46:00+00:00",
+      "title": "Cyberatak na system do rozliczania dotacji. Możliwy wyciek danych",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzNjWHFiVkFseXp0NTFsZTR2bXFCcDk0ZmdTdlVRdm5GNkpkV2ZPVlI3eEV4NUYzYlFFTnNwX0Q2YmhKZHpKc1dtUW5DYnRNaXhyZ19BYjYtVVBYTWh5aFctY2d4Q1VDZUw4cGhZWk1yWXlNWGx6VjdIejdTMkdBbzZDRlRhWFFmNk1wa0dXeXo4RWpZQVhqc20tTHJVTlZqc3NWTFo2SDgyTXhxZHpocjhn?oc=5",
+      "publishedAt": "2026-11-04T06:52:00+00:00",
       "summary": "",
-      "source": "TVN24",
+      "source": "RMF24",
+      "category": "Cyberbezpieczeństwo",
+      "geo": null
+    },
+    {
+      "title": "Rosja atakuje Ukrainę. Alert RCB na wschodzie Polski",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0Fld1NaTUJtZHlFd3lIQmJkWlBhLWpBMXNhdEpmSWlOZWdwWVVrOFR3VmZuMmdTVXZQTTFVWkNQekRDZkJvak1nUXVjLVljN2tueENyRHZ3RHExX0lwVVItM0tWaUVPd2VUZEZGeTB4MWNXbHc5WVdPZEhpUjN3ekRMcmxxaWI2MkxXZFE5bDRlZGozY085Y0JJMmFlWVUw?oc=5",
+      "publishedAt": "2026-11-03T19:13:00+00:00",
+      "summary": "",
+      "source": "PolsatNews.pl",
       "category": "Zagrożenia",
       "geo": null
     },
@@ -86,45 +79,40 @@
       "geo": null
     },
     {
-      "title": "Ukraińska obrona przeciwlotnicza zestrzeliła 257 rosyjskich dronów i 52 rakiety podczas nocnego ataku",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkJueldWRjRNR0ZVcVU1RkwtTE1tZWFLNEtPNTBkTk5ZNHRXNXh6QUsxUUVyVkxUY2w2cTRpeFhFUFA4THl6XzhIazVjSHBvdV9NaXpIYm1GXzRYQS13eXFfa1dYLWk5UkVkb1BHNXBRU3hLMy1DVWl3d05sTVh5RlVyd2Iyb1M2Mk9aLXJqeWw1dHRkRkNWNHRpc3Exb1hmZlFmX3I4V28?oc=5",
-      "publishedAt": "2026-11-03T08:52:52+00:00",
+      "title": "Alarm w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnk5TEZwWTlIMEhKV2RFNU1UQVNnWDdxVUpHZnFNQlVULXRjTTV3QmlBa0hyVG5aMWFDMVl1S1l6c0V6aUEtUVBzQUNmeXI2Mmt4RjZNVEc2eVRyeUdaVExwbEpsRFFlNlRDV3BFRTg4ZDRmMTRaNkQ3MHgwbFRFZG05QVN3dXJFUEJNaWJZNTdxWGpzQUtLNUF1LTIzZUMxV2hra21RVnhKNXBsb1ZpaEVrMURNVWM?oc=5",
+      "publishedAt": "2026-11-03T04:53:00+00:00",
       "summary": "",
-      "source": "UA.NEWS",
+      "source": "PolsatNews.pl",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "CERT Polska płaci za wykrywanie błędów w rządowych serwisach",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2lMZU9kRkVWcWJYR3lXYVlyVGdnVm5BOTd4TnpwNEVIRHhyZU1FaFJrdkdsWWRxRFdsa2ZKalNCZmJVdHpJNW1Iamk2OGdXRlY4a2NNNkpQdndfemppeERUS21kNk9FUUl3NFZHcjZScjVCNWZuanNOUG0wYUdHUHFTYjhLZk5ucDBPZ2pib041aGdMRlpJQ2VFdm1CT1VXMUxBWTZuNy1EOG1IeEE?oc=5",
-      "publishedAt": "2026-11-03T12:14:14+00:00",
+      "title": "Rosja uderza w ukraińską energetykę. Zagrożone bezpieczeństwo elektrowni jądrowej",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE9xOEUxWldCOGU0QngxWkxDVmw3VlhRUDRFZ1Vyd3pZUkREOXFkM1BIYWJPRW16T09YdnJNdWxCUFp1Si1adkpoclV1VFFabUpsTW9hdFJGOHRxRzh5d3g2RlE5RUZGUXJHcTZsNTkwOVJUM3I3VThJWUgxYnJmQXc5SERtOHhhU2oxZXd3Wi1ZNmRzT2YxZGw1Rmx6Y25LbmROTEQ5ZEZITl9ic1lLNmlvaw?oc=5",
+      "publishedAt": "2026-11-03T20:45:10+00:00",
       "summary": "",
-      "source": "INSTALKI",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
+      "source": "Business Insider Polska",
+      "category": "Energia i infrastruktura",
+      "geo": null
     },
     {
-      "title": "Rosja atakuje z powietrza. Mieszkańcy dwóch województw dostali alerty RCB",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFLV2ZvVXkwTTNublpMXzNfZ04yRnJHeTU2eWs4S2ZPVGFTSWZJSnU1NVh4ZDB5UlVQZUFOY1dmTTloV1lKSjZySjVmTkFVNXNLZ3B5MEN2LWt5YTlzQ2NBa0dDaGRpSzliUXU4OWxDZEZJNzd4TWFHMklLbHVmWEVWTTY2VzU2RmhzaXF5N2NMMXF1YWs5c1VudV9nQ0FMdDgtU1JNUDR2ZHgy?oc=5",
-      "publishedAt": "2026-11-03T06:42:00+00:00",
+      "title": "Cyberatak na system ministerstwa kultury. Możliwy wyciek danych",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTVpTlBwc24yWFhjRE9aYmJTc0Z0U2ZFODB6MzUxWnpTSEpIdk1HR1NQc21iVTJQaXNkZXdQZmZiNG40Z1A5STZfLWZUZFJ3ZnZITjFDSzdPNW5jeEhqZHltRWtvUDdFeThQc1Mwb21KU1ZqU3ZHbVl6VXY4b2stVHpEUWVDTHB6UUd6SmxadUgwOXAzODF4UVhYVEhTV0E2N2RvMG5PR1g3ME0tNlV1aUJYNlJNdEFS?oc=5",
+      "publishedAt": "2026-11-04T05:44:00+00:00",
       "summary": "",
-      "source": "Fronda.pl",
+      "source": "Radio dla Ciebie",
+      "category": "Cyberbezpieczeństwo",
+      "geo": null
+    },
+    {
+      "title": "Nowy alert RCB. Atak Rosji w zachodniej Ukrainie",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDd4cTc4M2tsa1lIVVpCenhjNzd4d2d4QU5mNHJaOThSUWptQzZCb0VlNTllR09YdHFsVWhlMDl6akZqalhwalZkV3FudktwVF93RzMtZ0RkUjZ6MlJxZ1lqaGJzU1lPN0t2ZHVsdHJ4b1RoQTJsQ0pOQnVNRF92emxkWUg2eWVQOC04dA?oc=5",
+      "publishedAt": "2026-11-03T18:43:35+00:00",
+      "summary": "",
+      "source": "Wiadomości Onet",
       "category": "Zagrożenia",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
+      "geo": null
     },
     {
       "title": "Rozmowy o końcu wojny. USA organizują spotkanie delegacji z Ukrainy i Rosji. Jest termin",
@@ -136,11 +124,11 @@
       "geo": null
     },
     {
-      "title": "Wyjątkowy w skali NATO. Nowy standard badań medycznych polskich pilotów wojskowych",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVBzU2UtQjAzV2w2bTdpS3FXbG1zeU0yTGszeXBtVlkzOHJYNHRhbTBFTE12NDlBUXVZWV9LT3lVeWFqb1BMSUNSbDU5emgwUUdCSlo5UjNWODIwVHVFa1p2TUFfU2w3SzFFRzU3bnVNSUc4N0U1YlNWNTFwT0QwclM5ZDlKY2hfanhxaHFKR1JXUE5IaGMxZGk5ZWl4eEI4WEhXZ0hJSzZqVHRmMld5aVRjeUlsT1IxQ3RtZWoyNGpXT2loZURyTmdQYzZGeFVMTEVXNTFUblkxemN1aWpaV0ZSSQ?oc=5",
-      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "title": "Wojsko Polskie z nowymi Rosomakami. Mają armatę 30 mm i rakiety Spike",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2dDbkdmajViZHBCR19TMFlpcHJBN0FkRUxrMmFNYTVnMEpobUN0b3B1RkNHdDU2WWZ1TG1kS1lKVklObmFPQ3p0QzhEWEtqWE5GakhKODI4QUNFOGt6TW1uVDNjanZfUWJHS0JSZ0hpM1FGMnV1cUxTNWxYZ0lob1c0ZHBxYnROS3BqR3FxQS1BNkNLbHAwR1VpeFlkTjJ4ODRuUlB2RlJYVXZVSWRFc040VQ?oc=5",
+      "publishedAt": "2026-11-04T13:13:10+00:00",
       "summary": "",
-      "source": "Portal Obronny",
+      "source": "Geekweek Interia",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -152,11 +140,11 @@
       }
     },
     {
-      "title": "Państwo płaci za szukanie luk w e-administracji. Milion złotych od NASK i CERT Polska",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUZBZkdXdVp4SVRHVkZXeDdNX0QyelpkbzJsQ0t4QmFHRkwxcE5wbUIyWHBnX2FsQVRNUUVWZlFDVHJWWEJsZVhjcldibGlhcy1rcjhON204ZWR5TGNoZGFXVTg0RFVFWDBrNVFkYnlKQmZNSVN0OFVVSnBpWkJFc3dLYmszSTdKZmxpcjBXTGJqclJ0cWZMR2hSUWoxaUdsaDV0YU5BNWY?oc=5",
-      "publishedAt": "2026-11-03T11:46:02+00:00",
+      "title": "CERT Polska uruchamia bug bounty z pulą miliona złotych",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzFPNjNyRkFpS2xHb3NZLUtpWDFqTW1FZXlDdmJaOVVrNkQtWkF2MEF1V2hPaWpTMXRaeGJVQzVQcVFNbFlCejM1MHdrbVU5M3VUWjU0TjNpUENFbTlnX2tpOGhKMWU3LVZ2Ny1FNm5tbklDVlNpTDYxdURsU0M4VmlXUDQ?oc=5",
+      "publishedAt": "2026-11-04T08:35:45+00:00",
       "summary": "",
-      "source": "26. Piętro",
+      "source": "ITReseller",
       "category": "Cyberbezpieczeństwo",
       "geo": {
         "label": "Polska",
@@ -168,21 +156,12 @@
       }
     },
     {
-      "title": "Jest alert RCB dla dwóch województw — Atak Rosji na Ukrainę",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU1fOXQzTGN1cGhqeXpQR0NzdnlVdjYtdFQ0VXdBSkdCOTk2akFOcF9nU01kRDZXQW9Ia2JEVGlOUFVaMUxfYzc2X2V1dDEwUElQcUNzWTQ2ckNWa0syWWxNNXhxQTRMUjMxdGhoVzBOZ2VoLVl2T0Q1dlcxTllSQkhRbXZwU0xRVDA4?oc=5",
-      "publishedAt": "2026-11-03T05:38:15+00:00",
+      "title": "Alert RCB na Lubelszczyźnie. Rosyjski atak powietrzny na Ukrainie",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGNvZEo3U1lVZHFqTUk5Uzk4aFVtbXpBemEyaWpCYmJJVEtTS2Q3bXlWcGNIeTVETWpQb1I0alRHMzJaY2xCSjJISnFWdnpFOG5hdk1EcGdjNnNTc0N1SVBMUVF4Qzhsc0hnc1B2TUIxY01UTTNONHJkRUotaUhhZm1HemJ3Qi1jeEdKdHFDSUozZHd1V1FBOXoydzd5SVZna2JnOFV1ZkFVYkFBSXZTSWpCS2M?oc=5",
+      "publishedAt": "2026-11-03T14:00:00+00:00",
       "summary": "",
-      "source": "cedarnews.net",
+      "source": "RMF24",
       "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Wojna w Ukrainie. Ofensywa Rosjan na Zaporożu. Atak w rejonie kluczowego miasta",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTBBd29NREJpR3paQzJ1MXdTZElZZ0lJLWlLeURkRmI5cGdTY3dqV1FtTjNwV1hYTEN0YnJ0UlNiTGRSQ1VibFJWUFdXbFdpZGw5S3pxUm5mWjBlRVBrNkVIYWJnb082M3NFaDVBSWhBeThadHBLZksxR21CZldELU4wbm9vd0lqRC1XTnJHLWlvNE1ndEdfY2RBaFI3ZFNLSncyQURnaVZDVWIwNjVxMGZIamhBMXNNWEVmV1VxcGotZw?oc=5",
-      "publishedAt": "2026-11-02T17:43:00+00:00",
-      "summary": "",
-      "source": "PolsatNews.pl",
-      "category": "Geopolityka",
       "geo": null
     }
   ],
