@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-05T14:42:25+00:00",
+  "generatedAt": "2026-11-06T14:20:15+00:00",
   "newsletter": [
+    {
+      "title": "Od początku wojny na pełną skalę Rosja przeprowadziła przeciwko Ukrainie prawie 17 tysięcy cyberataków — Służba Bezpieczeństwa Ukrainy (SBU)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSk1pN2RMMTVSdUp0X25QMTJxZnRwYzZ3VlhEQklzcDZ1WmhrU1RmenNJa0FPdkJFNUo1ODZRb1NzUEpXWUtLSlFMZ3cwcm5QT2RiR0ZKa3BSd096UjJoYXp5TXJKWFVuUkpHd2Rqb01hVW4yUkUxdkU2LWItc1FmT3FFOUxITEpxcUFqQzZQdE1GcnhqcGJxU1dWMWFNM0dMa3FuM0FKc3FicjFneGF4MEFoeEU3clNMZ3hHZC1oNW9QRDB0UXFjWg?oc=5",
+      "publishedAt": "2026-11-06T12:57:49+00:00",
+      "summary": "",
+      "source": "UA.NEWS",
+      "category": "Geopolityka",
+      "geo": null
+    },
     {
       "title": "Wojsko USA zmienia pozycje na wschodniej flance NATO. Żołnierze przeniosą się z Polski na Litwę",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkZHMkdMM0dOTmQzZVdkOW5IOXUyWjJzWnVjYXIySnhVUEQtRVVESkF6aFdZNjBoLW1VYWhGRVJGRHYwRkxkYXMwdGtaVVBqNEpvWG5vNzZFX3B1M1hJS3lrZUllSXJNS01oYWk0cDBOa2dfR2NWVTdKVnNzSHlGN21mVnZCenJkZ0dNTmwwWDRaVzRDdXBwM3poNTl1dEFNYWtaSnNxRTRHcDJJTTNkbUI5TW1JRDlMMzRvUklxaVM?oc=5",
@@ -8,15 +17,6 @@
       "summary": "",
       "source": "Gazeta",
       "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Buriacki szaman przygotowuje się do złożenia w ofierze 60 wielbłądów, aby zapewnić Rosji zwycięstwo w wojnie przeciwko Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTlacWFYN1NNTnU1T0ZJU2dBNnJHeXlLT2pNVU1FN1pIUVgyVXdSYnZCbGJyWGhlbnFHWjNvY2VLODRWTEJ2TWMtckVRTzJzdW00MGlHOG1XcW9YWFRMclNjUGJPZ2o5bFYyeGFNa29FMTVzOE5aNnFGMFZNaGpaRWk1a2gwZFNsOEs1U0M5T0tfUzZWbGlwNlVzVkJlcUVoX05BZVBGRlFvZll1YmJKV0F4UWdqbUZfbnNwUlpEeGJUUVV3U1lsV2ZyU0ZYUWx5eHc?oc=5",
-      "publishedAt": "2026-11-05T13:32:24+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Geopolityka",
       "geo": null
     },
     {
@@ -36,11 +36,11 @@
       }
     },
     {
-      "title": "CERT Polska wykrył 140 lodówek podatnych na atak hakerski. Jedna została już zaatakowana",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGY4RGZGM3NmZExmeDY0YVY2bGlMLTlSemh5LUtFWHJsd1pwTUEwdjVxaFRsaGM1eUludXJiWk9BUlFOOW5vaVJ4ZUFQUmhyS3oxeW82T2hFOUZ5THZEYk9SSUJOMkVmUktlcEg0WXdHWmlWUDVuTm0xLVpqQ0xUUDIxTExYcHRzUzV5Ui1XMGl5d2s3aTRjMFJ6cmNKRzZxVzNlbURuX2VkT1R4bG5ZWnpzdzgxdw?oc=5",
-      "publishedAt": "2026-11-03T13:07:42+00:00",
+      "title": "„My na wojnie już jesteśmy”. Wiceminister Wziątek o cyberatakach, sabotażu i dezinformacji wymierzonej w Polskę",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWEhyamotRFhsV0FxRzZnTXlBbVJ5MGp0N1Y3NnVGWnp0OG54V295RFF2bElseU80SWQzUWdvWHRZd1BBVnRGRHZpeVdZX3piVm43STBDMTZfV2VxRTNtVjU1VUhEcWlrVllJR3B4VDNTVWk1RDJ0V1B3MnJJVmU0QXl2eEtBaFZORjZURDYwck9GaTZnSS10aUlIME56bHZ5NHB4bFJqOW9hVXRRT1ZDNk5uVmtwWUVMZWRJcUdxUDZIYVlBOFluSVluUkJMNlJXUHM1ZnhSdEJERmUxTkZzUGZ1UzAzUXVpc2wxblI0TFJicF9nMFA0?oc=5",
+      "publishedAt": "2026-11-06T10:54:00+00:00",
       "summary": "",
-      "source": "Next Gazeta.pl",
+      "source": "Portal Obronny",
       "category": "Cyberbezpieczeństwo",
       "geo": {
         "label": "Polska",
@@ -61,21 +61,21 @@
       "geo": null
     },
     {
-      "title": "Rosja zaatakowała Ukrainę dronami i rakietami, a obrona przeciwlotnicza zniszczyła 105 bezzałogowych statków powietrznych",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ4QmEyNDF5OWJNWlo3ZW5pLV83aHBxOVMyZzV5eDEwVFEzR1BNa3RpbmVfQ0xxUW04M0xrbUQyY08yYUwtLTR0cWxyTm9qWnd4VGtpMjFJMldrX0daYWFDd2dXQmg4NENXc1dmdndyT2dzZHZ0NW1TZzBWSF9BeWN3X2xqZnh4NldBenZEYXdWSjZkaHVDN2lTYlRUaV9nWVlZaEp2U0NiZzg?oc=5",
-      "publishedAt": "2026-11-05T07:42:37+00:00",
+      "title": "Idzie zima, a wojna trwa dalej. Ukraina i Rosja męczą się jak tylko jest to możliwe",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeEVTY2NjSG5Vd1JrUFo3djRpbXUwNDFLQUJRakJSQjNRUmVKQjRWRDRJYVVEbWNjb2JwdkZrX3I0RThJOWVDbmNVOGRWLTlmUkhrREx2QzYzSkdpT3lFc2FyUzJzSjRDa01pdzFrQ09CMUhfLXdmYmxPNHAyS1hLNk5oZ2pUN2dROVB3ZEF4UElGWk45c0lNSW5qTDFoVGVyZkNDTE56eUcwWm1ZVHNjVjY5RmtxVzZZMFhoOFNjWUFabDlG?oc=5",
+      "publishedAt": "2026-11-06T10:18:23+00:00",
       "summary": "",
-      "source": "UA.NEWS",
-      "category": "Obronność",
+      "source": "Obserwator Gospodarczy",
+      "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Rozmowy o końcu wojny. USA organizują spotkanie delegacji z Ukrainy i Rosji. Jest termin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmdSWTBwUW1TYW9ZWkdiR1NGcmVwdUlZMlpFWW5lbmQ1Ml9laGVBN3ZGT0VOTmE5T1NZeXNRV1RldHg2V2NibTdXYXJ6M2FreUUzSXlyYlo1OExTNjdlZEhsVXJnSHpSZFZYM2lhWFhDd1hZaXF4akQyWlNMWXpWLWk4U2xaaFV5RzJidTQ4NGR1aE4zUWJfN0tiYS0tRkgxanVDZFlhUUh4MzQ?oc=5",
-      "publishedAt": "2026-11-02T23:45:09+00:00",
+      "title": "NATO szykuje się na uderzenia w głąb Rosji. Polski generał: cel to przemysł zbrojeniowy",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwMGlKa0dlVVJVaHFwd2tnUFBnM1FlRTE4T1NZRU1Hci13YkRoODM4YTdQbERabWdmOWdKSW5yd1Z6a1RjZ2k2MkhkNjJjRWZ2ZG9OcG01UkI2ZndLSVl6WQ?oc=5",
+      "publishedAt": "2026-11-06T09:28:17+00:00",
       "summary": "",
-      "source": "Wiadomości Onet",
-      "category": "Geopolityka",
+      "source": "Nasza Polska",
+      "category": "Obronność",
       "geo": null
     },
     {
@@ -90,7 +90,7 @@
     {
       "title": "CERT Polska: w kraju doszło do cyberataku na urządzenie chłodnicze",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnplTko3cUpHQzJaUjlOdzdReUlVY2tjbThQaTdpSEREN29mYTRhTEIwY0psdGtRaTFHTE0yN2xMcXBuZTVzTFZONFhOdWNMcFlGWHdpTS02b21mQUdrb1N1c2Y2U1JyekJLSGczQlV4bjVZOV9LMElkT01ReWlMYTd6VDEwWktnaV9USzRSTGdza1Rwc3h4a1lkZWU?oc=5",
-      "publishedAt": "2026-11-03T12:25:00+00:00",
+      "publishedAt": "2026-11-04T15:40:00+00:00",
       "summary": "",
       "source": "Polska Agencja Prasowa SA",
       "category": "Cyberbezpieczeństwo",
@@ -104,20 +104,54 @@
       }
     },
     {
-      "title": "Alarm w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnk5TEZwWTlIMEhKV2RFNU1UQVNnWDdxVUpHZnFNQlVULXRjTTV3QmlBa0hyVG5aMWFDMVl1S1l6c0V6aUEtUVBzQUNmeXI2Mmt4RjZNVEc2eVRyeUdaVExwbEpsRFFlNlRDV3BFRTg4ZDRmMTRaNkQ3MHgwbFRFZG05QVN3dXJFUEJNaWJZNTdxWGpzQUtLNUF1LTIzZUMxV2hra21RVnhKNXBsb1ZpaEVrMURNVWM?oc=5",
-      "publishedAt": "2026-11-03T04:53:00+00:00",
+      "title": "Trump sugeruje możliwość „dużego i dobrego” porozumienia między Rosją i Ukrainą.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXlaTmExaENsUmRUbENaamliR1NSUUE1ZmlEVTlmNTN2UmVCSDExVG1jNEdEa0VGVDBLMEZJbGVhRlp5TnBpVDVwWXVSMi1DYjBsZFJfZkRyTmg2QkVHMEtBUGRZakdPUDRoVk5sX0haV1hDVEZIelkteUliU242c3NQMVcyRlVlWEJkM290Q2UxUzJfUUdR?oc=5",
+      "publishedAt": "2026-11-06T14:10:36+00:00",
       "summary": "",
-      "source": "PolsatNews.pl",
-      "category": "Obronność",
+      "source": "Vietnam.vn",
+      "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Ukraina przed inwazją. Spór, który mógł zmienić przebieg wojny",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelVSYUpnZmdlWmtaUmNwTGdJR1dOekRUdWNvUEdvX0JCNlpkb2VnRFdfUkgxQ29BUVVXQ3g3MTlFMFo0UFEzNHo1RUZPMXAtNGNJamZGVHhkVXdFMlY2bHIxaHJUajdEcWpyZWwxS2h4R3NVWjBMOTFXTWRMdWJZd0hQZk1FbFhsbkFiTU5tdXNrWGRVb0JwWWRXZks3RTVSUFZWci1KOTFIY1M3bFdZWVpNc2d4WHNaeXppLTFQT1FvRUVGa1E?oc=5",
-      "publishedAt": "2026-11-05T12:30:00+00:00",
+      "title": "Nowe mundury polowe „Ryś” dla Wojska Polskiego zaprezentowano w Łodzi. Za trzy lata każdy żołnierz zostanie w taki mundur wyposażony",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbDlMZTIwMk5sc1dPQ2REUGlBamNHWE43VU8zMURYdGpUT3BfZEk4Q2poVDY4b2tpQjlTX1dlRUNTeDFsMHVWUUlwYVF2Q2FIUlpveUlGSU00T2tmeWxub2RLZDl1bzVjcEJNWkZkM01yb1BneThNeHJXSEpKM2ZHOTNyYS1JcHB2Q0JJdUZia1ZUbVVIci01YUxYRDNVSkNQWTdwRm9tM05Kc1piaVowa09kWHYybDZGZm5qZTMxVnE5cHl2U2lPZHRvTFZuT3lMUks2VHZnU2RyeFRFbVRqUmRnNDBOQkJvRkVGaDJzQ3ZkNTFnZEpud2xjRzAteWRXS0liRUNlaw?oc=5",
+      "publishedAt": "2026-11-06T09:13:55+00:00",
       "summary": "",
-      "source": "Onet",
+      "source": "Express Ilustrowany",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Odwołano alert RCB dla Lubelszczyzny. „Brak zagrożenia”",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcU9hWEROd3hUSG1yNjdaS3lPa0RFMjdRdGtaN3JNYkxTdE1OY0cxVWhfWlFOWDFGNVZPRm1VUXNLb2dBNVBOaDgwd3hIUHBqcHVwNk4zNTFhdmZIaDl5dC13MlNmR1dXclZrRG9PM2pOY2RhZTB4bmRBZkZqbTdGN25seWdEOHB2S0hFek1CVUxNTHlzRXpWT1ZUME1HU2RmOGo4LUFEQ2UzQ3NzOHRmVVJPcko0NGVHLXJOMkE5Ml9zSnBndkRmSg?oc=5",
+      "publishedAt": "2026-11-03T19:42:00+00:00",
+      "summary": "",
+      "source": "VOX FM",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Paweł Kowal ostrzega: „Rosja jest bardzo groźna dla Polski”. Jak walczyć z dezinformacją Kremla?",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcDZZQXQyRm4xVFNmUVN2UVZEVDlDemt4Q0p6dHlZVmRfSktlOTQ1cFBaczV3Q1h5WVFaSWRKSWluTVo4a082TDhwYTNQTUNLUjBtV0pYRndDaFZUdC1TUmdZWENkdzJzcTdwZHU3cEljSDl3Vi1LQVh1akR6MmV5c01KbkZRcGNLeVFpcGZaYjhtMTJGX1kyeVQwMUlWWDhjVkRIdUtFeDFGSGw4am1ybkZMRUVxdll4bmxpcmRwOWFwR0tQNXdz?oc=5",
+      "publishedAt": "2026-11-05T07:00:17+00:00",
+      "summary": "",
+      "source": "Nowiny 24",
+      "category": "Cyberbezpieczeństwo",
+      "geo": null
+    },
+    {
+      "title": "Infrastruktura to bezpieczeństwo. Czego uczy wojna na Ukrainie?",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEtnOEZFLVBXLWw1ZGpiN3RXUnNxTzhRZkgzSFd2MGhaWEdKSGhNUmNRMEY2VzkzZ3BjemJxeG1lMGw0Y1NZTjZ2RHlXbXpkbDB6QlhuRjFoNTZxbWpjLUg1SXJRV3pCYVVpTE11MTh4RG1takwwVlRheG9zNXZSQ3hNelVQaFpTXzRwZU9DZHZHWndRTUpsZEVrYkp4Mi1fckZqNVlPQXNPZmZpMUs0bEJWWjdqYmRWeG0yZHVOdU1YcFVoNWEwSy1Ecko4Y0VIU2lr?oc=5",
+      "publishedAt": "2026-11-06T13:38:16+00:00",
+      "summary": "",
+      "source": "Rynek Infrastruktury",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
@@ -129,43 +163,16 @@
       }
     },
     {
-      "title": "Kolejny alert RCB na Lubelszczyźnie. Rosyjski atak powietrzny na Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclMwajExdjFuZkxmT2lJaENjX2dDTGtxRWVWWlVCOGdoTU41WWtiUzBJU3JVM0hfVTNvUXlUM1lxdDBrRVB6X1pLYlpqdmp1SFVadkxkWU1KSVNxVTg4X2xHc0tKaWttdTFUU3dUbkNJbTFlQVFQbGMyLUFycThEUzV5YjM1MzBaMkNJODhHMVc3UHl6R3ZocUNGY0NhWEkyRGs1cFFoRjVUV2NUWHFxay1uYjA?oc=5",
-      "publishedAt": "2026-11-03T14:00:00+00:00",
+      "title": "Ważna zmiana w Wojsku Polskim. Armia przechodzi na kamuflaż \"Ryś\"",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVjhyX2xrc01pV0RJRDJjM1lHdno2N3dvM1Brb2o2cVlabjNmUmtaVE55VHByZVFnaWRQXzdpd1FQZW5BeU8tNXRxOUEweUdmakNSU0U0VF9oUEVCaGZNSENVUnBWeFBiRWFoeTdwZV9VWnMwS1o1c3Y2NjdNbWk3OWpLbWVfc2Y3NDhkX2pkeVJKRlFxbG01OGM5SEROV2JzYS1SZVhpU3JidW91T0E?oc=5",
+      "publishedAt": "2026-11-05T18:33:56+00:00",
       "summary": "",
-      "source": "RMF24",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Cyberatak na system do rozliczania dotacji. Możliwy wyciek danych",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzNjWHFiVkFseXp0NTFsZTR2bXFCcDk0ZmdTdlVRdm5GNkpkV2ZPVlI3eEV4NUYzYlFFTnNwX0Q2YmhKZHpKc1dtUW5DYnRNaXhyZ19BYjYtVVBYTWh5aFctY2d4Q1VDZUw4cGhZWk1yWXlNWGx6VjdIejdTMkdBbzZDRlRhWFFmNk1wa0dXeXo4RWpZQVhqc20tTHJVTlZqc3NWTFo2SDgyTXhxZHpocjhn?oc=5",
-      "publishedAt": "2026-11-04T06:52:00+00:00",
-      "summary": "",
-      "source": "RMF24",
-      "category": "Cyberbezpieczeństwo",
-      "geo": null
-    },
-    {
-      "title": "Siły Zbrojne Ukrainy zniszczyły bazę startową rosyjskich dronów na Krymie oraz szereg obiektów wojskowych okupantów",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmxETUJ0ZW9kaVVfbDc0U2FTUG96cWN4dG5PaFNfWE41clYwQkdWN0kzNU92WGlGbkI3bkx3WENwc0trb1FVZF9QU29JdTh5d3ZSUWh6M2EtbGdTUWJzRW9aVXFTUVdkMmFCcW44MW9VX3p1VXpXTFZSUm9IQXVfdDdLdDBFRnBMbUlLTVYzQWtyVU90aWRoeHBZbkZsdkFCTnFmU2x6UkEzbk1DZDc3T2REb042aFc1cWc?oc=5",
-      "publishedAt": "2026-11-05T12:35:35+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
+      "source": "o2",
       "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Erdogan planuje omówić z Putinem zakończenie wojny przeciwko Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelUtQzVaT0ZtcUg1QjRuMllCMXh3MW9hTERQODljMjRydS11LXYxX25HS3hldElmQkxyX1l5VjNhSjVRYlliQUV3enJzZ1pEUWVOalMwUzBkQUNmeXpheHJHMENibzR3ckp6N2xwTmsybEZEQmdkYWZwc2tjUzlkWkFQTGdoYzk0Y29qQm4waDRRZWdabXJpTmdQNkU?oc=5",
-      "publishedAt": "2026-11-05T12:27:51+00:00",
-      "summary": "",
-      "source": "UA.NEWS",
-      "category": "Geopolityka",
       "geo": {
-        "label": "Ukraina",
-        "lat": 49.0,
-        "lng": 31.2,
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
