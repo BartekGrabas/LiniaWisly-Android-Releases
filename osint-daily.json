@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:07:46+00:00",
+  "generatedAt": "2026-11-08T13:29:11+00:00",
   "newsletter": [
     {
       "title": "Donald Trump o końcu wojny w Ukrainie. „Rosja i Ukraina po raz pierwszy chcą się dogadać”",
@@ -36,17 +36,17 @@
       }
     },
     {
-      "title": "Polska zagrożona cyberatakami. Służby alarmują",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOdmE2LWxrenZpdENXNGZIMlNscnpWVHVYSlBNTDFaVVFZaTJ2SUMzWnNWNEpRMWluMWZVcUlBdXFzVHVuVmY5TUFXWGk3TWdfVlZOZjBNYWpyOG1YXzdSZEphaFNCWS1QT3FqY3g5bm5DeWRHRGN0UHViY2NGbE9KSFlkY2s?oc=5",
-      "publishedAt": "2026-11-06T10:32:30+00:00",
+      "title": "Dlaczego milczał alert RCB? Poważne pytania o paraliż systemu po tragedii w Krakowie",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTllaHItbHVOd1ZKNEV2YlE3ZmxyNDBaRVhsMzE2OGx0UVlNbmhQaTVqbnRuTFNibEdpQkdXcEgyRHJ3a2tMMzgxa0ZDdmtCZ2E0TjZDS0pQdmxWa1VTS2lLaFVXU21oaHkxdWgwUkZXbEMyTVVuZ2x5dmRsYTVlb25FeFJsenVCNEpsbDl3M1ZKejRjcjJqRFNtZw?oc=5",
+      "publishedAt": "2026-11-08T08:25:49+00:00",
       "summary": "",
-      "source": "Tysol.pl",
+      "source": "wPolsce24",
       "category": "Zagrożenia",
       "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
+        "label": "Kraków",
+        "lat": 50.0647,
+        "lng": 19.9445,
+        "scope": "miasto",
         "approximate": true,
         "method": "title_keyword"
       }
@@ -54,18 +54,18 @@
     {
       "title": "Idzie zima, a wojna trwa dalej. Ukraina i Rosja chcą się wymęczyć nawzajem",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeEVTY2NjSG5Vd1JrUFo3djRpbXUwNDFLQUJRakJSQjNRUmVKQjRWRDRJYVVEbWNjb2JwdkZrX3I0RThJOWVDbmNVOGRWLTlmUkhrREx2QzYzSkdpT3lFc2FyUzJzSjRDa01pdzFrQ09CMUhfLXdmYmxPNHAyS1hLNk5oZ2pUN2dROVB3ZEF4UElGWk45c0lNSW5qTDFoVGVyZkNDTE56eUcwWm1ZVHNjVjY5RmtxVzZZMFhoOFNjWUFabDlG?oc=5",
-      "publishedAt": "2026-11-06T10:23:25+00:00",
+      "publishedAt": "2026-11-06T10:23:04+00:00",
       "summary": "",
       "source": "Obserwator Gospodarczy",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Program SAN z opóźnieniem? Polska Grupa Zbrojeniowa komentuje doniesienia o systemie antydronowym",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOFhpZmlmR3NEenc4VU42Um1EUU1WOU9Qb2Nsd0IxQzRVTzI1SnZ4ZTMxbThLaURobVhKekNaTllEV2ctaHYxZ3RmMzB0ZmJEOEg1a2pha1V4T2lUYXpYelhUMTc2aHRhbTJMTTUydXVnSkRWR1o5dlptR1A3OW1VMVc2Sl9CbnJpamZKNndtQVRURzhyTE9lRzhDc1JDMU0zRnN4OXZ6NHlLNUlONzVBNmU1NjNab2hBT3huWVNvSWR6SG1nUW5DVkYxNzNPLU4xZlVXMnNuWEFxRmlCZUEwWm5iQlFOdEVVQnc?oc=5",
-      "publishedAt": "2026-11-06T17:51:41+00:00",
+      "title": "Nowe mundury polowe „Ryś” dla Wojska Polskiego zaprezentowano w Łodzi. Za trzy lata każdy żołnierz otrzyma taki mundur",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUUpDaVc3T3ExRVdTdnZqVlY4RWVWNTF2MC1fS015cUlDSk9ndmlQZkF6NFhNM2NnamotVExWczRzOHYyaGFqY1VFYXdtOXo4aTB2Y2lkVTZxTXA0eE5hYUZHMzJGUnBnOTQ1ZTJwOHZPX1R3LUpfbXpEWlkyRXJkVUNLWEtSaEZ4QlZtbXl4eVVyRmc3SExCcFZfN1lzZFNxRnVjT29OSUZYVUVyNklrS2JuZl9QS2NNR2hoVDhXRjlJUXpEazFjSWNXZGVYeEdoZlVzYzViNk1XcWZYR1EtYndVX2lUUzQ4b2MydWJ5R0VWWkh2?oc=5",
+      "publishedAt": "2026-11-08T10:57:58+00:00",
       "summary": "",
-      "source": "Portal mundurowy",
+      "source": "Express Ilustrowany",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -93,29 +93,36 @@
       }
     },
     {
-      "title": "Rosyjska obrona \"na granicy możliwości\". Skuteczne ataki Ukrainy mogą się jednak skończyć",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0tSS3hFU05wMHVXUlUyVXIxRXdfQ0VGY1dpeTdMN1A5NS11Y1hSX2x5OV9xOG4tbnBBN1Z0TVQ0bnBsRHF2RmFLTjFWOWNpVHl0SjlDSGprUU1yQ1ZhcGx5TzJKN3lTTDZUNGhDRjV2RFhMYmctX3dlVXUyZ2RvRHM3Rl8tWnlRQjBvR0pnbUFOZV9vQVI4UndHN1FmVXg3aHB6TUJ2VkozRjV5NnZGMnMyelBEdHNTazViSUJzTQ?oc=5",
-      "publishedAt": "2026-11-04T13:33:11+00:00",
+      "title": "Zamach w Krakowie. Rzecznik RCB wyjaśnił brak alertu dla mieszkańców",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGloU0puMGNkV0VSNGMzMEdFS011UFRQdVh1TDFtaHdDcmo5LVZUbTI2eVRTc0hsRkZXRy1CQUpLY1VjVzFMTUsxcDB0TElrLUR0cGgzSW9SVm9USG1Lb0dJdzBVSHFuaTA4Q3hDVjlrelN1aE5Mb1haNE15SVExNzUtR3pnc1hyWTRobk1MTGRjRUdUbjN3ZDZKQQ?oc=5",
+      "publishedAt": "2026-11-07T17:48:55+00:00",
       "summary": "",
-      "source": "Interia Wydarzenia",
+      "source": "Fakt",
       "category": "Zagrożenia",
-      "geo": null
+      "geo": {
+        "label": "Kraków",
+        "lat": 50.0647,
+        "lng": 19.9445,
+        "scope": "miasto",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Rosja odkrywa karty przed rozmowami w Abu Zabi, Ukraina ostrzega przed „Jałtą 2.0”",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGs4UUtCV1J5RXhja2NsRUZFUGx3cW9IM3Q5dXdWUmNwLVBfaTJSQkFCckpWcmk2Z21pZ1pDMDVKWGxqWkJLYTdwUFFFNzB6MVJpTzgyOE8zemM4Y0tlUlhEcFRjWVN3aU5FV0JCVHJrLVNqVnlscWZSckRncmVvcW1jbWVlaXVQQ3MxWVFkbERPbWpERjFraGZQMzdBSzhPVVp5VEIxWER4MnItb0taLVcxQ1hwTEIzS2w3Ymc5VFR6WmM?oc=5",
-      "publishedAt": "2026-11-07T12:55:00+00:00",
+      "title": "Budanow wyjaśnił, jaka będzie strategia Rosji wobec Ukrainy tej zimy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjBoNDV3bUo3bW43Uk8yYmo2TF9PMV9Id0FjSEF5elZiQ05ydDJWMlZVbHdYa3JQSHg5QndPLWxCRnFJOGRZZ0NnRFJiR2tEUUVKMUVQQjNQRHA5WnVTdnZMQWpacndDZ25OOGVFZWNRRXQ0bVdfUmttWWZtMEtzbTdOUmpvWmc3UTNKazF5c1RabmVpdThTYzh4YkZxdXBh?oc=5",
+      "publishedAt": "2026-11-08T12:48:36+00:00",
       "summary": "",
-      "source": "Bankier.pl",
+      "source": "UA.NEWS",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "NATO przyspiesza zakupy systemów antydronowych. 16 gotowych rozwiązań bez kolejnych przetargów",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbUhQSVEyOHhFNm5kVHBidWlWWG5HWTFfdFpEVlo4T2pxdUpReEoyc3pZWHVQbVpDakhJcEVpUnRRMkJPbnVNQnNwYWFJMk56QnRUSHE0RnBuR2VLTU5temhPOVBFeWdzY1o5Y3RNZXk?oc=5",
-      "publishedAt": "2026-11-06T17:25:49+00:00",
+      "title": "Wleciały do Polski znad Litwy. Wojskowe samoloty NATO w powietrzu",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHE0dzhlY2FJS01kSmNqM05wYlM4WElLeEFrai1mdGVaM1ZpUF9rRXZncG1KcWNUV0c4bkxqWExRYmhtQ0Z6aHJUajZfUFBvQndSUVBRMGhpMWhmdHcySTRfM3E0TUJnUkhvdTBhczdVWE1fMGlRSkFmNXgwNlJKcmw0LXRYNnItckEwTTExSDJ1TFpLWVpiOGlWZHc4cFk?oc=5",
+      "publishedAt": "2026-11-08T05:50:02+00:00",
       "summary": "",
-      "source": "Magazyn MANAGER+",
+      "source": "Defence24",
       "category": "Obronność",
       "geo": null
     },
@@ -136,11 +143,11 @@
       }
     },
     {
-      "title": "Przewidział wojnę w Ukrainie. Teraz radzi: musimy działać ofensywnie",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlFSZXBUeXJwV3NjYV9qa1J2Q1ZVVUZqZFh0cjlIMUc1aW43anhWRTRxUGNaV1lGbDZQTnNlbW5FanFDU05HVmNmOHIxWVpDOTBsRXVXZVloV3hvU3otVjFKSkNYSUdrY2RKa0s0VXlWZXc2NW54Z2lDbFRpSzNCMjNzcVkxWDRCT3BpQXZGVFlRNUhSYU8wZDlXUDdkLUw5TDNnd19ER0h4MnhPQU8xQ28wS2MzMnRGNHZBVU1n?oc=5",
-      "publishedAt": "2026-11-07T12:16:08+00:00",
+      "title": "\"Podwójna umowa\" z Putinem. Trump może chcieć zakończyć dwie wojny naraz. Ukraina ma zostać \"poświęcona\"",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFFqRE9DTm5WY21GOE9JcWwyM0hPMGVUSEFFY05hb2k4YkdoVUNtMnoxZWNnbmpjb0Q0MzIycFlRNlY4Z2FQNjBTWTRSS05Zenp1RWhkaVZIcDNXZ2ozSDRMN0stcjhBYV9FYTM5ODhGLTM3YjdZV0tGcTBiM2hWSGxZelZsS0lEUDR6cUFNX2djekJfYl82ZkNQME15YVFrSFBFbDNzZnByTDhySHhfb2xJREMtSmhGUjRTZFB4TQ?oc=5",
+      "publishedAt": "2026-11-08T11:32:23+00:00",
       "summary": "",
-      "source": "Fakt",
+      "source": "Wiadomości Onet",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
@@ -152,11 +159,11 @@
       }
     },
     {
-      "title": "Na Westerplatte odkryto szczątki kolejnego żołnierza Wojska Polskiego",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG5uT25Vc19hSXdyWndRZW85WF9ZOHg3SHZfWVJ5Q0NNSElWMjFpdFd3LW41S29ESFNlQjdaOFZLdDNoX3JWU2NyMWVjSk4tUHVCMHpwZXQta05XMUZPQl80YlRoakxCVWY3MXM4RUdjNTV3Z0l2eDNUQ1RkSkEwUzEwVHA3ZDN3VEY1d2FZcHMzUQ?oc=5",
-      "publishedAt": "2026-11-06T16:27:04+00:00",
+      "title": "Zamachowiec nie był żołnierzem Wojska Polskiego",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEgzcXBrREpGQWIzZWlfX3FpbDBLS2ZyLTlPZ0cycWtkcU1JQnRFeDh3QXFtMGVlSG9uS042NmdJT09RTHNGelQtcV9LNmpVYkRKaW4tdnBWblVKZDlBN2ZvTDhIQVRaSkVfNGdFWlJzYm80Ymh6dC1qTzVEbjk1bEJ2Sk5hQVVa?oc=5",
+      "publishedAt": "2026-11-07T17:40:03+00:00",
       "summary": "",
-      "source": "MILMAG",
+      "source": "Defence24",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -177,13 +184,20 @@
       "geo": null
     },
     {
-      "title": "Rosja siada do rozmów z Ukrainą. Podano skład delegacji",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0hvWW1qbEZjdXZoZE9mQWJ1RkNfTldMbW54TmNMYkNwSHNNaTE4ZlRPZ3pGdzlMdHd6MmVMY2czd3NXQ0xNZEw5eFlqNkl2WnF5Qnp2S1ZlMGJfTTVwbjdtZmg1QWlJQjZlanlIZ1ktVjFGYW1OOXlrc0p1QzRLWWtIZTdKbjBLdC1HUFFSZU5rZGM?oc=5",
-      "publishedAt": "2026-11-07T10:57:00+00:00",
+      "title": "Erdogan obiecał Trumpowi pomoc w zakończeniu wojny na Ukrainie -",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHRkeTdKdlBhandkSkp3WTZzZHJwOGFWN3VrMVNNOS1SMzl4cTZqSjlFOGhwdkZpZTJBR3pBR3RjaFNxaXlGMEdxQUt6NTJTdk1Fb2Y1VVJpeDFpclJfNXVtUVdYUXB2NU1BNmZxN0pKdUNmU3QtdjFoSnZYOFgycW9JTTBsV3NvcjAxMWt1QlQ2VmdwTEFGRGw4UVRxbXdZVEpwVE1DejlKTnpfNWZaQTQtS0N0Q0RiOVViTE01YUFqa1U?oc=5",
+      "publishedAt": "2026-11-08T11:17:29+00:00",
       "summary": "",
-      "source": "Niezależna",
+      "source": "Onet",
       "category": "Geopolityka",
-      "geo": null
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
