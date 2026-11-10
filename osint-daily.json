@@ -1,89 +1,139 @@
 {
-  "generatedAt": "2026-11-09T16:26:56+00:00",
+  "generatedAt": "2026-11-10T14:56:30+00:00",
   "newsletter": [
     {
-      "title": "\"Największe dobowe straty Rosji\" od początku pełnoskalowej wojny. Ukraina podała dane",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONm5lQUtYWmF1UWRscHRhMVhTa29iYVJsdUo2SjFDcGZJcTBBb2hNS1BzWXIwNGlndTdkQS0yYWs2SW54amQwUFNQcTBMcmNYVHhzcXhKdFo4dGRwSUdHWVlmRTg2N3RUTTdyNGNQcEFmbVNNMk1pTkN0UWVpOEhnR1JTaGlXNjgxT2pIVWFKeGhjcUVOSE9OV1IzVWlfU2tmMWlEMkNxdzVxTlNkWjk3UWFNUHp5RVlFN1BFNUtZVW41dnhS?oc=5",
-      "publishedAt": "2026-11-09T13:47:00+00:00",
+      "title": "Wiadomości - Najpierw ostrzeżenie, później odwołanie alarmu. Alerty RCB trafiły do części mieszkańców Podlaskiego w związku z rosyjskim atakiem na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Mc0MzSTRzVDByN1FwaURaTmtJb3ZTMGtiSGVPMlAzdGNqNmZYMm9vdzFHelRPUlpsekVMTzZyVnhKWllBUDI3SXl5T1pJQWFwN3VyZEVzaTI0cmlDNk5jWUVhUXJmT0p2?oc=5",
+      "publishedAt": "2026-11-10T01:25:00+00:00",
       "summary": "",
-      "source": "TVN24",
+      "source": "Polskie Radio Białystok",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Ukraina tworzy Siły Kosmiczne: po co są potrzebne i jak mogą wpłynąć na przebieg wojny z Rosją",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDJMQTh1MFdHUDYtV0FTcFBhYURUZlpyYWhBdlQ4ZUFWS3dGRmFiZi1xUW02ellFQ0pnUkZ6RDV5VnJ0ZFNQNmw3NDhWLVBXUkd2YThsVGdqa0M2SGt1UlozS1REaGpNR0FTbm5OMTlSQTBpclV1UjNPX0JKNUxubnZBaEFxSlZsOW1uNnR1ZFpoY2ZfRFNqZ19RNEdPbm00bHlwaHI1QzNWemhGc19hcVNzb2thUWFLT0hUWmFpSnU?oc=5",
+      "publishedAt": "2026-11-10T12:42:34+00:00",
+      "summary": "",
+      "source": "UA.NEWS",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Niemiecki pociski nie dla Ukrainy. Wojsku już brakuje",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0hHc2tWS2gzY1c3X2lyRkdOMU9INDAwYmlwU1plTUI1dUw3alFKc3NucVJmTTdmWGU0VlNTV0FkSURVdlJnRGNRWHZLWlE0RVdYYVZ2UWdBR3JDVnB4T2lrcEhQWFBSUkF0M1k5WGUyRFQyZHN1YkRrd0tyQmdFZlFUWWlFTGh3NF9OekpYbTc0THBsQnVTdXdnS0Zma0ZWZG16N3VZZWQ?oc=5",
-      "publishedAt": "2026-11-09T13:39:59+00:00",
+      "title": "Więcej wojsk USA w Polsce. Ambasador USA przy NATO: Wykonamy decyzję Trumpa",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXpnbFVxLTBkRkVvQXZ5MHY4NEItdHMyZG5CckkzeUtjTEtWVzVra21fWks4ZlRaQzJtR1NiblRCelRNM25aNFdoZXJwLW9EOTVOWEZGS3kxRzN0NXktMlpPMWVIbllnbHBvSXphcFF6TF9QXzlNSEdkVmRjS2FrOEc5RnAyWVhmZ0MxbmpmeHVkdHpZRUxVeHlR?oc=5",
+      "publishedAt": "2026-11-10T08:41:09+00:00",
       "summary": "",
-      "source": "Rzeczpospolita",
+      "source": "Defence24",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Druga największa rafineria w Rosji trafiona. \"Seria wybuchów i pożar\"",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBaVHdqMm9UODFQS1poVzVBWHo4SkFFM295RjNya2FBUERqUEEwMmlGLVhuVXdKUmkyU2g5ZmdkQzRaZ1Q3SklkNFFrbEp3UmFfakZRZkQ5THZKZlNsZlZYeTJra1lyTmk4Ql9TQ3VTZnpOV0d2eHo1bjBfTFRKUVl1NmdIUzdEZkdRV3ZmV1M4aUZyMUhpWmJNWGtuZXRoUDc2MklBRVhKcFEwT2dudktaT2VHN1oyclc0LW80bw?oc=5",
-      "publishedAt": "2026-11-09T10:24:44+00:00",
+      "title": "CERT Polska ostrzega. Każdy może dostać taki SMS",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjlRZWpSUmV1WndyV0FVcVVteUlUbktaNm9sQ0FsYnlhbW5BeWdkb0t0b3NXblpQYlVzdkp2dDF1dWpDZnFLYzMtN0taaE1IeV9RMk5RYllMMnhfN19lb1lWOGJVTDZJU3Bmc1FldE5FTkZaa3gzMzV1emZQUWpQcGp2WGkteGpPZ2h2LWo4U01rZVdYWjBhRjBR?oc=5",
+      "publishedAt": "2026-11-10T08:30:36+00:00",
+      "summary": "",
+      "source": "Dobreprogramy",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Mieszkańcy Białegostoku dostali alert RCB o ataku na Ukrainę. Do ukraińskiej granicy mają 180 km",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RX2VxUy13cm1sWEEwUEVmSlBvalBMeVBDTk1xeGdxM0dHWjFtd3VqNUU2Zk1fVEJpdkhfeFJfNWEzUThteHk0NVc3N0NpczJBVlF4Tg?oc=5",
+      "publishedAt": "2026-11-09T21:29:27+00:00",
+      "summary": "",
+      "source": "Bezprawnik",
+      "category": "Zagrożenia",
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Ukraina, USA i Rosja rozpoczęły rozmowy w Abu Zabi. Stawką zakończenie wojny",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamY2NGtNTWVCbXF5QnJZVktWcy1nS0swUGM1dUZLeV9GTGl3OU5VTmJ6VTVaMUd0N2J3QkNOakRuS2RSNnpmN3ZkU3doZ1BJTGtJUVBsTlJfcEJUbFpwZkNjYVVRSWhvc1NYcEZRTTBtRWdPaDJYaTdHeHh5OWY3ckZmd3VqQkg2WEJWWHZ6UW9SS1ZWNGlYZXNLWG5jbTJXNEE?oc=5",
+      "publishedAt": "2026-11-10T10:22:00+00:00",
+      "summary": "",
+      "source": "pb.pl",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Wielki plan rozbudowy armii. Wojsko Polskie ma mieć pół miliona żołnierzy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0l0Z21Icm56eU44azhfUkhKY3BVLVk4V3NWM213dmxTMkk2cFNPZlFRYUtwR1JOelo3ekhfcnRENjFqemJuQVd3ZWdRVVVnd2RtaDJIazV0eEJiM0thNFAtOENjMnpxQzBQWFlLU05XbmNrY2o3bVFkRndKeFdMNzh2YzFfbEpxNUF0V05YWkhIRUFzNjVrNzlWcGFMQmpGS1JQbnhGY3ozSEJEWGFXalozQU5RUzJqbU9VZ3Jva3M5UHNnR0JMZFlESjZOQnZYclE?oc=5",
+      "publishedAt": "2026-11-10T07:45:00+00:00",
+      "summary": "",
+      "source": "Portal Samorządowy",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Polska szykuje się na cyberwojnę. Padła mocna prognoza",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Q2tmTGNzZURJUm1FcTdhNEpvNGxXaVRFUEtleGNuMGYxSlB4MjlHbGxDd1ZaaFlGajB0S29FbEJQa1R5dkUzN1VYQlNYZ3ZRRGoxMk9NNThtdFpYZ0IycTJJYjJIekpTbVE1ODNnNjBwczB3N05haWZFYWQya2c?oc=5",
+      "publishedAt": "2026-11-10T05:05:00+00:00",
+      "summary": "",
+      "source": "Spider's Web",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Alert RCB dla Lubelszczyzny. Chodzi o rosyjski atak powietrzny na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTFCcTFKcEcyd3ZxU0ZxUEhBMG1QX2VGZ1R4OUJfeVgyMjBhMHlUUnl1S09ma3N5TkJBd090MTdBa1FWWGsySy1fOW81S3ZQT1VEcEpjX2g3Rkh2c0k3XzJSNkVvVDEwS0ZsZ25ZT1lTc1g0X1VIV05FenMtRkN4czU0RE15LU5YMzhPa0REWVFMYWpESkRjdHk0LXYzXzdZVENmUUVpazBvcUxOVWFV?oc=5",
+      "publishedAt": "2026-11-10T09:56:41+00:00",
+      "summary": "",
+      "source": "Radio Zet",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Ruszają kluczowe negocjacje ws. wojny w Ukrainie. \"USA już zapewniają Rosji zwycięstwo\"",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzRoZmJIN0haN0lRdkpQdjhRZW9VNktvT3ZNdnJiN1FRQmt5T3EzVEJHVDIyQlNnOTVmY3dCS3NQckpadDBocTI5N2Qwd1pod3FTWkJLcEdWXzlCUmJqVVFMandReTVsTGIxeXlqYmZxQ3pFNTBCb2lObWZnR1hrTGJXNDU0LU9Oa2JFQlcwS2pGeGVFNnFmTUZGNEtWdG9tZG5WRVhUSktlUm1FUzcwNDNtc1BuX3AxdUpLeVRlVQ?oc=5",
+      "publishedAt": "2026-11-10T06:14:11+00:00",
       "summary": "",
       "source": "Interia Wydarzenia",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Obiecują zwrot podatku, a potem kradną pieniądze. CERT Polska ostrzega",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEw0di1nb01lY1FYckFPWEVGeXl2eFA2S3NqbVMtYkN5Y016bktJZG9iRnpyR3kyZHJsdGJHaU9FVkRkbERlSFdzT3hhRVdBRzljQ3lPTE92cVJRY2ZjS1BXdDJxRlZXRjlCSFp1VWJrWWtmQzVqX0o3aGcwVi1wSkM0UlRPb09SejRBMmstaW1HcWU5RGFSakUwTkRXeUI2a3ZaaU1Xc2dGNUVSWnBaQUQ5QWthVGVJUWRvb1J5WVhZYzllUjZJ?oc=5",
-      "publishedAt": "2026-11-08T13:25:00+00:00",
-      "summary": "",
-      "source": "Krotoszynska.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Ogromne straty Rosjan. Tylu żołnierzy zginęło na wojnie z Ukrainą",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnN3OFFDQl9oTW80YnRMbXlEeXB0X2F2d3hBRnNDYmN0YkprVVhMczJhUUdJS2JaQ0tnX3o4UXVwYmY0UTlma05rSjM0WWRMd1V1dkFic1ZQRG9Zd0VZUG5BWUV1bkYtYWhNc1pJbXJ5ajBYYVRLSVNzTkpDQmhUMTh0MXBhelJNSU5ESlRMN0tyYUxWZWJGNFQ3NXpfczZFRTlFSEhId0htel9iS2RZOVhnOWkwTmlGQmp2RU5EZkhxMmh0NmF1eA?oc=5",
-      "publishedAt": "2026-11-09T11:37:00+00:00",
-      "summary": "",
-      "source": "wnp.pl",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Koniec niemieckich pocisków Patriot dla Ukrainy. Wojsko mówi \"stop\"",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEw4bGFjMlpGVVhYQW5MZTJxZkRneG5rMV93S0k2XzhOSGQ5QmcwYnJFU3BGYjNVeDNqNGY4TFY4SkpzVklpWlNwZktKczFGZmVkTFJlUXE2cVRoOUxzS2R5ekNBMFVvRGt3MTRka1pxbVhnczlNMlNtTTVORFQwYmV4ckRuY0pRMUlfcDVTUWwzWDItMzhpZjZqWWE4Zw?oc=5",
-      "publishedAt": "2026-11-09T11:53:24+00:00",
+      "title": "Amerykańskie firmy zbrojeniowe wchodzą do Polski. Ambasador USA w NATO tylko dla Defence24",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV21VYlJPNVRFSWhJbU1pSkdOeFJXQWt2NVloeklnLXE2dVktX3RzV2xPTXVDa19CZE1QZERkamJld3JTTDdPd1ktMFhyLUxHX2dOeUJjcGJIaFpmN2ZWWHR4UmtpTzlDSzNSMTZ4TWJlUy0zM2Rka1FvVlYyWkxSRkpDZjNOUVhSV1ZXNncyNGQ2SThWcVpmZXdOeWhZQkplMXUzMEFKbDlOTC1jUjMzQ1YxQV9JTnQ2bVRj?oc=5",
+      "publishedAt": "2026-11-09T18:00:02+00:00",
       "summary": "",
-      "source": "Wiadomości Onet",
+      "source": "Defence24",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Zaczęło się grzanie i wrócił smog. RCB już wysyła alerty",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMDhZbU1ST0dSVFdMU0tacVNKS3QyejE4M0pVNWFmMXRUTEtmTzdFMHFRUlRmRloyUHNuZmM2MkJ5UHRvT0o3aEJDTTdMOTVtY2Zwb19tYjJlUFc1bmFjLXk4VnFsOE10SEp3SWNiVWxwbXA2TzV1bU12NWY1WEVfbGo4TVlNdw?oc=5",
-      "publishedAt": "2026-11-09T14:12:00+00:00",
+      "title": "Milion złotych dla hakerów. Przełomowy program NASK i CERT Polska",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNby1vUXQzV1hYeHZFM05fdW1UUTVQbTBIcWNheTdjRWVibDhzaUhsMnlJRjZ6alE1VEYxLV8wbVJZZExnRTllVHdzSWpON0pYVnBMTm5sbGVOSTZ2ZHVJTU1FZExPX3Q2YnRSamdnTjVIb2JUeTI2QWg0TkItbEtiUjdVemNWQTRSVnBWRDhydG5EcjZMTHlIVlA4LWxJNm9uUXN4U2J1WHNkTWxzUzBhTGlqYw?oc=5",
+      "publishedAt": "2026-11-09T20:37:17+00:00",
       "summary": "",
-      "source": "GlobEnergia",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Polska łączy siły z Microsoftem w walce o cyberbezpieczeństwo",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWxubDJ6SUJtQk55VDV3QWlSalplXzlkWnVlREpUUWZ6dGFNSkljbUJ4cnVLOTJxaXdqNk1lek1pZE95aUZqU0M1SHNPSlQ2QUptUTZmU2xuQnJtOHdEWllOUmVFc3R5Tlh3MHYxTERHR0JMNmZvbEkwRndwQy1yT3cxWmM1a1FBUDNyQkxDRmt2Qlo0eFRTM0lFNFpObVFsNjV2ODRJTzRuXzRzRzNiMnliYmpDNTRJNlFiTXJvd09LWlRqQ1RqVVYwSEJFS0E?oc=5",
-      "publishedAt": "2026-11-06T17:36:57+00:00",
-      "summary": "",
-      "source": "Gazeta Prawna",
+      "source": "Gdańsk - oficjalny portal miasta",
       "category": "Cyberbezpieczeństwo",
       "geo": {
         "label": "Polska",
@@ -95,9 +145,18 @@
       }
     },
     {
-      "title": "Rosja: 450 tys. żołnierzy zginęło na wojnie z Ukrainą - wykradzione państwowe dane statystyczne",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0ZkbDlmMTBNN3FXQUphbmhGekNNSVUzcUtQRERVYkdpUHdyV3h1VWt3RVlINXdTOE5qa2lnVGg4V0Z6YWtPa3c0ZlE1OFc2TElKMWx3ZF9NMGFuSDdMUmt6YXI4WG50RklZYU1UaUhKVVBpVlYzdmdsdFJ3TjhTSXF0R0gxNmRpcWJ1Y2Z6bVNIelhwLUtqb2NTX3UzQmVkb3gzdzF0S0JmTjdUQkR5TFZ4cnRqMnhLMWlSWGs4ZUNPT25VbzFhZg?oc=5",
-      "publishedAt": "2026-11-09T11:37:00+00:00",
+      "title": "Alert RCB na Lubelszczyźnie. Podniesiono gotowość obrony powietrznej po rosyjskim ataku na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNU5PbDhQbm54WUNOWGpOcG10R3hCUUxGQ1FwWlI5RWhDYnZ2aGVVRjYzUmZvX3VjUFgxQzJ0WUl0UlVIbzlzNHJXS3dEOURuaHptQkRFb2ZmTFYydC02RldoRTJvYlhhQ0Rkc0tkdHhwS21NdUtZWU5FUVpJMVBzZUhvQko5MHM1UjhpSjZYWDI4akpjNDFoSGNMUnBSNnI3TTJqOXJiTG5oUGs5eTFCWnRVWWxNanZFVW5QRFl2ZWk?oc=5",
+      "publishedAt": "2026-11-10T09:55:40+00:00",
+      "summary": "",
+      "source": "Lublin112",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Rozmowy o wojnie w Ukrainie jeszcze się nie zaczęły, a Rosja już odniosła sukces",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOamNDbnV6eEotQ18yVm9kOWIzOEJmYkNvalp5TVJmcE1OSlhJM3FNSHdKc1VIX1hscmVGWEJFMVZ0MzJCNkdqQ2ZXdVZpVzhIa1EweE9Cdmd3X1Q3V2xqVUZfalltN1l0MElQSWlneTdTamowNUt0X2RYd2xoenNtVXJiWjRveGlHVG8yMHl0RmNtQk92TW1DSW1rX18tc2ZxMGNfOXlhc1pTT0RTT1B2OTRlRElobXpkbTFMS3gyYnUzRi0w?oc=5",
+      "publishedAt": "2026-11-10T00:52:00+00:00",
       "summary": "",
       "source": "wnp.pl",
       "category": "Geopolityka",
@@ -118,72 +177,6 @@
         "approximate": true,
         "method": "title_keyword"
       }
-    },
-    {
-      "title": "Dlaczego milczał alert RCB? Poważne pytania o paraliż systemu po tragedii w Krakowie",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTllaHItbHVOd1ZKNEV2YlE3ZmxyNDBaRVhsMzE2OGx0UVlNbmhQaTVqbnRuTFNibEdpQkdXcEgyRHJ3a2tMMzgxa0ZDdmtCZ2E0TjZDS0pQdmxWa1VTS2lLaFVXU21oaHkxdWgwUkZXbEMyTVVuZ2x5dmRsYTVlb25FeFJsenVCNEpsbDl3M1ZKejRjcjJqRFNtZw?oc=5",
-      "publishedAt": "2026-11-08T08:25:49+00:00",
-      "summary": "",
-      "source": "wPolsce24",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Kraków",
-        "lat": 50.0647,
-        "lng": 19.9445,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Rosja testuje wytrzymałość NATO na Bałtyku. Drony to nie wszystko",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGVoMml4TmgzclVsMklsZGZ5bFdhSUFidC1zZlduYzlRMi1YQlZQUDdGZlZ1SUlfQy12VjVsdjgzaDF1VFJGUzVRa1VyVV9qaUphZldVOUFxWE9PbHpjNjdTcDVzaFZXZUdEaV9Ick1fc3hIdmFScDMwZTJaNTVnajRjMER3VnZGLTFLRmhtdTBtMHNJVGhpenFZRFREb3hIYy1xeXBMNTN4NWRicC1IRA?oc=5",
-      "publishedAt": "2026-11-09T10:15:00+00:00",
-      "summary": "",
-      "source": "wnp.pl",
-      "category": "Geopolityka",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Wleciały do Polski znad Litwy. Wojskowe samoloty NATO w powietrzu",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHE0dzhlY2FJS01kSmNqM05wYlM4WElLeEFrai1mdGVaM1ZpUF9rRXZncG1KcWNUV0c4bkxqWExRYmhtQ0Z6aHJUajZfUFBvQndSUVBRMGhpMWhmdHcySTRfM3E0TUJnUkhvdTBhczdVWE1fMGlRSkFmNXgwNlJKcmw0LXRYNnItckEwTTExSDJ1TFpLWVpiOGlWZHc4cFk?oc=5",
-      "publishedAt": "2026-11-08T05:50:02+00:00",
-      "summary": "",
-      "source": "Defence24",
-      "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Zamach w Krakowie. Rzecznik RCB wyjaśnił brak alertu dla mieszkańców",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGloU0puMGNkV0VSNGMzMEdFS011UFRQdVh1TDFtaHdDcmo5LVZUbTI2eVRTc0hsRkZXRy1CQUpLY1VjVzFMTUsxcDB0TElrLUR0cGgzSW9SVm9USG1Lb0dJdzBVSHFuaTA4Q3hDVjlrelN1aE5Mb1haNE15SVExNzUtR3pnc1hyWTRobk1MTGRjRUdUbjN3ZDZKQQ?oc=5",
-      "publishedAt": "2026-11-07T17:48:55+00:00",
-      "summary": "",
-      "source": "Fakt",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Kraków",
-        "lat": 50.0647,
-        "lng": 19.9445,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Donald Trump o końcu wojny w Ukrainie. „Rosja i Ukraina po raz pierwszy chcą się dogadać”",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2tScmRwZXpZZ1o1WFZ4QXNXeGhucWRFaDFXU21VWEFCX1NWRWkzY2djOGFXWEVHdnBScnozajlFQUhKOGlPODVqd3VpTkpEVTJRMWFzb3hWTFZLdERpdlZaN0FmU3hUeTBacFB3YzV6VnhmTmVmR1BfWXJDVjh1TkE0ckxTWUkyZXVFR1hIYTM5LVZLWE9hUHF1LVNJNzhKRkw4c3VkUC1peXZ0R2Z3ZENIZFVCMWNiX3U5VVVZZFhXM1BkMko5ZU9HN250WVU?oc=5",
-      "publishedAt": "2026-11-07T06:21:29+00:00",
-      "summary": "",
-      "source": "Rzeczpospolita",
-      "category": "Geopolityka",
-      "geo": null
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
