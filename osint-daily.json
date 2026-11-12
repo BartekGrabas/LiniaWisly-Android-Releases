@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:27:13+00:00",
+  "generatedAt": "2026-11-12T15:19:36+00:00",
   "newsletter": [
     {
       "title": "Wiadomości - Najpierw ostrzeżenie, później odwołanie alarmu. Alerty RCB trafiły do części mieszkańców Podlaskiego w związku z rosyjskim atakiem na Ukrainę",
@@ -11,22 +11,29 @@
       "geo": null
     },
     {
-      "title": "W Abu Zabi trwa drugi dzień rozmów między Ukrainą, Stanami Zjednoczonymi i Rosją dotyczących zakończenia wojny: najważniejsze wnioski",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRVJPbTlGcDVyZm5CNllVYzAySkVTM1hfUUFkMHNQdUJDQjJwZTBnY09uS0doZmJpUHdDTThHb3d6cDlEN2hwV29jRGhjS2I0RFZsN0EzdlVkY0VNR2dBMG1PSnp5S1hfeXZhOVdyT3hWNVp0VUdzMXFlLUd2SUdzNkM1WFU4LUFpVTctMHhxTlZfa0p2MEpEQ1JrVzZCVVdUMmxfSFRVU0pGYWd5cDR2SGRuYzVPX2ZhcTlWLUJoTnRkWmJsdUhJX1lMQjFwZjA?oc=5",
-      "publishedAt": "2026-11-11T11:02:15+00:00",
+      "title": "Wojna na Ukrainie. Ponad 11 tys. cudzoziemców zginęło, walcząc po stronie Rosji",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDRod2tMWU1wck1kcktHOENKYnNiUElzMkZ0VWYycGpsZVV4ODE4bFloZXZabGtLd0QyMU9YQzRBVnJHQmZZZ0dFU2tTZE40elN4RFpKXzNFS2FvWldodmc3dXFUYUd1bDJ6Z1J3Yk5oSENjTzdzVHhuVndDVkxRa1FYTnAzUk1XclJDR1M3RXZCYzFSRzF1RTNvT1FRVlFLa3VWQ2N5UzQxZllFNU8xV3BtU2TSAbIBQVVfeXFMT1hBdjlOOUhpWDRaTnJaR2laQjI5dVRZTEdXZm9yNGlfeGd0YjJsbzFVQWhJRVJGOXFseGNtTHhxTExJQ25tRzl6UGZ5MmYxc01RSWw4TkdzN0lraHdLb2RGS3pwMXdQQVM0ei1RV1FpcjVGX01hWGstOWZucmNmckFsNFBwTXRUUGJXRXFfYmZBdGZaY0R2anF3MUJSRmJtcERlcV85MDAwQV9KeFVHOHJ3Zw?oc=5",
+      "publishedAt": "2026-11-12T13:52:00+00:00",
       "summary": "",
-      "source": "UA.NEWS",
+      "source": "Do Rzeczy",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Po rozmowach w Abu Zabi. Rosjanie znów żądają usunięcia wojsk NATO z Polski",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUMySG9LQm00UFRiOWdUcUt0WVJ0bE13Mmxka2Q0M0tDZVZ6VTktUThkekxrRjltN1Zxa1paY3psSzR0dlN5THc2eTd1WmZLMlVibWVlSG1qM2lGZzdLaTNfR19xWmxua2hyemFiTGtaNnlyeGgxMVpnME5mTHNMQ1d4MS1PZ3I5V3NTbWFCZFlyNjFGbGhRTlRmWFZ0OE0zS3ByMGJ1RFRrVnNWejExX2hKMGRlc3ZFSGczdU1qcnkxV1FOWlJfekpQQlRPN3RDS1hFeHZxc0FQVlM3?oc=5",
-      "publishedAt": "2026-11-11T12:41:55+00:00",
+      "title": "Nowe karetki dla Wojska Polskiego. Ile pojazdów i za jaką kwotę trafi do żołnierzy?",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWUw5cnRncnp4TjlMN0VkR2FwRHZaQ1JFZmRWajlYbWl2NFZ4bEk1WE5hM2NOVGltQWZxdTI2ampGQkFSWG1JWmVGSExaeWQ3ZzFWX2RhemtmcklkaEE0bDBiWkFhT0hRaGN5X1BZYnp5dkJJQXN0d2tMbTRtZVhrUmdnUzY4OHlMT0ZkaThORGt4YVpITlBYdE1yWWh2aTY1b28yamRvdEJtWWl5ZllxVUNRU2R4NEJWZ0NFc29qT191ay1Yd0ZVN0ozeTh2aC1CYTZzWXpURlZmdE1V?oc=5",
+      "publishedAt": "2026-11-12T14:01:00+00:00",
       "summary": "",
-      "source": "Gazeta Prawna",
+      "source": "Portal Obronny",
       "category": "Obronność",
-      "geo": null
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "Polskie służby reagują na rewelacje FSB. \"Kolejna prowokacja i dezinformacja\"",
@@ -61,22 +68,29 @@
       }
     },
     {
-      "title": "Rosja przegrała lato. Ukrainę czeka najcięższa zima od początku wojny",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1BVRFZEQ2NSd2ZrUlJHZTJFeVJ1ME9TVEI1dWNlRWpKQjFYdkNDM2FPd3ZNNUx1bHBnLXhBem0tLTdQblVuQ3hXTF9JUF9QWk1mTlhFdDZlLUFlUHpSTXB1MUpPNHhLSW9qUW15VmUwTENwODljakpMcWI1OF9VNllYdkZtWVlwdjg1amVFS0h4TnNpdmZjaEpmcWh6SG5jNVF6MGFBMkRJUm1hLVlEdS04el9xZjFLSVc2TA?oc=5",
-      "publishedAt": "2026-11-10T19:26:05+00:00",
+      "title": "Wojna na Ukrainie. Po stronie Rosji zginęły tysiące cudzoziemców. Ujawniono dane",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVENqN0xXWmdDQVBQUndxMWcxLTM0aXV2Y3prbWdqUUw5SW80UGFOQXcwR0x4Vm5aZkVKOFVtcFhoeVRWbVc4WW1pLWFzU0s5U3JrR09WU3RwRWRRUmZDOENndWtuS25VTTI5QzR6cjJXa3liMkRsak9ZZ2pUcDQ4bmMtVHZ4ckxITlhWeC10OXA5VDBocUxNcW9nZjdvRlZFanpXM09DMk9BRUsy?oc=5",
+      "publishedAt": "2026-11-11T22:16:00+00:00",
       "summary": "",
-      "source": "WP Wiadomości",
+      "source": "PolsatNews.pl",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Wojenna lekcja z Ukrainy. Jak polskie wojsko dostosowuje medycynę polową do ery dronów?",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzBNS0ZTVllLRzFFcU5SMHdVMnRtRTJnV095bEZNSnNlWEl4SWZfNldYOHJtNjBHRTU3ZTBTOU13RkZYenRVbU1iZi1jUFktdktic2VyOHlmM2FBVllUbHNlQnppVHBZdENySTJ2RzJrbmFpS3BoaXI1cVh1UDhNWUhWNlZqVUx6eTlIU3JPcG5WNWl6YmRhVHk3bnRILTRmV3kxNWd5ZGRYSm03RkV2Sm1iTkhrSTNVVkNzRVE3V0RocVFZRUlVM2UwVVVvMlViRy1jeGtrcjU3WVJsOFg3QUxWSDEyS1J1?oc=5",
-      "publishedAt": "2026-11-11T07:00:00+00:00",
+      "title": "Sąsiad nie wysłał żołnierzy na ćwiczenia wojskowe do Polski",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWXVZTHk4clhaV3p1TlNER2pEcTVRelQxdUlJeTQ0aXJCX05fMS1OVkVCamcwNUZLMDVFbmVLWFY0cE1sUTRmQ2thc0hCd2N1U0Q1OFNzalhzdkNxTGxJMnZHOE5HeHBpS1BoajBuclBSOGJrV1ladUg2eGltX1FnN0dLUGNwT2ZuejJOeVI3X3BkSmJmX3FXNVozdTVYRGtqYVZHbTcwMFA3TWJKTDFRUFIyT0ZoVmFuT1dYOC13?oc=5",
+      "publishedAt": "2026-11-12T10:52:37+00:00",
       "summary": "",
-      "source": "Portal Obronny",
+      "source": "Business Insider Polska",
       "category": "Obronność",
-      "geo": null
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "Rosja twierdzi, że schwytała szpiegów z Polski. \"Prowokacja, dezinformacja\"",
@@ -97,29 +111,22 @@
       "geo": null
     },
     {
-      "title": "W zamian za koniec wojny USA proponują Rosji kontrolę nad Donbasem. Jest odpowiedź Ukrainy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2RDT1hOS3MzOS15S1FHMERFY3lhM21ZNGVJd05hWHVzZnljQ0czT2RkOFVySEdkblEtN0NXaU53QVo5N3RsN2hHQTF2ZzF3QmdwUUQ5MS1ZUWNsb0ZqX3hSRE1iVnRsYXRtQmtnM0UwSmMxWGRmYlJrRk1hbFB3dUtuSWpSQjMyS0lzT0VJa2dUdDNWbWlLQ0hJVHpBTzBhVTFKQWxTZlpuendRQjctNThZQnA3SlNOX1N2WENlcjRhMFg2cEU4SEVJclZEQ0FXVFE?oc=5",
-      "publishedAt": "2026-11-10T14:52:00+00:00",
+      "title": "\"Noc, gdy zapłonął Bałtyk\". Ukraina uderzyła, wylicza straty Rosji",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUtsVVNWR2NTZkRla2lHT0VudDRQN0d3TzdZSEREcWZGQ0dZdkVXNUhvN1BDU3lmVjByWnBEY0I2NmM2WGtoN3gtR01JSGV1TkU1eW5WbHNfelVUelBSQnlUUmludDRkLUlCTU1Jby1naHVUOVBrOTFTSWJIWDdmeWZJeXFBSFhUc2hnQklxdnhRSkI5R3dNWTlNdmlBZEZWZndkZlAtSjF3Q2RobUVBZkVDMldQYlNZcXNUMUhDWQ?oc=5",
+      "publishedAt": "2026-11-11T19:28:00+00:00",
       "summary": "",
-      "source": "wnp.pl",
+      "source": "Interia Wydarzenia",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Do Polski miał wlecieć dron, wojsko zaprzecza. Podsumowanie nocy",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDgwQVRZQXJocVVUWjJDYXB0X0cxZllBMXdjcE9Td0R2LVJNMS1oYWplbkhJNTdXcnRiSGZaSDVuR0JRdzhUMjVvb3cxSjY0T25wcE9CdHRjNFNoY1g5Njdldm1tMVZFR21yWkF5Q2tpNHlQNWpXa3N1MHJuNXVHdXY4WGNLWGxpZzhsM0QtSDU4ekFLblIyWmxwTGpjbV9fX21UdjBR?oc=5",
-      "publishedAt": "2026-11-11T05:11:02+00:00",
+      "title": "Po rozmowach w Abu Zabi. Rosjanie znów żądają usunięcia wojsk NATO z Polski",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUMySG9LQm00UFRiOWdUcUt0WVJ0bE13Mmxka2Q0M0tDZVZ6VTktUThkekxrRjltN1Zxa1paY3psSzR0dlN5THc2eTd1WmZLMlVibWVlSG1qM2lGZzdLaTNfR19xWmxua2hyemFiTGtaNnlyeGgxMVpnME5mTHNMQ1d4MS1PZ3I5V3NTbWFCZFlyNjFGbGhRTlRmWFZ0OE0zS3ByMGJ1RFRrVnNWejExX2hKMGRlc3ZFSGczdU1qcnkxV1FOWlJfekpQQlRPN3RDS1hFeHZxc0FQVlM3?oc=5",
+      "publishedAt": "2026-11-11T12:41:55+00:00",
       "summary": "",
-      "source": "Wiadomości Onet",
+      "source": "Gazeta Prawna",
       "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
+      "geo": null
     },
     {
       "title": "Microsoft i polski rząd łączą siły. Cel? Wzmocnienie cyberbezpieczeństwa Polski",
@@ -147,20 +154,20 @@
       "geo": null
     },
     {
-      "title": "Ukraina, USA i Rosja rozpoczęły rozmowy w Abu Zabi. Stawką zakończenie wojny",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamY2NGtNTWVCbXF5QnJZVktWcy1nS0swUGM1dUZLeV9GTGl3OU5VTmJ6VTVaMUd0N2J3QkNOakRuS2RSNnpmN3ZkU3doZ1BJTGtJUVBsTlJfcEJUbFpwZkNjYVVRSWhvc1NYcEZRTTBtRWdPaDJYaTdHeHh5OWY3ckZmd3VqQkg2WEJWWHZ6UW9SS1ZWNGlYZXNLWG5jbTJXNEE?oc=5",
-      "publishedAt": "2026-11-10T10:22:00+00:00",
+      "title": "Rosja przegrała lato. Ukrainę czeka najcięższa zima od początku wojny",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1BVRFZEQ2NSd2ZrUlJHZTJFeVJ1ME9TVEI1dWNlRWpKQjFYdkNDM2FPd3ZNNUx1bHBnLXhBem0tLTdQblVuQ3hXTF9JUF9QWk1mTlhFdDZlLUFlUHpSTXB1MUpPNHhLSW9qUW15VmUwTENwODljakpMcWI1OF9VNllYdkZtWVlwdjg1amVFS0h4TnNpdmZjaEpmcWh6SG5jNVF6MGFBMkRJUm1hLVlEdS04el9xZjFLSVc2TA?oc=5",
+      "publishedAt": "2026-11-10T19:26:05+00:00",
       "summary": "",
-      "source": "pb.pl",
+      "source": "WP Wiadomości",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Dron z Litwy wleciał do Polski? Wojsko: nie potwierdzamy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVjlzYkxyamFGb2xMZXZPeGFqemxFSjdIUzVSY0JBaHlCcmJfR1RkLUlCYVpXRVpiTGNVUU1mNUFyS0NleGtzZnYtLUZ2UzhENDBybmJDR3N2bzBYZXFTSV8zRlZsTmlfMGRUM0JxTjFPdUY0ZVYwaV9HR3FpN3NiQW5aRXRUV3BtdlZVQThaYXNKYXFnel82NWxfN2FBM19iOW1nX1NEZDlGcmQ0V0l0aE9sMnV0Zw?oc=5",
-      "publishedAt": "2026-11-10T23:57:53+00:00",
+      "title": "Wojenna lekcja z Ukrainy. Jak polskie wojsko dostosowuje medycynę polową do ery dronów?",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzBNS0ZTVllLRzFFcU5SMHdVMnRtRTJnV095bEZNSnNlWEl4SWZfNldYOHJtNjBHRTU3ZTBTOU13RkZYenRVbU1iZi1jUFktdktic2VyOHlmM2FBVllUbHNlQnppVHBZdENySTJ2RzJrbmFpS3BoaXI1cVh1UDhNWUhWNlZqVUx6eTlIU3JPcG5WNWl6YmRhVHk3bnRILTRmV3kxNWd5ZGRYSm03RkV2Sm1iTkhrSTNVVkNzRVE3V0RocVFZRUlVM2UwVVVvMlViRy1jeGtrcjU3WVJsOFg3QUxWSDEyS1J1?oc=5",
+      "publishedAt": "2026-11-11T07:00:00+00:00",
       "summary": "",
-      "source": "Wiadomości Onet",
+      "source": "Portal Obronny",
       "category": "Obronność",
       "geo": null
     }
