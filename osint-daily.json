@@ -1,23 +1,80 @@
 {
-  "generatedAt": "2026-11-14T13:35:43+00:00",
+  "generatedAt": "2026-11-15T13:58:37+00:00",
   "newsletter": [
     {
-      "title": "1724. dzień wojny. Polska to nie Ukraina. W starciu z Rosją mielibyśmy pewną przewagę",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVVnMHhaVWI3VkZ6NXZQX0I3RW05dnNkeHZUUVdMSmNpYUtMM19IR19PQlZ1WDZCMXA5bEQ1MXZnUDdCSXRMYUQ5V3BqOXJIYm9JYnBzd3AzbjEwM1pldTE4WkNzNnJPRmNTTzBfWTFJelN1T1VxYjZnRVpVMUNWNjdpSjBKdy0tcUFJTm1CZVN2STdXWU53TE9PbjVrNEctTy03RWhoeEY5bWZDdVljdktGMklPM3JDeUNCZEp1VFg5N0w5a0ZWT001RTNZbWNyaHBQNlVlendRWngz?oc=5",
-      "publishedAt": "2026-11-13T19:36:00+00:00",
+      "title": "Ogromne straty Rosji na wojnie. Ukraina ujawnia liczby",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDR6bWkwNHpBVm96QUl4ZHZMQk5SMXVYR25pU3NNeE13bE9FTGp4cER5cTl2T1ZGdy01dFpYUmVrWUU1Q2ktNmlMYUljU0NCMnFrYVVXQzFobEJ2Nk9mOW1fLTV2eUlWeTVTLWwyMWlhMVlLUkQ5cTFDa1dtNUlPZVZlQ19FV1EwMHJ6YW9kMm9DbjBvME1lS3ZWVFpNakU?oc=5",
+      "publishedAt": "2026-11-15T12:06:00+00:00",
+      "summary": "",
+      "source": "PolsatNews.pl",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Wojska NATO poza Polską, Finlandia poza Sojuszem. Media ujawniają najnowsze żądania Rosji",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEg0a09DeFhVSXktMU9BTVQyREVIV3NhOWh0dUY4UXlWVlhocUhNeHRBd0gxQWx4QVhlS0h1Q2lkYVR2SmtLcFh0OEEzd0dUUWFybGJ6cFgtX1NYUV90UVNSTUF2NUZnWjFQeFhHQmc4a09majdOTEV1QXh0dEhEbGl5cXBneHJi?oc=5",
+      "publishedAt": "2026-11-15T12:12:20+00:00",
+      "summary": "",
+      "source": "Zero.pl",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "Pomarańczowe niebo nad miastem. Zmasowany atak Ukrainy 1200 km od granicy",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUZVdEFUeWxhMWFvMUZSaHRCMDZaUmFuMV9JdThBMnNPelQ4Ymt3NmNuaVVvUi1YWjJHSC1JYXRJX1NZTDRpSnUzYlJKanV3eElESWRzblJxN1VmbWc5OEpTdmVyMXBCeFhudndodF9ncnFIbG9wQTU0NXVfVXk2OTNPM3lFMWJqV0ZSLVJWeXl4WWhoOENPbXZlSkJnTFNPTlR3ZzNMMm1fYVlBWFFqTzBYSXhKSWtnRG1vZw?oc=5",
+      "publishedAt": "2026-11-15T07:14:22+00:00",
+      "summary": "",
+      "source": "Interia Wydarzenia",
+      "category": "Zagrożenia",
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Pilny komunikat CERT Polska. Dotyczy wszystkich kierowców!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0w3QmhTWVdScTZHRWVoOFpnb2ZyWjRFX3ZNOElVMFk1d0VOVGVoZUhXdVVYM0Zrb0pWaEFMYWw2S3d3TS1NR2xFU1hUSWc5ZkNrUWhHQkpRMjgtUFRXOHNhYjBodWdnSEtaZjc4V0pHbzItNE1IemVvU2R1NS1YZ1dJQ0JXNUpkUFo5VjFjRkFWTGlHSlEzM1RfM194N3V3MGxTaW5rcGE?oc=5",
+      "publishedAt": "2026-11-15T08:55:00+00:00",
+      "summary": "",
+      "source": "RMF FM",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "1725. dzień wojny. USA: Członkostwo Ukrainy w NATO za Donbas. Oni tak serio? Nic z tego nie będzie",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ25NWXNKaXZmdlZUMTF3TXdXWDVsYjJ1TmhMWFk5c1E5THlGbF9KbWlaQUJyeXNXSEJPdjhScUNSd3dNdEUySGVPemU5MG1IRW1GdUl6My0yUmpnZXlBRWxZWUV6TTFwNVdlTnRhdHpvUlJsNk1rUG9IUTdjY0xvQU5sMENlTExVaWkzMEFIbjY5VU40OFVnLWhZanZVTGNqcVZMZ2xHNUxFUHphQ1Axd3FoUmwtMDNmTkpMbGx5cFhXNTRyb1RTUGgwcjlsTG1qNE9oeEZZUVdaYThkMWhVYjRDNE5qMThwSEdB?oc=5",
+      "publishedAt": "2026-11-14T19:20:57+00:00",
       "summary": "",
       "source": "Polityka.pl",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Kreml chce wycofania wojsk NATO z Polski. Ujawniono rosyjskie żądania",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkduSE1FS0lOWFA1LWdBMmVVVGFUcFM0UmZfNENxT29Ba3R0dnJwRDMxX1BVUTh4WHdkdVNEcGhNaFptQ01HX3lZTXFFWi1iN1prYl9ZQlh4YkF1S090ejZGZXlZZ2RUcVZEYkxUVFI2VkdSYzhIMG5QeEVFT012RkVoTzFpMDkxNF9kUGYxVXg1ZDRzd0l0UHc1QUVyRWRaT0FoOFg2Z0VVTUdTYVFGVWR4bWxjMFBSOGhkVzJoV3piQQ?oc=5",
-      "publishedAt": "2026-11-14T08:20:00+00:00",
+      "title": "Dwa państwa członkowskie NATO niespodziewanie ogłosiły, że nie udzielą już dalszej pomocy zbrojeniowej Ukrainie.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmtYX0xidjRVa1lSZTdBWFU0aXJ0b0FGUGdkaTFoYjZGaFhHVmhiTDJjN0dqV0xnODMxaUMxNi00LVdhUHF2T1J3OV90NGVFZkRnMGZwdnEwaXlRZnluYzMyaWZEUk05dndzT3lqVk00UHNGQzVULWtfTUFCMHBvOHlTUzBQMmVoQW0wSHJUd0tOTzBPaGRHblBTTzl5NFhkc3l5WDZpQkIwMVZ5blE?oc=5",
+      "publishedAt": "2026-11-15T05:52:55+00:00",
       "summary": "",
-      "source": "Farmer.pl",
+      "source": "Vietnam.vn",
       "category": "Obronność",
-      "geo": null
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "Osiem godzin ataku, tysiące kilometrów od granicy. Celem największy taki obiekt w Rosji",
@@ -52,30 +109,21 @@
       }
     },
     {
-      "title": "Polska wśród krajów UE negocjujących w sprawie wojny Rosji przeciwko Ukrainie. \"Ucieszyłem się\"",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHFFdm0xMWJGdDFOcGtqcDhSbG9uWnhfMWZjRDJGUVNfOTliWjJtRk1IU0ZsaFdjbVo0aldSc1NZQk5rbkRMVmJNRmR1WDFmMHp5clZRcUpPaXo3emxjeS1mWFREYzJQQkhWNm9jdTF5VmZ6VWVxRkxuMjFDbTVlcjIzWnRTTkxZa0RSVVZtTTdfODNIaXI0Zmoyc2ljTlR4cjlRNHA0SQ?oc=5",
-      "publishedAt": "2026-11-13T17:43:58+00:00",
+      "title": "1724. dzień wojny. Polska to nie Ukraina. W starciu z Rosją mielibyśmy pewną przewagę",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVVnMHhaVWI3VkZ6NXZQX0I3RW05dnNkeHZUUVdMSmNpYUtMM19IR19PQlZ1WDZCMXA5bEQ1MXZnUDdCSXRMYUQ5V3BqOXJIYm9JYnBzd3AzbjEwM1pldTE4WkNzNnJPRmNTTzBfWTFJelN1T1VxYjZnRVpVMUNWNjdpSjBKdy0tcUFJTm1CZVN2STdXWU53TE9PbjVrNEctTy03RWhoeEY5bWZDdVljdktGMklPM3JDeUNCZEp1VFg5N0w5a0ZWT001RTNZbWNyaHBQNlVlendRWngz?oc=5",
+      "publishedAt": "2026-11-13T19:36:00+00:00",
       "summary": "",
-      "source": "TVN24",
+      "source": "Polityka.pl",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Szokujący dokument z Abu Zabi. Rosja żąda wycofania wojsk NATO z Polski!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUNuc0d4Z2NYamdnb1RoSTRldGtRU0JfY0tBd3c5OGxRNmstejJFR2JrUWtMVjA0NFNNNWpyS3hockpBUG10d1dPX0g4dnpyM2h0aENRcWFWY0VudEZhc3N3dHlqZl9MNEgydTJ4VzM2MVd3dWFWWG81aDd1ZHhHRnpXcjZvdXg0MWNleDNVcHVpamxEZU9MSA?oc=5",
-      "publishedAt": "2026-11-14T06:40:00+00:00",
+      "title": "Putin zażądał wycofania wojsk NATO z Polski i innych krajów wschodniej flanki [New York Times]",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaG0xejBSTXpUMHRCbU1LTW9pTlZLc1h6OGJzYVFYMkpxWm94eXNKclRiY0I5aHlFS2RqcFBEcElxMlpNUzBYV0k3UXZtcTR4MWtIb1ItZzlIbmRsUzFobWhQTU1rNFRmemktaUFGVk5vZ3lwUWxLQWY0eE9fLW1uQ245WDllZHdITFFIOXNScjUwc3NQOHZ4QW40cnVTUTNGc2o0YllBVWxBM2VULXo0enJVd3NEcndudjgxMTZhdEY2UWowY3VvWVAxMFRpWHNHTEE?oc=5",
+      "publishedAt": "2026-11-14T12:19:35+00:00",
       "summary": "",
-      "source": "wPolsce24",
+      "source": "Wszystko co najważniejsze",
       "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Atak na ePUAP miał sparaliżować polską administrację. Gawkowski: przyszedł z zagranicy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ0o4OGo0ZFJyMlN5aXZVblZ3NGRQZmlaQVBST29mZ0xqeElvYk9mWFFPbkRUY1ZRa0MyUDhsc1NYN0dTbjg3TDJsSG56UXY4Mi00TmRUcWgyZ0hsakdJTFlHUVNFR0tyZ3Q0OUo5Y203RzZLWHlHV2RJVmhNVk5YMGpYQ2V6b1VYM1RYTlN5WnliNGlkUFo5LXFjMFd3QjdPd0JqNDJSWXI5V1l1RUNpaWxUOFRsRWc1c0c0dGlOaHFOT2lLT0dtUzMtbVhtY1lmb0NVaHQ1bGI?oc=5",
-      "publishedAt": "2026-11-12T09:07:06+00:00",
-      "summary": "",
-      "source": "CyberDefence24.pl",
-      "category": "Zagrożenia",
       "geo": {
         "label": "Polska",
         "lat": 52.0,
@@ -86,44 +134,51 @@
       }
     },
     {
-      "title": "Rosja popiera rzekomy zamach stanu w Polsce, a premier Słowacji kwestionuje przystąpienie kraju do UE [Monitor Dezinformacji #9]",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzhvX3ZfT1R4ZlVXS1hldVhObWI5VTRSb2RMdEVsZGZlWUhiR3VKZ05WeGJRNVJGVWxHbzQzRjZnZVZkdm02azN6dFFmU19ST0V6d1hvVXhKc25KVWxvMzRsdlF2Qy1lbUY0TVY1bE5hZ3pjdnpYRzh5UGxEa0JwZFZjVllKUVNyUG1ORllyajlzM2pFQVFuR3ZjR0tuTWNkLWVhcXhsRzRHNlRtc3pQWHZjcGRTTGM5YlVFbDRn?oc=5",
-      "publishedAt": "2026-11-12T12:43:00+00:00",
+      "title": "„To wciąż główne zagrożenie”. Ekspert po krakowskim ataku przypomina, jakie mamy największe wyzwanie",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUF3ZGVMbWpJZWRlS0xlNmRDSGdWNFM4RFp3WWdOQWkxWWFUUmR0SUp5MjF6ZkVGVWlyQ1RJNlpkU0NCYk9YSUhhQ1YwOWRRVndfMkdfb0dEQmU4TlgxSEkxRGNwcEEyak5HM2d0THBTSXQ5NkhhOC1WM0wzNVZtejJJaVp6R3pwWFQ5M1ZfMFJLTVlPcE9IWXBFUFJVejFuMXRpUWhNZHRhYVkzcGs3dTZfUXJhQWc4cktzUF80c3BzVGtGQ3NCUW1iVTA?oc=5",
+      "publishedAt": "2026-11-15T11:58:33+00:00",
       "summary": "",
-      "source": "wyborcza.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": null
+      "source": "Zero.pl",
+      "category": "Zagrożenia",
+      "geo": {
+        "label": "Kraków",
+        "lat": 50.0647,
+        "lng": 19.9445,
+        "scope": "miasto",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
-      "title": "Żądania Rosji w sprawie pokoju w Ukrainie. Media: Jeden kraj miałby opuścić NATO",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHE4cVJtcG94T1BPZ3RqMWdBR0ZNbjBFM245Tl9LeFFCYjYzMnlIbWJOTVV6ZjBzVmZ0QVZ3WW1FRkwyWnNIM3lOU05XaUt0SlFBM2xYT3dRMk9NZl9vZm5OX3R6d3dnMG00VVlSNGI5NGlKZXlRQWgzOVlQMldELXJjOHNHOXY5cWtuZ1hreHBkZXFybVI3cHNYZ1NNQmxoYjg5XzFRLURBd1gyYkE?oc=5",
-      "publishedAt": "2026-11-13T13:48:00+00:00",
+      "title": "Polska wśród krajów UE negocjujących w sprawie wojny Rosji przeciwko Ukrainie. \"Ucieszyłem się\"",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHFFdm0xMWJGdDFOcGtqcDhSbG9uWnhfMWZjRDJGUVNfOTliWjJtRk1IU0ZsaFdjbVo0aldSc1NZQk5rbkRMVmJNRmR1WDFmMHp5clZRcUpPaXo3emxjeS1mWFREYzJQQkhWNm9jdTF5VmZ6VWVxRkxuMjFDbTVlcjIzWnRTTkxZa0RSVVZtTTdfODNIaXI0Zmoyc2ljTlR4cjlRNHA0SQ?oc=5",
+      "publishedAt": "2026-11-13T17:43:58+00:00",
       "summary": "",
-      "source": "PolsatNews.pl",
+      "source": "TVN24",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Nocny atak rakietami Neptun. Ukraina uderzyła w rosyjskie zaplecze dronowe w Rostowie",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkpWQ0cyVzUwMGhieGFXWjZsQkZvRVlJNTBXU3BvR3lNaXQzdlg0X0w3M0RzWmhhNnEzVmEwY0RMRHo2dHVpX1o4VHV4WkFBRm9fWXdpUzJJdXY2a0g1VjlSMjdIZzMyV25FbGFOd2ZVMlM5NlZ2QUNwc2QzZUdaSEFVc3h1RmgybG9mbktTemJOMUlCUUMySDJhUU1PNk5LSGFQdi1tdkQ5R1hUWkI0ckJiWkRUU3QzWU9WRVdyelV0b1k?oc=5",
-      "publishedAt": "2026-11-13T14:20:36+00:00",
+      "title": "Rosja żąda wycofania wojsk NATO z Polski",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9USFBLLUp4NXh6Vlg5OUgxZnMzTlVNTFJyR012cG50YzZ1bHVCRTdEOWlZWlR0Ri10cWRkRDNacE1DajRBOGN1NUVEQk5GUnNSVDFqZmZ3bmxaTm9OMS1yeWgyaldaRUl6RktvU1RzUHRPZlJrWjFDZw?oc=5",
+      "publishedAt": "2026-11-14T12:15:00+00:00",
       "summary": "",
-      "source": "Rzeczpospolita",
+      "source": "Tygodnik Program",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Atak na kijowski szpital, pożary w całym kraju. Zmasowana operacja agresora",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ3dZNmY3cXFmbURYVVUyVDJKTUNvZGNUekF0anpTSE9pdVhOeWU3Wnc0dmJFenVLcmNQVE5ocEpEUGV3ejJFaEFJLUF0ZmFMQUdPTzRHRnVKLUNPa3JoTktOLTFJQXU3ZjFfTjB4Z3dpZnhIVHVFUjlRMWs4em0xWHdySUlXZjNCMlZDWXJrR3VLSTFwRlMydlNhV2dNWVplSEFUUUdYcGxwa1ZFaUljUDl5Z0hyUTFVUDFjb2NVWQ?oc=5",
-      "publishedAt": "2026-11-13T07:11:39+00:00",
+      "title": "Atak Ukraińców na obwód rostowski i Tatarstan. Pożar w jednym z flagowych zakładów petrochemicznych",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZk5DS0FtMFJRY3NUXzNMOUdOc3NXazJmQ3B5Zm5ncnRrQjBKeVJ2YXBzSlozcTV1WTN4NG02OTMwYVZ1aUdocmhLZzdpaVVaZFkzOGxkaHI3bEh0U2ZCSk1NQXRlcldZTDJpSllDSTdTb19MQWVDNE9uLWdiOEdVVnhyWVdQd0k0WnZXSW9tR05ENFVzb2Z4NWg5TmdsNElZbEVXMkVR?oc=5",
+      "publishedAt": "2026-11-15T09:16:06+00:00",
       "summary": "",
-      "source": "Interia Wydarzenia",
+      "source": "Wyborcza.pl",
       "category": "Zagrożenia",
       "geo": {
-        "label": "Kijów",
-        "lat": 50.4501,
-        "lng": 30.5234,
-        "scope": "miasto",
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
@@ -134,40 +189,6 @@
       "publishedAt": "2026-11-13T11:53:00+00:00",
       "summary": "",
       "source": "wnp.pl",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Wojsko Polskie przetestuje lądowe drony do stawiania pól minowych",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFpQUklCLXN6NmpHQXpOVlp3RUZicDFTNm5xcGpRcW5vNXFWSkZjWVN4dnZFTGJ1WjJGNXl5QlRlVDVIX1RRMFJKOWh5NWZWeE52UEs0NmVQNXJIT3VRZkFJUlF1N21aVWo3OXp4bkVkY1gtNi1HczFwVld1S1RxSkxEd0xDblgtUzBfMjVBeUpxZzBkclVUQUV1cw?oc=5",
-      "publishedAt": "2026-11-13T13:44:58+00:00",
-      "summary": "",
-      "source": "Defence24",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Pilny komunikat dla klientów banków! CERT alarmuje przed nowym atakiem",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWl4aW01UnY4N3lkSVVmbi1yczJvY2pQUXllX1ZmazZCTDNpVUdueXVuZzdUd0xuQ1NWVFRyMlkweU4zekxHNW5xNnBFdU9fekhVOVZ1M01XckpoNTR6T3hSb3lPLWRmUVpxZ01TRkl3VzA5d3JzdEVDZzhnSmRfak1sWGZzVFY1RGtXUlk4NXV2UENYSXJLR08zWUd3NFRVcmhtWUNqdVdRcDI4UlJncmpKZVJvTDNjdUpBTi12QQ?oc=5",
-      "publishedAt": "2026-11-13T06:00:00+00:00",
-      "summary": "",
-      "source": "KCI Kutno - Kutnowskie Centrum Informacyjne. Kutnowski portal internetowy.",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Korwin-Mikke: Kłótnia między Rosją a Ukrainą to nie nasza wojna",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFE2X3FoaTh1WlVhc1dHTVdQZnQwV19TeFpJTS1NUE9NMFNPRVFIU3RYcWlkTURFMGE4d2N3S2t5dWFjakZPWTEzN2d0ZGZOSU16UXliZVpYZFh3ZXNjd0RwSElFdTZydVk1aHcxcG0yYnJnNEVkMjJ1MlpfNDRzUjF5WlNEbXlpbk5OREpPRjV0YkZVRkVIdkxvTXhtU25lTzFz0gGfAUFVX3lxTFBManBXSWw3eGI2Ql9HV2RTLXBGdGNMRzVBdHVLVUs1cHk1aTZDTV9qT1ZFa0FOTWd2OHRfelRKaTUycGlJZDhKQktrV2VkUC1wV0VNVnBpbEJzTEFYWkZFQldmTktwOUVzSGVncXZvWGQ5RkI0OXNTajZLVTJvLWJ4TG51anlEeFNMTVN2SFdfbkMzc3VZNVBxRWd6NGptNA?oc=5",
-      "publishedAt": "2026-11-13T08:35:00+00:00",
-      "summary": "",
-      "source": "Do Rzeczy",
       "category": "Geopolityka",
       "geo": null
     }
