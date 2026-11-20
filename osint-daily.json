@@ -1,39 +1,46 @@
 {
-  "generatedAt": "2026-11-19T15:47:46+00:00",
+  "generatedAt": "2026-11-20T15:30:23+00:00",
   "newsletter": [
     {
-      "title": "Rosja: Media: wojna z Ukrainą główną przyczyną śmierci młodych mężczyzn w większości regionów",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmxJZ3VSc2NrM2NNd3lMamJmWnJGVFR3WGladlViaHZQWlg0SE1TRUROa1NQMjhVQmE4N3AtLTJaNUMzZlFLRjByemg1R2p1R1RDTV9CUmh5bTl5QmhKZzQzS1FzSmpOVll4TFkyb2lBOUU2bklBb3hsblJxOTlvbkV6X2dHTGJUVVdyeTBRRUN0VGlhbG8wdWFzeFBSbjZhdmp3cWI2VXhPeTRjVjcwWVlteFV4eEtFR3hNTVZLUHg0VUFLT3pBMQ?oc=5",
-      "publishedAt": "2026-11-18T18:44:00+00:00",
+      "title": "Syreny alarmowe i alert RCB o zagrożeniu atakiem z powietrza w powiecie jasielskim. Nad regionem operują myśliwce i tankowiec NATO",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTDk5YnpxTng3bXRRa2NsWTY1d09wOWxVblJNaVVSVXExNFZ1bnp6WDhiT215ajkxQjhNR2tXNmZsR0dLdld4Mm1sU2dOd0MzVTdPcjNjRHZIUGQzazNPZFZLV3Bob2dTZktTMjBYNUF5UmFxdXBkckNYcHY4MjVBU25zb0FFRFV6eEFRd2Z2NDI0eXVUOGpnT0l6Wmh3UHZ2eG5DMWhJZzFvRnVwa1BzMnhxdXpoX20wdDdJSVJ0cHMwMHFiLWFqVzZQTmNNeHhveDdDUVZ3b0lNblFLXzdaeW5udw?oc=5",
+      "publishedAt": "2026-11-20T05:59:02+00:00",
       "summary": "",
-      "source": "wnp.pl",
-      "category": "Geopolityka",
+      "source": "Jaslo.info",
+      "category": "Zagrożenia",
       "geo": null
     },
     {
-      "title": "NATO o ćwiczeniach Deep Strike. Polskie Wojska Specjalne zinfiltrowały teren i zaatakowały dronem",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbl9uODVTcWdWUHY3aDNKaHEyb09pR3RVLTM5QTB5MzJJNlJiYnNzbWluUUxHS3ktVHdlMjN6c3hlNDc5WGRYMm5qNG9PSEU5SnNTYU1ldXZzb2RrZ3phbUJWb0ZZamVMVFotb25ScWdoRVNJbGtqenZpcXdHX05tMnJoZEEzMnRJRlNlVFVVWm9NMThaX25DdHgtcGRacDBKMHdDV0NkOTYwZjlfYnlKV2tac05DZw?oc=5",
-      "publishedAt": "2026-11-18T11:02:08+00:00",
+      "title": "Wojna w Ukrainie. Macron chce ponownie otworzyć kwestię członkostwa Ukrainy w NATO",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdi14aklBYzhVVmYwRGc3bkwtNV92ZlVZTjFud1NfM2FVUS1FTjdTNmktQWVjV0c1a1NsSzVCOFFocjdHb1NCRnJnRVNIQ3U4LVZWYUx1aWVSVzI1d3c3dXIyUk9ocFhHSkcwbGpweUNpdFg1MUJuYmc4YjlXU1dJdmdTdFhMNGNfVHpRU2hBd1NiOUJneEg0ckRTRG4wVHBvc1FRdTdpTHYzeXlLamlWRGFpb0JzZlU?oc=5",
+      "publishedAt": "2026-11-19T19:36:16+00:00",
       "summary": "",
-      "source": "MILMAG",
-      "category": "Obronność",
+      "source": "Euronews.com",
+      "category": "Geopolityka",
       "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
     },
     {
-      "title": "Alert RCB - trening systemów alarmowania (19.11)",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zdVJGQlJjU2hlbU1ya1pCY3RqazdYYjNoV3M2UGNTNlJmSGMyV1Y3T2t2dmNkZE1jM21LWmNzSTFqRW5lbDM2ZDdFNzVfQk5DMnlqeHZUeGlUYWtibC1zX3Y5NEFiR1ZqYm1OeENXTkJOTEpmQlNoSWdjZUs?oc=5",
-      "publishedAt": "2026-11-19T09:32:32+00:00",
+      "title": "Rosyjska rakieta spadła na Lubelszczyźnie. Kosiniak-Kamysz chce wsparcia NATO",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLS1LdDNBUWNQUWlNYmh2b2YtVU96NkJ0SG1VaTEwRENvWWk0bDl5NGpmU1E5VTFhcGl1YXRRZ01TUFVqUlZQbWxmMkdvZllURjkwQWxaQTh0eDQzOFd1dkpZU2ZtTnBXazd3WWZCcmlQcllPcnRnQ3V5a0hGbFY5Rkt6SWhzSzhrVUJvSzAzdG5IMDBrSXZsMXRrWmJxTzZYNU9VLW9Yb1liRm5zYl9NNA?oc=5",
+      "publishedAt": "2026-11-20T15:10:00+00:00",
       "summary": "",
-      "source": "Gov.pl",
-      "category": "Zagrożenia",
-      "geo": null
+      "source": "Tysol.pl",
+      "category": "Obronność",
+      "geo": {
+        "label": "Rosja",
+        "lat": 56.0,
+        "lng": 37.6,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "Pilny komunikat CERT Polska! Krytyczna luka w popularnym oprogramowaniu. Cyberprzestępcy mogą przejąć kontrolę nad systemami",
@@ -52,20 +59,99 @@
       }
     },
     {
-      "title": "Uderzenie w kluczową infrastrukturę Kijowa. Odpowiedź Ukrainy, zawalił się fragment Mostu Krymskiego",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWJfRDhyY1FLV2RaN3RIc3hPVUIwR3diQ1k1Vk8zNkI5WUF6QnRWdnRORno5WFo4c0JaUTBtRVN3SzE3TklDS0loX3doZ1BqVE9Qc1lCQnJ2bGdMU2x2NnFQOWZVUlI2NFJEUkplUzJJNEVmczd4Y3F2OWRfS1BGSTR6V2ZWR1J0MW9ncHNPN0EzSHE1UnpkLTlyQXlQS2F2MkRrV3VCWFV0eG9fZ0F0WjhDQUxTdmlOV3dmSDhVQQ?oc=5",
-      "publishedAt": "2026-11-17T04:45:04+00:00",
+      "title": "Alert RCB i syreny alarmowe w powiecie lubaczowskim. Zagrożenie atakiem z powietrza",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzh5Q1VMYzY2V3VhVlJYSndPWGtXd0RYWUY0a2ZUMGI3bUx6b2hjTGY5ZzNucmJuYnRDVDVfem5yQTRaNGQxckQtWnR0Ymx6NXhyOXNIZXJaODVHdFZjOVpRZE9CMXlleENjS1JsTlZpeVVoN2dPNjcxYWpydnhVblVwLWFJa05PVGJWNFQyYno2cjR6VHVEaEx3WHgzU0VEQmJacHkzdHk5RGlfVGdZTG02WHhCa2c?oc=5",
+      "publishedAt": "2026-11-20T05:57:08+00:00",
       "summary": "",
-      "source": "Interia Wydarzenia",
-      "category": "Energia i infrastruktura",
+      "source": "eLubaczow",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Żołnierze NATO w Ukrainie? Gen. Pacek: to oznaczałoby pójście na wojnę",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEc2b3d1VUUwU05qREpUR1pPcnlzNTUzWXd0UmNXVFgtenB0RUJuUFJUdmlqR2ZycWprRjJoZm9qakFISFl5OWcxRDhPYkhxSFd2TlRmc0tTMXFsaUl4ZnhkRXFIMmJhbXdoRzVBSkc0SDZ1dklFdy1GbkVSSkdRVU95QjJ0M0tIcFl1S1A3N1J2RklIS2pKMG1QSmgtLXdN?oc=5",
+      "publishedAt": "2026-11-19T16:54:03+00:00",
+      "summary": "",
+      "source": "Polskie Radio 24",
+      "category": "Geopolityka",
       "geo": {
-        "label": "Kijów",
-        "lat": 50.4501,
-        "lng": 30.5234,
-        "scope": "miasto",
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
+    },
+    {
+      "title": "Rosyjska rakieta X-101 spadła w pobliżu poligonu NATO w Polsce – The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2RDNU1oTTluNzRvY0ZCT1FRVEFKYjJzSW1tdjZ2cUxmSldlSmZPczBTWHR6MDBIRmdwTU9HYXdvMGI4X1JUb2lJcm9UaVotbWo1aHN0eWdVam5KT1NLLWI5UU5xN0pRVkhsVGU5Y29EVUdVUmwwbjY5Yk10am15a3RNYjJQV0VqVmNfbjlfeklGM2UzenFBcEo1Z1BscTJmWFE?oc=5",
+      "publishedAt": "2026-11-20T12:33:34+00:00",
+      "summary": "",
+      "source": "UA.NEWS",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "Autopay po cyberataku. Możliwy wyciek danych kart płatniczych, banki zastrzegają karty",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2UxOGprYlQtQllFdzNrNFlIb2Y0NVAzdmFFVW9OYmUwVHhyekhPWWlvUHpKdXRTYVBNZElJVkJ2TEN1TUxBZ2ZmVXZXNXlUbEVSQ2tSaUl3X0NBSWx5VFlQV2x2cWlUaFZzSUhZRElEeXp0dTdHdS1MbndQVk10STBnRU1ES3NQOVNMVDVjMWxGeVozMHJFWXR2UFFuOEZLeV9yY2dWTXFGRkJtbmxEUk9NVFZiQUlQU0Q0ODhIZ0Q?oc=5",
+      "publishedAt": "2026-11-20T05:12:26+00:00",
+      "summary": "",
+      "source": "Portal.Faktura.pl",
+      "category": "Cyberbezpieczeństwo",
+      "geo": null
+    },
+    {
+      "title": "\"Zagrożenie atakiem z powietrza\". Alert RCB dla dwóch województw",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekI5Y3JSdm9mQlQwbWpad25MQXg1SWRfaUNNQlo4QjFuOXA1aXJ1VE5MWlpGeU9NNl9ybktCU1QzMnRROVBMSFY2Q2tFNXA2NmtWQ3U4dnJIZjdEUktsNXVCT1NmakNoNDlTamo3dzNTVmtEQ2MzWTlLXy1GVUFkTWNua2VXUGhBWXZlX0FMT2hHcGRILXJLdGhMTzk0WG9NRG1KYy1n?oc=5",
+      "publishedAt": "2026-11-20T06:58:04+00:00",
+      "summary": "",
+      "source": "Dzień Dobry TVN",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Rosja: Media: wojna z Ukrainą główną przyczyną śmierci młodych mężczyzn w większości regionów",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmxJZ3VSc2NrM2NNd3lMamJmWnJGVFR3WGladlViaHZQWlg0SE1TRUROa1NQMjhVQmE4N3AtLTJaNUMzZlFLRjByemg1R2p1R1RDTV9CUmh5bTl5QmhKZzQzS1FzSmpOVll4TFkyb2lBOUU2bklBb3hsblJxOTlvbkV6X2dHTGJUVVdyeTBRRUN0VGlhbG8wdWFzeFBSbjZhdmp3cWI2VXhPeTRjVjcwWVlteFV4eEtFR3hNTVZLUHg0VUFLT3pBMQ?oc=5",
+      "publishedAt": "2026-11-18T18:44:00+00:00",
+      "summary": "",
+      "source": "wnp.pl",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Dwie rakiety i dron wleciały do Polski. Wicepremier podał szczegóły",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnVMM2hzZUliQnl1ZFg4eVhWR0lFNkNaYVNJcm15Y0hSNTh0VUJPTXQtRVNwZjEtSUotajEyWTg3SnA4R0k5OXJYc1l0aTktM08tc200NTRSb1NOTUYxMF9ObUhBN3NLOG9FanZGWndSOEpob0VIV2dUVnkyaUdKdQ?oc=5",
+      "publishedAt": "2026-11-20T10:36:57+00:00",
+      "summary": "",
+      "source": "Zero.pl",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Cyberatak na Autopay: możliwy wyciek danych kart płatniczych Polaków",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFvbGtpdW1VWVF6VkNGVWlQODdab2xvMEYzQUVCVC01clBqY1BDRXg5bHR5ZUdCUGo5cklXOFJ2ZEx5U05QaGk4VmJyOWZiS0lXLVU3R3JHQWlHOEdwZDlfbXRGX3E5OFhCZzJxYzVCSDNJTGlmdHZncE1wSERhMHlZNEhwZDJBbmFBX3BaYzZRS3hvNXZ1NTFhSHRzR1BrdFk3Vg?oc=5",
+      "publishedAt": "2026-11-20T04:26:14+00:00",
+      "summary": "",
+      "source": "Goniec",
+      "category": "Cyberbezpieczeństwo",
+      "geo": null
+    },
+    {
+      "title": "RCB wydał alert dla dwóch województw! \"Zagrożenie atakiem z powietrza\"",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlk1VnNKbEQ3WEZoaE83TFJSTm43NmtLbTYtWkctdEh5cmpyMXRzZWIzSDlHQVJaM3pJMHBpeC1XSXRSSmdoOGdjc1pTU3FvdGpxNkR3dF90Y3dldUhPTmstbGlneVZRbVZuck80Ym0yb29KclhqeGZrNHNNQ2g1Q3RtM2IzU2ZhaEF1UFUwdkJEM2VnNGVhd0RPak9vSHA3ZTVFVnlSWUNYZUE?oc=5",
+      "publishedAt": "2026-11-20T06:05:00+00:00",
+      "summary": "",
+      "source": "Niedziela.pl",
+      "category": "Zagrożenia",
+      "geo": null
     },
     {
       "title": "Zachód traci, Rosja traci, Chiny zyskują. To im najbardziej opłaca się dalsza wojna Rosji z Ukrainą",
@@ -77,11 +163,11 @@
       "geo": null
     },
     {
-      "title": "Polski przemysł zbrojeniowy dostarcza kolejne Borsuki. Wojsko szkoli załogi",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUIxeHVFWklXbGZhZW9TbktSci1TZmhzNExrZUY2Y3NwY0t4NXF1bGdESXRTOGNmSjNJcVM2NGNVUmp0ZVUxYjd6OE53YVYxUGJfU2ZqS2xETDdfTWFvdlpvVUNNOUM5UHRRMjBINjctdEJnU1JvdU9nNTJBeHptdHdwYm9XdmJkcnpoNEVHODdhbWtEUUxpclc0aGtHbFpLZDlmZi1aLUNZN3B1bVZCS3RBRU9zazVxNl96Yg?oc=5",
-      "publishedAt": "2026-11-19T13:46:00+00:00",
+      "title": "Na terytorium Polski spadły dwie rakiety i dron. Szef MON: to największy atak z oddziaływaniem na Polskę",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVRMaGg1T0c0UVdqTTBvRGR5RkdZUWdjVU1FNm9XOS1OU0RwOFBzNy1seTFUT01NNC0yR3dGZENVY2RMZkJRTnRnUnNUSkRrSVE0TG9sZnlfcjRHYTd1YXRBVmRrUnpEaFg2YzZDbXJpZ0toWVJYT195NG4tRlNyRmVfZEsxaUxqQThMbzZCRy1mTHdVWS02UXNTSTJhYmJYOFNDSHA5ZHJYbWZ6YWF2MUkwYWFSbFJadjlFMEFyT3R3dTdiaG40cnJiQmg?oc=5",
+      "publishedAt": "2026-11-20T10:22:22+00:00",
       "summary": "",
-      "source": "Bankier.pl",
+      "source": "Portal i.pl",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -91,92 +177,6 @@
         "approximate": true,
         "method": "title_keyword"
       }
-    },
-    {
-      "title": "Syreny alarmowe zawyją na Lubelszczyźnie. RCB wysłało alert do mieszkańców",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdG83UnZpcmZaN3lBUVU2ci1GZzhEU3FTUGpJVnlxX2NQNHdsYW5mQTNwNnZqaVJSVzgyV1poV3NnZy1hQ21BZTg1MGRHUUxPREVWLXpsdVA1b0xRYlY4Q0NKSE0wbUFJTVpFdFU0OHcwQk5OZGFvNXJKVGxSZG1WVEgyRVhoSkJYdno3dGQ3ckRtSWhPQ2JvQi12U2p2ZXhBM09OVm9qbzRkSGJpT05LNko0OFEzS3Q1U1dCLQ?oc=5",
-      "publishedAt": "2026-11-19T07:24:00+00:00",
-      "summary": "",
-      "source": "Dziennik Wschodni",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "CERT Polska i InPost ostrzegają przed fałszywymi linkami — podejrzane sms-y przekaż na 8080",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajRkbkJwZEI3dDlKOGpNdGtZN3NXX3lUR196SE5BblluZk12eTdlZ1lqRTUyT2xXTDVQQ0xuby1xMVpNYTEya3NnS1BJV3d0TnBKYXJmX1dieWY4UU9wcU9rQWRoV1d2ZHo4LVpsVmFOcms5bGtVSFFBX0RaRWF4S242NXFPUTE4UlpncF9lYk5HQUZQOEZBZk9XS2UtaTdXSmc4WjdYN1g4Nmc4ZHZxT2JuWENfUQ?oc=5",
-      "publishedAt": "2026-11-18T14:37:09+00:00",
-      "summary": "",
-      "source": "WM112.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Ukraina oskarża Rosję o używanie w wojnie „toksycznych chemikaliów”. Apel MSZ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkp1SHN0NTRST1BxejNkeUhLOFpZWVZ6aTdFSENkN09iR1dpRDZhTWFjdHN2VFlEaTdaLTVkMGJxdjhDMnJTUzNqN04tNTBvMWxPdVlxcERHUDZHVUw1REQ2bWduS1pOMmdkWlJpVlI3bVItZ3hRbThkM01oNTBVZ2s4bVV5MDU4RnhXZGZ1YUZSSkMtdWhNeVhsNWdTRjZ1dFU0aFBsM1phb1VYVHA2Uk93?oc=5",
-      "publishedAt": "2026-11-18T14:29:08+00:00",
-      "summary": "",
-      "source": "Defence24",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Dziwne światła nad Warszawą i okolicami. To Wojsko Polskie testuje rakiety oświetlające",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUHhzb1hMY29RSmhXVFUyWC13aUtsZUpsRkZYMHZOVGEweEx3ZGhKN0VuMVJCSnU2V3VfOUxWdXRLS05zdkcyZ3JCdWJZb1dnelRrbmtHQ255MjZWdzdaSlVuNzlYdDgzNmNtSXdla0VLYlBGRVp5LUNGX2k0OUVwSU1qWElBa2tBUGlnbW1zMGFiZDREVzg0Wi1wSV9CLTloSXoxeE05YVpoblZuekdJa1RHdjZTTndlTTdTUERuSjJRRDZlcHM4dGg4WExwcTlRN3loNV9yMV9jbk83Zmw3ZzNFMTRBcWNFMVVhelN1NDdFZjdHZlhERkhn?oc=5",
-      "publishedAt": "2026-11-18T13:23:00+00:00",
-      "summary": "",
-      "source": "Portal Obronny",
-      "category": "Obronność",
-      "geo": {
-        "label": "Warszawa",
-        "lat": 52.2297,
-        "lng": 21.0122,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Syreny alarmowe zawyją w powiecie radzyńskim. RCB wysłało alert",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzFNeFJBTlBVWktwRjJSVzAwa0ZPMTdjMlFNdWFDbGhodjRqVUl0VU1NSEtxR3J4a3U1dXdPNjZBa0hqcHVfZlhiRUJzZk1XLTZzYUY5TWFZM2RqSW9Cazg1Tm82QV9YQmExbERuZ21oNlp0S2dNZG9uRVdQZng3bVBfMmpoSDNiRUJYQkRjYWFhZw?oc=5",
-      "publishedAt": "2026-11-19T06:47:09+00:00",
-      "summary": "",
-      "source": "Lublin112",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Atak Ukrainy na Most Krymski. Zełenski: Przypominamy Rosji, że wojna wraca tam, gdzie się zaczęła",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXhEVGxSZDYzSDl0dnF4c095UXJUZ0NiellReEVJc0Y3LTdDMGJGN3BNZUtHRTVEWW9FOENmVUZ1VjRWcHJra2d6WjUxaUdfOVBtTVZoMzdaR1ZpaWRtaXhsWHF0YnhZWlBfU3ExdThpSDUzdXlHbThRNG1UNGxLYlRTSUFBY0FfczFEVlo5Y19lanNRU3VzQ2tEWDJiZ2ZqYzZV?oc=5",
-      "publishedAt": "2026-11-17T06:04:15+00:00",
-      "summary": "",
-      "source": "Wyborcza.pl",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Ławrow straszy Europę. Ekspert: możemy usłyszeć, że zginęli żołnierze NATO",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2gteFJpYmRnOUlnZ0VPd3Vra1JLM1o5UHVYd0d4SUdGaC1kdFdEcm1FcG9oMy1KWVJjb0twSzI0M2VFMUdHNVJzN2ZMNm1RQmswUGp4NWV4aDdEQWROUHNNQlM5akZCaERjczhld2JrN2hsS2hrODE4c01qQU0xQUVGbkd5WkVPNjlVX0VJb3VHV2tzSXlxUjVGcTFvU1h6UVNDWEhmWlREUQ?oc=5",
-      "publishedAt": "2026-11-18T12:27:22+00:00",
-      "summary": "",
-      "source": "Polskie Radio 24",
-      "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Ćwiczenia systemu alarmowania. Alert RCB dla powiatu radzyńskiego",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW9SQkNNZlAzaVU1RERtZDJzc0NrZjYwNk9PY21xQm9qWTVaTUkxbVRRY0dnMGoyMzRMTDRZVjRJdGZoU3V4aFhmVDJzV2lzY1dJUkthRkJlcE54VFBfcF9zR2VPU25YTGVYQ2kxSlh5Z0hLemdTY18zeDZObkJ2VUdBb0xPZG5fNm5aQlVqeW5sdkRqNFZQeUljUUlHUdIBowFBVV95cUxPWUlabVJ5QTRLQUROaEZSWFlqNWFXUFlKMHdIT2loNjZsWFZsTlMtVmk3emFvTmxnLUFLU3EtWi13QkpHMm02QkU2X0hpTk5PTlliRFFWWThpUzA0eXkxTnUwLS1Eem9LWUNhdmYtVlVDbEJ1NXNxZzhROEw4bDBVRjZ0Z01VMmxkTncxSXJsajhPSGlyTVJ5ZDFDLXFVczBjQVlR?oc=5",
-      "publishedAt": "2026-11-19T06:33:00+00:00",
-      "summary": "",
-      "source": "Polskie Radio Lublin",
-      "category": "Zagrożenia",
-      "geo": null
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
