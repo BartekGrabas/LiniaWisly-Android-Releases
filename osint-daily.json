@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:30:23+00:00",
+  "generatedAt": "2026-11-21T14:42:38+00:00",
   "newsletter": [
     {
       "title": "Syreny alarmowe i alert RCB o zagrożeniu atakiem z powietrza w powiecie jasielskim. Nad regionem operują myśliwce i tankowiec NATO",
@@ -11,11 +11,11 @@
       "geo": null
     },
     {
-      "title": "Wojna w Ukrainie. Macron chce ponownie otworzyć kwestię członkostwa Ukrainy w NATO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdi14aklBYzhVVmYwRGc3bkwtNV92ZlVZTjFud1NfM2FVUS1FTjdTNmktQWVjV0c1a1NsSzVCOFFocjdHb1NCRnJnRVNIQ3U4LVZWYUx1aWVSVzI1d3c3dXIyUk9ocFhHSkcwbGpweUNpdFg1MUJuYmc4YjlXU1dJdmdTdFhMNGNfVHpRU2hBd1NiOUJneEg0ckRTRG4wVHBvc1FRdTdpTHYzeXlLamlWRGFpb0JzZlU?oc=5",
-      "publishedAt": "2026-11-19T19:36:16+00:00",
+      "title": "\"Wejście w stan wojny\". Generał Bieniek o \"zamknięciu nieba\" nad Ukrainą przez NATO",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWR1Rzk1dktMNTVIZ3dkUFY2R2JERzJLTmM1SkpKc2YycC1JeGw0LUs2WDY4c18td2laamFUNi03YlQ0MXk0UDFYa3Nsb0ZtMnJ4a1BpTTlfSEFNTTZoS1dTbDZWcm9qMWE0LVZYWk91VlpvLUpMWm9CZndOZVBVYVBfVlhFcXFvczhPdHk0R052LTZMWUJMLUZHNEJFX1ZHY3FKa3VITWFqQ3BrWXZXRWM4cWpJOVNDOEVsZFk4YVFDZnRqb01oZjZR?oc=5",
+      "publishedAt": "2026-11-20T18:38:00+00:00",
       "summary": "",
-      "source": "Euronews.com",
+      "source": "PolsatNews.pl",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
@@ -27,27 +27,27 @@
       }
     },
     {
-      "title": "Rosyjska rakieta spadła na Lubelszczyźnie. Kosiniak-Kamysz chce wsparcia NATO",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLS1LdDNBUWNQUWlNYmh2b2YtVU96NkJ0SG1VaTEwRENvWWk0bDl5NGpmU1E5VTFhcGl1YXRRZ01TUFVqUlZQbWxmMkdvZllURjkwQWxaQTh0eDQzOFd1dkpZU2ZtTnBXazd3WWZCcmlQcllPcnRnQ3V5a0hGbFY5Rkt6SWhzSzhrVUJvSzAzdG5IMDBrSXZsMXRrWmJxTzZYNU9VLW9Yb1liRm5zYl9NNA?oc=5",
-      "publishedAt": "2026-11-20T15:10:00+00:00",
+      "title": "Dwie rakiety i dron. Pilna wizyta szefa NATO w Polsce",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNk5aZnFNVTVoU3B4dnRrNDFGcTZ5SUE3bUluTi12R2RpY3BONFlRdnZVeUt1T05ILVluYUsxS2loNkFiWm14RHFaZ1EtOG8tc0lGWHhBdm94OWJzc1NlWVNiV0NBeElkX1NNVlhNZ1JlZ2VPMzROdWxpZzQ1UmpXaGJZVHhNNDlZd2c?oc=5",
+      "publishedAt": "2026-11-20T16:00:00+00:00",
       "summary": "",
-      "source": "Tysol.pl",
+      "source": "TVP Wilno",
       "category": "Obronność",
       "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
     },
     {
-      "title": "Pilny komunikat CERT Polska! Krytyczna luka w popularnym oprogramowaniu. Cyberprzestępcy mogą przejąć kontrolę nad systemami",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1hSV0had0R4UjJPMW1DZXVFckZabkRuRjBqTmtvQV9ybERBZE9VbFlwbGlNS0VsNFlMX0xqb01YU1VxSW9XVGpwcGplZGhuSTZtSlJEbUZuLVdrRS1CN2I4bUxQbTJHSFpRUUtrWGxmd2NNUDM0Q1ZuNHRBYXp4RVZCTGNJeEFlU3kwMFczOE1wdG1YTzZMa2twNWJGeElVNGNLbko2ejQ3Mm5sVi0tRFIyd1I5aXU5US1Ub1p0dWFmOS1UYmVscjRfZGNtNjhCZExPMnhVMDQzNXJ0aW9iWjgwUGdmZw?oc=5",
-      "publishedAt": "2026-11-17T22:57:00+00:00",
+      "title": "Modele OpenAI na froncie cyberobrony NATO i Polski. CERT Polska wykrywa luki dzięki narzędziu Daybreak",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZE53MEJWc01CM0dlWkZTR1pxNGd4V3hlT0pMS3VpTy12YTFuS1VSWXdZYkVYeW1vNUhUeFpEa0JhaGtTc0dlVzNodVlRV3lMaEdJWVgyMkJscW1nUDdTQzA3cGFYTXlPb3JXMWZLNlp3Y2Y1eGwyUkV5RVFVQ2ZwZE5zZFUtaG81aUFBZnNUVWNSOVdEQUYwQjFvVjBNdXVVWEFycHlWckdrUHVLamZ2RTFGOW83bm45RkJySGJ3ck9rVWhZeGlqLUZNZ2JDbzBIbnBZaThabTZwaFJBX0NLd1AyUk9CcUJw?oc=5",
+      "publishedAt": "2026-11-21T09:40:56+00:00",
       "summary": "",
-      "source": "Warszawa w Pigułce",
+      "source": "Computerworld.pl",
       "category": "Cyberbezpieczeństwo",
       "geo": {
         "label": "Polska",
@@ -59,11 +59,27 @@
       }
     },
     {
-      "title": "Alert RCB i syreny alarmowe w powiecie lubaczowskim. Zagrożenie atakiem z powietrza",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzh5Q1VMYzY2V3VhVlJYSndPWGtXd0RYWUY0a2ZUMGI3bUx6b2hjTGY5ZzNucmJuYnRDVDVfem5yQTRaNGQxckQtWnR0Ymx6NXhyOXNIZXJaODVHdFZjOVpRZE9CMXlleENjS1JsTlZpeVVoN2dPNjcxYWpydnhVblVwLWFJa05PVGJWNFQyYno2cjR6VHVEaEx3WHgzU0VEQmJacHkzdHk5RGlfVGdZTG02WHhCa2c?oc=5",
-      "publishedAt": "2026-11-20T05:57:08+00:00",
+      "title": "Seria eksplozji we Lwowie. Rosja uszkodziła elektrownię. Wprowadzono awaryjny harmonogram",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVdNMkJBcEVybFh4aDhGbWd1WExXQ3Vmd2c4ck8wM3RHS3R1NFZHYUJSTmpRc3hjRHVES29uV0F0TF9mWUVRRnZfOUxYVGxKZFVzalBOa3ZqV3p5Yjh3T2hkZHVGQ0hYSU45S01hcVNsNkJwZVVaOWlaX192QTdCdnNaMWR5QUkzMW1adzB6M3pGWVpPTTMwM2pmckpYZTkwYUMyT3ZzSmR5eFlDOVNGR0U4dUdHZ1FTY2tLNjFB?oc=5",
+      "publishedAt": "2026-11-20T20:29:48+00:00",
       "summary": "",
-      "source": "eLubaczow",
+      "source": "Interia Wydarzenia",
+      "category": "Energia i infrastruktura",
+      "geo": {
+        "label": "Lwów",
+        "lat": 49.8397,
+        "lng": 24.0297,
+        "scope": "miasto",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Alert RCB: zagrożenie atakiem z powietrza na Lubelszczyźnie (20.11). Aktualizacja 7:30: zagrożenie odwołane",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeHZjenprZFVvdlRiLTdhUDZRTy1YczdYTEVoUmx6Tzc1bHJkZGU2eXhMUF8wRFd4X19tUzVSc2FDa0RXMnd5WFZOTXBLUHNDRUU1MFQ3TlZiUExMTGtHVi1oWTdXU3JWZ2lGdE1NNE5CeFZXQkxxTkJFaDJKSldiOXhFSlY3Z0RlUlc5NkhlX0h5OWdGa0tSUjlWYWM0N1IzdlY0dlUxdGNOQm1LVlQtdWpSUmxOTVVnN3ZUaE5qQ3lJVVlMS21aNm13WDU3RHVvbEF6bk1XMHNpZDho?oc=5",
+      "publishedAt": "2026-11-20T06:59:31+00:00",
+      "summary": "",
+      "source": "WiadomosciLublin",
       "category": "Zagrożenia",
       "geo": null
     },
@@ -84,20 +100,20 @@
       }
     },
     {
-      "title": "Rosyjska rakieta X-101 spadła w pobliżu poligonu NATO w Polsce – The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2RDNU1oTTluNzRvY0ZCT1FRVEFKYjJzSW1tdjZ2cUxmSldlSmZPczBTWHR6MDBIRmdwTU9HYXdvMGI4X1JUb2lJcm9UaVotbWo1aHN0eWdVam5KT1NLLWI5UU5xN0pRVkhsVGU5Y29EVUdVUmwwbjY5Yk10am15a3RNYjJQV0VqVmNfbjlfeklGM2UzenFBcEo1Z1BscTJmWFE?oc=5",
-      "publishedAt": "2026-11-20T12:33:34+00:00",
+      "title": "Rosyjskie rakiety naruszyły polską przestrzeń powietrzną. Sprawą zajmie się NATO",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1BvbDFpQUJLWHg5X2JMbFJTXzNIaTB3c3VoQzV5ODBsOWg0Ulk5UGQ3aXdzc1NvRVlMNFA0Y0VkWkFqSUh4RW00TzBwYlAxNmI0a3U0enI5b1UwQTZjUG5kdU5iNFA2THNxeERVNVk1SFFqYi15VHVHWVE2T3lOXzdlZGxGb1MydHJ4WEQ2c0FwTmpFWTJDT1dQdGRXSFZQRUxYVjNZanhUdHlWNm96WGhBbmhSTmZ3MHAxd01VZ04?oc=5",
+      "publishedAt": "2026-11-21T14:19:09+00:00",
       "summary": "",
-      "source": "UA.NEWS",
+      "source": "Rzeczpospolita",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Autopay po cyberataku. Możliwy wyciek danych kart płatniczych, banki zastrzegają karty",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2UxOGprYlQtQllFdzNrNFlIb2Y0NVAzdmFFVW9OYmUwVHhyekhPWWlvUHpKdXRTYVBNZElJVkJ2TEN1TUxBZ2ZmVXZXNXlUbEVSQ2tSaUl3X0NBSWx5VFlQV2x2cWlUaFZzSUhZRElEeXp0dTdHdS1MbndQVk10STBnRU1ES3NQOVNMVDVjMWxGeVozMHJFWXR2UFFuOEZLeV9yY2dWTXFGRkJtbmxEUk9NVFZiQUlQU0Q0ODhIZ0Q?oc=5",
-      "publishedAt": "2026-11-20T05:12:26+00:00",
+      "title": "Cyberatak na Autopay: możliwy wyciek danych kart płatniczych Polaków",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFvbGtpdW1VWVF6VkNGVWlQODdab2xvMEYzQUVCVC01clBqY1BDRXg5bHR5ZUdCUGo5cklXOFJ2ZEx5U05QaGk4VmJyOWZiS0lXLVU3R3JHQWlHOEdwZDlfbXRGX3E5OFhCZzJxYzVCSDNJTGlmdHZncE1wSERhMHlZNEhwZDJBbmFBX3BaYzZRS3hvNXZ1NTFhSHRzR1BrdFk3Vg?oc=5",
+      "publishedAt": "2026-11-20T04:26:14+00:00",
       "summary": "",
-      "source": "Portal.Faktura.pl",
+      "source": "Goniec",
       "category": "Cyberbezpieczeństwo",
       "geo": null
     },
@@ -120,11 +136,11 @@
       "geo": null
     },
     {
-      "title": "Dwie rakiety i dron wleciały do Polski. Wicepremier podał szczegóły",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnVMM2hzZUliQnl1ZFg4eVhWR0lFNkNaYVNJcm15Y0hSNTh0VUJPTXQtRVNwZjEtSUotajEyWTg3SnA4R0k5OXJYc1l0aTktM08tc200NTRSb1NOTUYxMF9ObUhBN3NLOG9FanZGWndSOEpob0VIV2dUVnkyaUdKdQ?oc=5",
-      "publishedAt": "2026-11-20T10:36:57+00:00",
+      "title": "Pociski spadły na Polskę. Spotka się ważny organ NATO",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNERTUTB1VDIwX19DN2h2elY4cWZPbTBMbFY0d3kzaTlLRUNGaHJnRVAxNVlYZi1fOEtIcXl5Ym54NHVNb01NbmNIMkFhaHJrMGc5LTNtV0JYNGhNWE53NkZHemhWclVENlhhUDhMZFR1YkRXNmhlaVAtY0VQdi1LdXI5WXZrM2hLOXp6bnhhNnU?oc=5",
+      "publishedAt": "2026-11-21T13:39:00+00:00",
       "summary": "",
-      "source": "Zero.pl",
+      "source": "Niezależna",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -136,13 +152,20 @@
       }
     },
     {
-      "title": "Cyberatak na Autopay: możliwy wyciek danych kart płatniczych Polaków",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFvbGtpdW1VWVF6VkNGVWlQODdab2xvMEYzQUVCVC01clBqY1BDRXg5bHR5ZUdCUGo5cklXOFJ2ZEx5U05QaGk4VmJyOWZiS0lXLVU3R3JHQWlHOEdwZDlfbXRGX3E5OFhCZzJxYzVCSDNJTGlmdHZncE1wSERhMHlZNEhwZDJBbmFBX3BaYzZRS3hvNXZ1NTFhSHRzR1BrdFk3Vg?oc=5",
-      "publishedAt": "2026-11-20T04:26:14+00:00",
+      "title": "Ostrzeżenie CERT Polska. \"Nadpłata za energię elektryczną\"",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2taOG5CVVI5WEstSWhNNkY0T1lYb2w5dk5KSkQ5dzMzcmdMUm4tZ0JWc09hT0lGSHBmRDdrc1d4a0xPanFIaGMtbWFTbjR6VENpVUFVemZpbS1fNXFmQ3Joa1NCOUowcFR4X2pBMEVJTGhBYlJ6OHpzU0t3LXlFS3JLV01RTS1YVjYzS21YODhRb3hOdE0wc2hhcmU0bGcwYkdadw?oc=5",
+      "publishedAt": "2026-11-20T10:30:02+00:00",
       "summary": "",
-      "source": "Goniec",
+      "source": "Dobreprogramy",
       "category": "Cyberbezpieczeństwo",
-      "geo": null
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "RCB wydał alert dla dwóch województw! \"Zagrożenie atakiem z powietrza\"",
@@ -161,22 +184,6 @@
       "source": "Rzeczpospolita",
       "category": "Geopolityka",
       "geo": null
-    },
-    {
-      "title": "Na terytorium Polski spadły dwie rakiety i dron. Szef MON: to największy atak z oddziaływaniem na Polskę",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVRMaGg1T0c0UVdqTTBvRGR5RkdZUWdjVU1FNm9XOS1OU0RwOFBzNy1seTFUT01NNC0yR3dGZENVY2RMZkJRTnRnUnNUSkRrSVE0TG9sZnlfcjRHYTd1YXRBVmRrUnpEaFg2YzZDbXJpZ0toWVJYT195NG4tRlNyRmVfZEsxaUxqQThMbzZCRy1mTHdVWS02UXNTSTJhYmJYOFNDSHA5ZHJYbWZ6YWF2MUkwYWFSbFJadjlFMEFyT3R3dTdiaG40cnJiQmg?oc=5",
-      "publishedAt": "2026-11-20T10:22:22+00:00",
-      "summary": "",
-      "source": "Portal i.pl",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
