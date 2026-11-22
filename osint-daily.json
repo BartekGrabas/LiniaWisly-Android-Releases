@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:42:38+00:00",
+  "generatedAt": "2026-11-22T14:38:23+00:00",
   "newsletter": [
     {
       "title": "Syreny alarmowe i alert RCB o zagrożeniu atakiem z powietrza w powiecie jasielskim. Nad regionem operują myśliwce i tankowiec NATO",
@@ -11,32 +11,25 @@
       "geo": null
     },
     {
-      "title": "\"Wejście w stan wojny\". Generał Bieniek o \"zamknięciu nieba\" nad Ukrainą przez NATO",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWR1Rzk1dktMNTVIZ3dkUFY2R2JERzJLTmM1SkpKc2YycC1JeGw0LUs2WDY4c18td2laamFUNi03YlQ0MXk0UDFYa3Nsb0ZtMnJ4a1BpTTlfSEFNTTZoS1dTbDZWcm9qMWE0LVZYWk91VlpvLUpMWm9CZndOZVBVYVBfVlhFcXFvczhPdHk0R052LTZMWUJMLUZHNEJFX1ZHY3FKa3VITWFqQ3BrWXZXRWM4cWpJOVNDOEVsZFk4YVFDZnRqb01oZjZR?oc=5",
-      "publishedAt": "2026-11-20T18:38:00+00:00",
+      "title": "Rosyjskie rakiety i dron nad Polską. NATO zapowiada zdecydowane działania",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZnZyNERSRm5fTGRnczQxQmtsWmhrejVRUnhiWXRPRmFHVFlkWjh5WW50WTlSMWJ6Tnp6ZDJIZkZDSnhoM3dNSC1KQ3hsRVdUNU90bFhHMWF6cVdodDBiaUlPY1BmQQ?oc=5",
+      "publishedAt": "2026-11-22T13:17:55+00:00",
       "summary": "",
-      "source": "PolsatNews.pl",
+      "source": "wm.pl",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "Ukraina w NATO? „Wszystko zależy od zakończenia wojny”",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzZ2NXdpRVgtREo4WVFraXR6QnZrdUlNcm9HTWNjRXFfeFEzZTl5QnVvSnlTb19ZQTBENmh0elJOemZHbFI4SlFoazl4SmhjV05PbEY4ZjZJejBYd0N3aDlIYWdUUzJzMzd1ZHBza1RWREZKb3QwaGNpTS0zbWxreXRQVzFSNUpsTkJFY01UYllHYUlKSjM2aVNINWxIZ2VIX2k0cHFydW42QQ?oc=5",
+      "publishedAt": "2026-11-21T16:34:00+00:00",
+      "summary": "",
+      "source": "TVP Info",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
         "lat": 49.0,
         "lng": 31.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Dwie rakiety i dron. Pilna wizyta szefa NATO w Polsce",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNk5aZnFNVTVoU3B4dnRrNDFGcTZ5SUE3bUluTi12R2RpY3BONFlRdnZVeUt1T05ILVluYUsxS2loNkFiWm14RHFaZ1EtOG8tc0lGWHhBdm94OWJzc1NlWVNiV0NBeElkX1NNVlhNZ1JlZ2VPMzROdWxpZzQ1UmpXaGJZVHhNNDlZd2c?oc=5",
-      "publishedAt": "2026-11-20T16:00:00+00:00",
-      "summary": "",
-      "source": "TVP Wilno",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
         "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
@@ -84,11 +77,27 @@
       "geo": null
     },
     {
-      "title": "Żołnierze NATO w Ukrainie? Gen. Pacek: to oznaczałoby pójście na wojnę",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEc2b3d1VUUwU05qREpUR1pPcnlzNTUzWXd0UmNXVFgtenB0RUJuUFJUdmlqR2ZycWprRjJoZm9qakFISFl5OWcxRDhPYkhxSFd2TlRmc0tTMXFsaUl4ZnhkRXFIMmJhbXdoRzVBSkc0SDZ1dklFdy1GbkVSSkdRVU95QjJ0M0tIcFl1S1A3N1J2RklIS2pKMG1QSmgtLXdN?oc=5",
-      "publishedAt": "2026-11-19T16:54:03+00:00",
+      "title": "Dwie rakiety i dron. Pilna wizyta szefa NATO w Polsce",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNk5aZnFNVTVoU3B4dnRrNDFGcTZ5SUE3bUluTi12R2RpY3BONFlRdnZVeUt1T05ILVluYUsxS2loNkFiWm14RHFaZ1EtOG8tc0lGWHhBdm94OWJzc1NlWVNiV0NBeElkX1NNVlhNZ1JlZ2VPMzROdWxpZzQ1UmpXaGJZVHhNNDlZd2c?oc=5",
+      "publishedAt": "2026-11-20T16:00:00+00:00",
       "summary": "",
-      "source": "Polskie Radio 24",
+      "source": "TVP Wilno",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "\"Wejście w stan wojny\". Generał Bieniek o \"zamknięciu nieba\" nad Ukrainą przez NATO",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWR1Rzk1dktMNTVIZ3dkUFY2R2JERzJLTmM1SkpKc2YycC1JeGw0LUs2WDY4c18td2laamFUNi03YlQ0MXk0UDFYa3Nsb0ZtMnJ4a1BpTTlfSEFNTTZoS1dTbDZWcm9qMWE0LVZYWk91VlpvLUpMWm9CZndOZVBVYVBfVlhFcXFvczhPdHk0R052LTZMWUJMLUZHNEJFX1ZHY3FKa3VITWFqQ3BrWXZXRWM4cWpJOVNDOEVsZFk4YVFDZnRqb01oZjZR?oc=5",
+      "publishedAt": "2026-11-20T18:38:00+00:00",
+      "summary": "",
+      "source": "PolsatNews.pl",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
@@ -100,20 +109,11 @@
       }
     },
     {
-      "title": "Rosyjskie rakiety naruszyły polską przestrzeń powietrzną. Sprawą zajmie się NATO",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1BvbDFpQUJLWHg5X2JMbFJTXzNIaTB3c3VoQzV5ODBsOWg0Ulk5UGQ3aXdzc1NvRVlMNFA0Y0VkWkFqSUh4RW00TzBwYlAxNmI0a3U0enI5b1UwQTZjUG5kdU5iNFA2THNxeERVNVk1SFFqYi15VHVHWVE2T3lOXzdlZGxGb1MydHJ4WEQ2c0FwTmpFWTJDT1dQdGRXSFZQRUxYVjNZanhUdHlWNm96WGhBbmhSTmZ3MHAxd01VZ04?oc=5",
-      "publishedAt": "2026-11-21T14:19:09+00:00",
+      "title": "Wyciek danych w Autopay. Spółka ujawnia nowe szczegóły cyberataku",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnlPOUU4TXJEX1hGRU5iZWZhcmlUNW92LUJkMDRzS3pDbXFMc1dLbFF2elNiNndMOG9kMjhLYzJJUHdaYnZ5akdkcmF5dUl3aHdEVFBNaWZtYzdnNTJLTjBUMWNvd1NmdkZGekRNYjZ2UGZ4dzBTenRuOVRDQ2NQeXJmd0pVNWQ3WVRxMURvYUlWMndQYkE5eDVpenhLRDFK?oc=5",
+      "publishedAt": "2026-11-22T09:36:00+00:00",
       "summary": "",
-      "source": "Rzeczpospolita",
-      "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Cyberatak na Autopay: możliwy wyciek danych kart płatniczych Polaków",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFvbGtpdW1VWVF6VkNGVWlQODdab2xvMEYzQUVCVC01clBqY1BDRXg5bHR5ZUdCUGo5cklXOFJ2ZEx5U05QaGk4VmJyOWZiS0lXLVU3R3JHQWlHOEdwZDlfbXRGX3E5OFhCZzJxYzVCSDNJTGlmdHZncE1wSERhMHlZNEhwZDJBbmFBX3BaYzZRS3hvNXZ1NTFhSHRzR1BrdFk3Vg?oc=5",
-      "publishedAt": "2026-11-20T04:26:14+00:00",
-      "summary": "",
-      "source": "Goniec",
+      "source": "Newsmax Polska",
       "category": "Cyberbezpieczeństwo",
       "geo": null
     },
@@ -127,20 +127,11 @@
       "geo": null
     },
     {
-      "title": "Rosja: Media: wojna z Ukrainą główną przyczyną śmierci młodych mężczyzn w większości regionów",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmxJZ3VSc2NrM2NNd3lMamJmWnJGVFR3WGladlViaHZQWlg0SE1TRUROa1NQMjhVQmE4N3AtLTJaNUMzZlFLRjByemg1R2p1R1RDTV9CUmh5bTl5QmhKZzQzS1FzSmpOVll4TFkyb2lBOUU2bklBb3hsblJxOTlvbkV6X2dHTGJUVVdyeTBRRUN0VGlhbG8wdWFzeFBSbjZhdmp3cWI2VXhPeTRjVjcwWVlteFV4eEtFR3hNTVZLUHg0VUFLT3pBMQ?oc=5",
-      "publishedAt": "2026-11-18T18:44:00+00:00",
+      "title": "Drony uderzeniowe potrzebują głowic bojowych. Czy Polskie wojsko je wprowadza?",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkl4NUM3R3M2RGx1alkyOW9MQ211eXAybHVQWVFzQWdlYk1tSlA4Q1RnbWJnbExyRUpheUlEcHdhMThDMTQxdlVBWmYxbG1VeU8zb2ZCS1VFSXlBVjlfTWc5OXRPSERnUUhTZ1UzdUw1Ql9zdkN2SVpaQ2JtUW5FdDc4bXJ3SHJ0cGhRWndxT0pQcy1ZOW9pMllZSTloSlcyS2NVdDVBNkMyX0ljYWc?oc=5",
+      "publishedAt": "2026-11-22T12:00:03+00:00",
       "summary": "",
-      "source": "wnp.pl",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Pociski spadły na Polskę. Spotka się ważny organ NATO",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNERTUTB1VDIwX19DN2h2elY4cWZPbTBMbFY0d3kzaTlLRUNGaHJnRVAxNVlYZi1fOEtIcXl5Ym54NHVNb01NbmNIMkFhaHJrMGc5LTNtV0JYNGhNWE53NkZHemhWclVENlhhUDhMZFR1YkRXNmhlaVAtY0VQdi1LdXI5WXZrM2hLOXp6bnhhNnU?oc=5",
-      "publishedAt": "2026-11-21T13:39:00+00:00",
-      "summary": "",
-      "source": "Niezależna",
+      "source": "Defence24",
       "category": "Obronność",
       "geo": {
         "label": "Polska",
@@ -152,20 +143,22 @@
       }
     },
     {
-      "title": "Ostrzeżenie CERT Polska. \"Nadpłata za energię elektryczną\"",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2taOG5CVVI5WEstSWhNNkY0T1lYb2w5dk5KSkQ5dzMzcmdMUm4tZ0JWc09hT0lGSHBmRDdrc1d4a0xPanFIaGMtbWFTbjR6VENpVUFVemZpbS1fNXFmQ3Joa1NCOUowcFR4X2pBMEVJTGhBYlJ6OHpzU0t3LXlFS3JLV01RTS1YVjYzS21YODhRb3hOdE0wc2hhcmU0bGcwYkdadw?oc=5",
-      "publishedAt": "2026-11-20T10:30:02+00:00",
+      "title": "Rosjanie naruszają polską przestrzeń powietrzną. Jak powinno zareagować NATO?",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWE4UVdyUVlNLWpYVGFiZFZ3Y3ZfcW5QZnZEdkl2MDdzTVFJQUw0dnF5eVk3bWhQQjhUa3pEenJZTmJ6VzlBWGVGY3VYdVJfdF9ULWFoWkh6TXdONl9oY082YkMzck1OV3dyR0h1WEtmbElSeWlLSmdnaFMyaktlaTRkUHRMWU1LeGdBaU5ybU5DVVltcmduOFpiZkFoazNnNXVyNVdNVWJ1Tmc4SUk5VXl4c08?oc=5",
+      "publishedAt": "2026-11-22T13:40:06+00:00",
       "summary": "",
-      "source": "Dobreprogramy",
+      "source": "RMF24",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "Cyberatak na Autopay: możliwy wyciek danych kart płatniczych Polaków",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFvbGtpdW1VWVF6VkNGVWlQODdab2xvMEYzQUVCVC01clBqY1BDRXg5bHR5ZUdCUGo5cklXOFJ2ZEx5U05QaGk4VmJyOWZiS0lXLVU3R3JHQWlHOEdwZDlfbXRGX3E5OFhCZzJxYzVCSDNJTGlmdHZncE1wSERhMHlZNEhwZDJBbmFBX3BaYzZRS3hvNXZ1NTFhSHRzR1BrdFk3Vg?oc=5",
+      "publishedAt": "2026-11-20T04:26:14+00:00",
+      "summary": "",
+      "source": "Goniec",
       "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
+      "geo": null
     },
     {
       "title": "RCB wydał alert dla dwóch województw! \"Zagrożenie atakiem z powietrza\"",
@@ -177,13 +170,20 @@
       "geo": null
     },
     {
-      "title": "Zachód traci, Rosja traci, Chiny zyskują. To im najbardziej opłaca się dalsza wojna Rosji z Ukrainą",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUQ0QTFvN01jLXpFdFNlanhQQTA4b0dMNmhfdHUzMFZ2RTdnSE9SUHNHV1ZVYl9kY1kxOF95NDFsSWlDa19uVHNXN2lYM0d1bFZGVy13U2RqMXp4NXlzNi1Ybms0ZGYtVHFCMTFheWlmRlh1SWFmVFBaMllCb2VQNnJMY2ZDSmw3WlVubkV4elVEWGNvZ0ZjdlE2UjRUMEc5cnBRYm1XRU5HWFNfYUlzZW0xZUtzaFF1UGQ2MlBhYUJpa0lGTy1J?oc=5",
-      "publishedAt": "2026-11-18T17:28:00+00:00",
+      "title": "Polska rozbudowuje swoje wojska do sześciu brygad artylerii i trzech brygad rakiet",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT25nc1RuMnB1eGh1dUtuc0FHcHJEcEdhM1A5YnNoaHFjSzlZRTFyQ0VRSkc5aUdfN2xDVE1YRzhuS1VoTlp2Y0cyY19vam9yS0xaRWNpdTF5aE5WSjZKWEVORk9CXy13bmFwc2dZaDJwalJ6cEF0TU0tc2diUWtoSVEtVDM1eUYtdldOX3RQcC1hN0N2X0IwUThDdmpWOHdjUDVIcnF4WDhFdlFQYmlmMVlidkxSaTJncl82WGppYnNoRTJZVmtTaktQeFc3d0xpSVJZSkltRElzNjhp?oc=5",
+      "publishedAt": "2026-11-22T10:00:00+00:00",
       "summary": "",
       "source": "Rzeczpospolita",
-      "category": "Geopolityka",
-      "geo": null
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     }
   ],
   "notes": "Automatyczny RSS. Nie jest oficjalnym alarmem; sprawdzaj zrodla."
