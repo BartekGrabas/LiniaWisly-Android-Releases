@@ -1,112 +1,32 @@
 {
-  "generatedAt": "2026-11-23T18:15:54+00:00",
+  "generatedAt": "2026-11-24T17:50:02+00:00",
   "newsletter": [
     {
-      "title": "Ukraina rozszerza wojnę. Rosyjskie okręty na Bałtyku i Morzu Śródziemnym trafione",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeVJiM3RGeWFidlduaU9nS2huSU1fR1FJaDNEcDdWY1RVUDMwejl5anhvazhaOWk1ZEp2Q0czRG5qd19UY0lZblZrNGJ4QmVuRkVKcDNhZjF4YktNOWNLa19iVGN5eGx2QjllaVVuYXRyUllsLURJWmZJcVgtUFZIYV9Pb1lKR2tpWEtfRUNaOE5EVkZKZFdmaW1FbmZGOG5icnZOTnU0UWlLcktqbmZEMVVsSl9BSE5QRHhST0J3SHVYOGNzLW1QRUZ4d3ZwdU9tSkVZR0J3a0xYWmE0ZHUw?oc=5",
-      "publishedAt": "2026-11-23T15:30:02+00:00",
+      "title": "RCB wydał alert dla woj. lubelskiego: Zagrożenie atakiem z powietrza, znajdź bezpieczne miejsce",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzZOYnE0OE84T1hTanROUEJlZkw0TGdhRUd2ZFpOWnZlM0k5T0R5NXpwOVNPcVRGejlLd3RTX040R0JDRzllM2J6YWU1WU1adTJCWklRRVktUjJlcDk1a3R5Y3FLQ1Q2dzk0cnVhdmhRQ0s2aUMxTmxaZVY5enItdlVyZXk3UmNMaGlCZEpoMDR4bTNuaTlGQmVHeGhyeXZ1M1IxMFpiSmhwSEc0akF0R1FEMTcyWUFCWnU1cVJDN1hEQXZ5Z0NjZzRR?oc=5",
+      "publishedAt": "2026-11-23T22:33:00+00:00",
       "summary": "",
-      "source": "Defence24",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "PIORUNujący sukces polskiej zbrojeniówki. Kolejna armia NATO stawia na sprzęt z MESKO",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnh1Y3FiUFBoQy1OZ0pvbXU5VEY1QjBkTUE5RkVCbkhSaXh2LXpMQzQxUHFyZnBSSEJnWTFZblJKR3FGd3h2ZWpKdWNfV1JfNHB3MXFfcDhxVDZHUmJjSkp6ZzlLLXFsdlZEWWJTSkhla01EYzlmWVFBY19mQkVnU2lQZVRWWGhlRDRmdGROQmpQVk1MdnM3VlBOajQwOVdNSlJIWHB4bDlJNUpoR3NCbWRqQnpkZktpcmFvWmF0WUZSWEVOTDdNME90U0I?oc=5",
-      "publishedAt": "2026-11-23T08:07:00+00:00",
-      "summary": "",
-      "source": "Bankier.pl",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Pożar w Gdańsku. Mieszkańcy otrzymali alert RCB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1JbjdrUGRfT1FfODNwSFMtZUJ6aExGYkhib2VxNjJWQ3J6WnJpcm5DbE1iT2J4ZkV6NHZEaGRZblgyU0xjTlZKWU00c1BiMTFzNHdkbmt6Sldxc2xyd2pFYnJVeTZ2NE9DYzFHeG8zTHRvWGZWY2tOdVNfRENZZXJCOEllYnVreWc?oc=5",
-      "publishedAt": "2026-11-23T10:00:00+00:00",
-      "summary": "",
-      "source": "Niezależna",
+      "source": "Radio Zet",
       "category": "Zagrożenia",
-      "geo": {
-        "label": "Gdańsk",
-        "lat": 54.352,
-        "lng": 18.6466,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
+      "geo": null
     },
     {
-      "title": "Modele OpenAI na froncie cyberobrony NATO i Polski. CERT Polska wykrywa luki dzięki narzędziu Daybreak",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZE53MEJWc01CM0dlWkZTR1pxNGd4V3hlT0pMS3VpTy12YTFuS1VSWXdZYkVYeW1vNUhUeFpEa0JhaGtTc0dlVzNodVlRV3lMaEdJWVgyMkJscW1nUDdTQzA3cGFYTXlPb3JXMWZLNlp3Y2Y1eGwyUkV5RVFVQ2ZwZE5zZFUtaG81aUFBZnNUVWNSOVdEQUYwQjFvVjBNdXVVWEFycHlWckdrUHVLamZ2RTFGOW83bm45RkJySGJ3ck9rVWhZeGlqLUZNZ2JDbzBIbnBZaThabTZwaFJBX0NLd1AyUk9CcUJw?oc=5",
-      "publishedAt": "2026-11-21T09:40:56+00:00",
+      "title": "Zełenski odwraca argument Kremla: Ukraina w NATO jest potrzebna Rosjanom",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2RBWXR1WjVaZzZVVjhYRFZiVEtuTmZ2Ylp0ejVQZ2lVYnFjcldBVlFXRWtUa3VVSy1SaGlsSkFEU2NjQ1R1ODBCOVpmc2tQWUZDakVyUmNZRHl2em9Dd01aZEU3djJoXzJBNzJoMjU4aGJWMzZjSlY3VnlwWnVscHl4eUtESjM0V241ZnFSbGZHejN1Nm1sRmtKN3hoNnFLdTJQTmd0YnJZSGRlMF9jcQ?oc=5",
+      "publishedAt": "2026-11-24T14:39:00+00:00",
       "summary": "",
-      "source": "Computerworld.pl",
-      "category": "Cyberbezpieczeństwo",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "Seria eksplozji we Lwowie. Rosja uszkodziła elektrownię. Wprowadzono awaryjny harmonogram",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVdNMkJBcEVybFh4aDhGbWd1WExXQ3Vmd2c4ck8wM3RHS3R1NFZHYUJSTmpRc3hjRHVES29uV0F0TF9mWUVRRnZfOUxYVGxKZFVzalBOa3ZqV3p5Yjh3T2hkZHVGQ0hYSU45S01hcVNsNkJwZVVaOWlaX192QTdCdnNaMWR5QUkzMW1adzB6M3pGWVpPTTMwM2pmckpYZTkwYUMyT3ZzSmR5eFlDOVNGR0U4dUdHZ1FTY2tLNjFB?oc=5",
-      "publishedAt": "2026-11-20T20:29:48+00:00",
-      "summary": "",
-      "source": "Interia Wydarzenia",
-      "category": "Energia i infrastruktura",
-      "geo": {
-        "label": "Lwów",
-        "lat": 49.8397,
-        "lng": 24.0297,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "\"To wojna na wyczerpanie\". Ukraina celuje w czuły punkt Rosji. Kreml się mści",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2JRSDlKVjRBd1NaVU9ibWxzUWNzbVU1VURNVTY5OEo0cEY1cnV6NUhRaUNTVThpSUpvajNQcFN4Q21QZEJPWXZLNW52NzBEZXFkWFJtNVNELUt1QzhSa2lLak1LVVRNWFpUemZ5aER2d2FfZFJ0V09yWGZ3cGlnTHJXQlRScmsxa1JLVDgxWHNxLXRTUk1XajlSZFByZFAtVUV0bG5jQWtCYmw4QllvdzNR?oc=5",
-      "publishedAt": "2026-11-23T11:27:29+00:00",
-      "summary": "",
-      "source": "Wiadomości Onet",
+      "source": "RMF24",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "NATO odpowiada na rosyjskie rakiety. Samolot AWACS do dyspozycji Polski",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEVVSW91dU1KRFg1YmN0dUxMaUFnWUhYWkhOUU5EQmk5eFlhSFh3eEdyQWlsSS1NYjFXeFRIeW5ZMGRPNUkyTmh1LURITGdPZGdFd1IxVm5PSTZmbmU3NlRlSUdMdW5BR3FtQWUtc0NHb0NRUTU4b0pSY3RLV3RDYWw0QXVicXJCRXdHSmJiaF9qUUlHSUZaa1lYb2tUaWRJWXFob2p5LUItdk5uNGV0cUFuY0o2Y2ZUV0hJ?oc=5",
-      "publishedAt": "2026-11-23T17:20:00+00:00",
+      "title": "Kolejny rosyjski dron przeleciał nad Polską, wojsko poderwało myśliwce",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXRpNWNVWFNyYW8zX09mLWVKcG1pQWg4ZTFkR0VoNUpJa0QtVXpUOXhLaEF1TzBZY2dKSWxFM3RibXRBQ2dfMERrc0syc2N3OWxRUjQ3VXdkRUg1ZHA4VTc3eGJQOU93aDZmNlRXajhDSjZZY3d0dWZXb2JBQmJEbl9ueEw3czd0akx3ZHBQNDdOX1RvYi1FVXNUUVlFdzNwLUljN1hmYjNIUmdweFNUbHZTMXJXZnptbXR1SUFueWJaNnhE?oc=5",
+      "publishedAt": "2026-11-24T06:35:00+00:00",
       "summary": "",
       "source": "Newsmax Polska",
       "category": "Obronność",
       "geo": null
-    },
-    {
-      "title": "Syreny alarmowe zawyją pod Krakowem. Mieszkańcy otrzymali alert RCB",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXR4emxKUkdoVGZER2M5eHEtX0F6QXJ5WGxwTzdHQ29DdDQ1Tmk2TFJZNUNlNTdCQUdObTlHcjJTWHlrbjlQd19qSEVKUHZwVHVHbTRVYTRyTW16NlJYOWxvWVFfMW1SQUtkcWVWNzQzaktSQUlKT1dxOFlFLUV3aDdPZVRzT0FnUkJzUjNtTFJ4b0No?oc=5",
-      "publishedAt": "2026-11-23T08:39:23+00:00",
-      "summary": "",
-      "source": "Puls Krakowa",
-      "category": "Zagrożenia",
-      "geo": {
-        "label": "Kraków",
-        "lat": 50.0647,
-        "lng": 19.9445,
-        "scope": "miasto",
-        "approximate": true,
-        "method": "title_keyword"
-      }
     },
     {
       "title": "Wyciek danych w Autopay. Spółka ujawnia nowe szczegóły cyberataku",
@@ -118,69 +38,128 @@
       "geo": null
     },
     {
-      "title": "Atak dronów w Libii. Wojna Rosji z Ukrainą zagraża Włochom",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2ctcUNYeVZlOGdfbVVrY0k0aC1jelFTX1JFQWlkUEFhZDRKMVVWdmtJdVg5c1ktOW1md1N2MmpjbDY4X25IMkhnMlFhTjBDVXRtNDNDVjVfZS1sMjlOY2hFaURHS3NNUjVGZGxJYXhzbkVLRDY4S21qOXpDVkNzb0s0N0dLUjQtcHBTdVRQckFEbW4tWVVTRHljZXlhdmZtZlBoblFuRQ?oc=5",
-      "publishedAt": "2026-11-23T09:23:00+00:00",
+      "title": "\"Zagrożenie atakiem z powietrza\". Pilny alert RCB na Lubelszczyźnie. Wojsko reaguje",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUw1QXljbG5ObjlqN01HblVWTXZYa09IUXlWclhZbVV6S3dRdUJkNmtpeFJUZGhWUTQ2X2hxbkh6S3B3bVlKSGJMNW1GYV9UTWV0Uzd4djRJWE4tZjZ4QjI0YkdNMDZ1Y1NIMWZUaXNDRGlWbFUtVmN2VU1jNmlkZ0JZdktYeXJTck5jOW9fNnFzNjBUUVZCWVh0ZktDampXT1NlVi1WLTVvR1JvOXhEZg?oc=5",
+      "publishedAt": "2026-11-23T22:13:00+00:00",
       "summary": "",
-      "source": "Euronews.com",
+      "source": "Newsmax Polska",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Rok 2027 przełomem w wojnie Rosji z Ukrainą? „Jeśli Ukraina przetrwa”",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTZ1ZkRDZWxlNVJrU3UxZS04Sy1SUVVNV2JZQUJ6RWZnbmNGTS1HanVmaGdTeWZ2WjR0Nm5sTUtBZHlMTEs0UjZVNEhwVEVDa1l1VG9WclkyRmFxRlZhR1JoNTBXTy1aNXV6a2hmSW1TSEExLTIxX2ZUUFZVZXFVY1NIbnN0TmlmbVNhTl9LYXQ1N2ZBcmJJNldQV25TSWVISkdrSHNtTDNOdjBOQVlBaTdnZ1BOcG1rUkFvdDdHbGhDQXp1MzRr?oc=5",
+      "publishedAt": "2026-11-24T14:32:15+00:00",
+      "summary": "",
+      "source": "Rzeczpospolita",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Jest odpowiedź NATO na rosyjskie rakiety w Polsce. Wiceszef MON wyjaśnia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0twcmxSalNwaWpMT2hRLWlUZUVFMWN2WmxhWGtjYkJlbEVHOXEzZTdhTjVNVC1TTlVGel9reVhLUDdmM2ttay05d3JYM3VhY1hjYmFmUDVhSWpaaHNCUmpuQmxzNDl2MmZmMlVkaFZuT2V3UVhkTjhYSlNjUGEwMVhzNWVmRlNYajNqMWtjNXRtYld1Vk5JWEhVX0xqWUlhSGJfNU1tVTBMT1hFWlBhalRuakQzZGs?oc=5",
-      "publishedAt": "2026-11-23T16:51:30+00:00",
+      "title": "Rosja bezkarnie wysyła nad Polskę drony i pociski. Jak z tym skończyć? Podnieść cenę prowokacji",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnVsSkI1SHUxaEp2UVFUTm8tQlI0dlhfeDFsLUI1dEp4U1ZLOURSS3pqWTZoUDRNZHhVelNmeVl5VTQyOWR5Y1paaUEtZFE0SnhiOEVINWVoVDYyNUhiZUNfX3lkS041S015LWdNazJiMWk0UjlVUk5iQWh4NWJVRHhfeW0wdExSbHBZS202UHRCanFLS1pJVTVpSjh1Z3kxanJV?oc=5",
+      "publishedAt": "2026-11-24T14:31:44+00:00",
       "summary": "",
-      "source": "Fakt",
+      "source": "Wyborcza.pl",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Ostrzeżenia dla mieszkańców Gdańska po pożarze w porcie. Jest alert RCB",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0xxdGV6cUR6RHlVMW5XLTE3dU1DT2swTzJxWU5seUFWVkpIS29mTnpWMDd4NGJ4N01tR2x0Z3NWWVRNWExRVS1SSmF0NkpiNks1aUFrNVFrSU5TMmEwWG55NWVxbk5FQ1hkVnNaakZVYkZjTGZGMWR1QVdCQl9kZHhNaU02VmVuN3RfMFN0RQ?oc=5",
-      "publishedAt": "2026-11-23T08:15:00+00:00",
+      "title": "Masz dostać zwrot za prąd? CERT Polska ostrzega przed nowym oszustwem",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdHVzd3WElTeWllOWdkYldic3Jyc1p6THV2TVZuUDNfQmw1VFJDNEhRLWFGaHBURU9ZLWZTeGhwa21YVGRUYmtDWDkxVXdKRFl2T0drOUpTM1BjV1ZoTWEtZjAzVEZuWlpFU3RjQ0xrTFpmMWlkcE9vM0JRczVmX3VjenlDdjR2Nk9GUElOTVp6eGRVSnQzNkNNNFBxV09ycUlHQg?oc=5",
+      "publishedAt": "2026-11-24T06:13:00+00:00",
       "summary": "",
-      "source": "Polska Agencja Prasowa SA",
-      "category": "Zagrożenia",
+      "source": "Gramwzielone.pl",
+      "category": "Cyberbezpieczeństwo",
       "geo": {
-        "label": "Gdańsk",
-        "lat": 54.352,
-        "lng": 18.6466,
-        "scope": "miasto",
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
     },
     {
-      "title": "Wojna w Ukrainie a prowokacje Rosji. Dworczyk krytycznie o mentalności w Polsce",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX01uU1A2em9HNUczLVpKblJQU1ZnU0tsN1FmLXpPTkt3bG9VX09ZYTc0ZE5nZUVtS010UUx4N29JNkdLZnVIUzdTdFBSakRBcmJpN3FvY1ZnRmxKcXdtX3U2aDNoOHZtZmljR1hTczA1WkJsMWExQkthZjdkVFNlcjg3bDFmYkZDbktzYy0weV9Vbkl3eXhVM3BEbElXWTlnWWZoQWFheWh3ejRWajJUNmFUMmZ3TDRZbnllNGxKOFQ1amN0LTRKSkxB?oc=5",
-      "publishedAt": "2026-11-22T19:28:00+00:00",
+      "title": "Kolejny alert RCB. Trwa atak Rosji na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHVvWWVkOGZ3aVQtRVdJQ3RLSUF3WHRKbks1bXRINkYxcEtQbm01Q3pNeElyNGJFaFRfdC1BV0dpYldrU1BfS0k1QjlXMUNIbWQzbi1tSmdObUd3NldmamtBandJUEktNkRVLTBsSk9ySDZFSXZUcUc3WDRSNW1GY1QxVjBmcXNXZVBhTGVpRTQtOXNjQ01aQWdhVVExRjJmbzhxRWp5Z0ZDNW9Md2c?oc=5",
+      "publishedAt": "2026-11-24T15:12:04+00:00",
       "summary": "",
-      "source": "PolsatNews.pl",
+      "source": "Dziennik.pl",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Merz: Błędem było nieprzyjęcie Ukrainy do NATO w 2008 r. Wojny można było uniknąć",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcW44SUFOSG5oQkxEWnBqaE5WZU1HLXVsZmJCUm15aEVTZVVlZUcxRnJHWFBWVVF5c2dVTjN5b241SFBWNXc3UG14cjRjZGhQdV9UTnloUzRFdXUwNVBsMm1nRGFuMkF4UWZIR2JhSWE0dGRNbnpIb0F6X21ETXl5ZEgyVXdGT0MyLVFqcDRTc3VQbWRvZ0FNWFVJTnpKOGJpeGJxeGpxRy1fcHdaRE1SeDNRai1SRC1T0gG2AUFVX3lxTFBoVUEtS0lkZV9KNzNvMkFrbmFTZHFZdGgyUFdxeGpmU2FLOWJnTjN6TGtHYlFZdnJoaGdfVUhkLTV3eUN0TUJaNFhrWnlHYm53MklaMEJHZTFIaVNKQ25PUWNfWXdOcXY5WGVlWTRVc0hvWm8yRXJnZGFrSUFkWlQ3R085cDF6WHI2VG02V081RWZKd01Vd3M5TV9zR0EzWldZUUJUWnRvMWQ2ZTFpOXFYcG8zb1RR?oc=5",
+      "publishedAt": "2026-11-24T09:40:00+00:00",
+      "summary": "",
+      "source": "Do Rzeczy",
+      "category": "Geopolityka",
+      "geo": {
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "\"Trzeba pokazać Rosjanom, że się nie patyczkujemy\". Spór wojskowych rosyjskie o rakiety",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHNEbjlTQVJhNmZNblhwQW9GbjdwVHdWN05hdzhrdzV3a1otM3MwbG04V0dQMk96WUt0alJzNWlPNDZHTk52U1BOcThfSWFWUVRxaDFicUpBdkdxZVN5a0JHbGRoaFV2MWRESlE1TFJ6OVhrZVJHajBCWG42QkU0eUhySEZqTjZxQmZSdk5xWmg3Sm9qVEszQVN4TFF5ZlZOVG9GUHZWSGVzODUxUDJIdmFn?oc=5",
+      "publishedAt": "2026-11-24T14:26:03+00:00",
+      "summary": "",
+      "source": "Interia Wydarzenia",
+      "category": "Obronność",
+      "geo": {
+        "label": "Rosja",
+        "lat": 56.0,
+        "lng": 37.6,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Atak Rosji na Ukrainę. Alert RCB odwołany",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTFLc0Q3M193X2JhWnJjQTdpak1sVkhtXzJTLW5TYXBiS3R1ZkFqaG5yMkM2Z3QwUHotWk1Xbi1ZWjhOWjA1VnBEZ2pORFU0eHlHVTJhLWJYV1F4OTYtMENyVGlweWxkSjh0VWU2MjlqOFp5VE1QRmFsamI0N2NNb19GcUFQUmNmYl9uTE1EcWxOUWZaZGRMOGlKUEtQdVBCTXpsa2dSUjlnVk51MG51bEVB?oc=5",
+      "publishedAt": "2026-11-24T15:07:00+00:00",
+      "summary": "",
+      "source": "TVN24",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Analitycy ujawnili najnowsze plany Rosjan, w tle Ukraina i NATO. \"Prowadzą podwójną grę\"",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcW9GZHJpdXRYclkycGhycktlU3ZFemk2TUlQN0NhWVFjeTdfM19tLXE1S0lPck0xS19JNHVDU2hDUktiQjFHbEo4bHd5ZXRDamhYSDc5YlAtamZQbm9Gb1ZvNGtDSkRVUjFaMVJBcFRTSjdwS0g5MDFWbXItd2JXcm00a3d4WUxRbWtJd19LRU42dFM3dUt1U2hPeW9ET1gyUGFIcHQ0dFRkeXdGMDlFQ3JOWkpRZExzTEhJOGRhWQ?oc=5",
+      "publishedAt": "2026-11-24T07:46:53+00:00",
+      "summary": "",
+      "source": "Interia Wydarzenia",
       "category": "Geopolityka",
       "geo": null
     },
     {
-      "title": "Mark Rutte o rosyjskich rakietach nad Polską. NATO rozważy wzmocnienie obrony",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlF6QjdNYXRrRlBmVmJuV0QwZzkwTlRBNDkyaWJhTndWMDRLMDd5V2djaktvbFdnSndRTzBoaVlyR0t0WFE1bTNWdDI5WHFlOVM4SU04VHV1MVVfcFduM3V2TF9MNVBFS2VNZVhuN0JzVERTbDBTV1ZVRjd4NExtQWlpNmxJUXp2UlhWSmhtZGNlZ1hFVmcxNF84WFNEZENwY0szR1hRMnFyZw?oc=5",
-      "publishedAt": "2026-11-23T15:20:00+00:00",
+      "title": "Trzy rosyjskie pociski wleciały do Polski. Arłukowicz: trzeba wzmacniać NATO",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzc2cGVhYlNFMXRoelBYSWFFOF9IN045TWowRDJJb2hZQUsyek52M1ZPMnhwZUNRemxUMGJRTi1pR2lfekFhNHY4VUJKLURMbXY2X1hWd1UxNkRlS29iYVFVRE51VFZxTllZRlNkQWpsZUk4N05sb1BUcHVQSzRFVEFtWUNNUm9tZnU3akNXTDN0N19KdENpNm1lN01ncXhVVmpBUHQ5dGEyUFdoUGpEUTNNVmQ3UEFfLTJ6RXFsVU9kU3l1aElHTlRsMA?oc=5",
+      "publishedAt": "2026-11-24T11:33:26+00:00",
       "summary": "",
-      "source": "TVP Wilno",
+      "source": "Polityka Super Express",
       "category": "Obronność",
       "geo": null
     },
     {
-      "title": "Wielki pożar w Porcie Gdańsk. Pilny alert RCB! Mieszkańcy mają zostać w domach",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2FuSldiVXNRSVFwd005U1NzbDdNdkw3d2xnVmxtbW5qdmpBOGhtZ1praW1vSGItUzlWMktWVnZjdE54c00tMjMyVUJGa3VJemFjRE12U2pDUXdadDBaWURGVUFQU19qZ3Q4X1NsZlVRVndRNE1meFBPbXZMQkdLRkxTQUcwZkRfaWotX0dGNFNsNXJXa2dKakZaYi1EeU5XaDdBS0xHOGMyWTNTVFVCLW0yYw?oc=5",
-      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "title": "Alert RCB w woj. lubelskim. Trwa atak na Ukrainę",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0djbVhGbWpUMU5KZGppSk5MMDQ3TGVPVUI4ZkdFSW9KckhDNm1YLWliZVBEb296cTdnc1JGQU56eWVKXzNObkcwd3o0SmdONG4zNVladHF4dzFBX1hjOXM0XzNfbllfQjZYbkhiMW5EN2tIM0FkU1BDUmFDRzRMemRRNlY0Zm1rT3NXNjNiWERweFU?oc=5",
+      "publishedAt": "2026-11-24T15:04:45+00:00",
       "summary": "",
-      "source": "TV Republika",
+      "source": "WP Wiadomości",
       "category": "Zagrożenia",
       "geo": {
-        "label": "Gdańsk",
-        "lat": 54.352,
-        "lng": 18.6466,
-        "scope": "miasto",
+        "label": "Ukraina",
+        "lat": 49.0,
+        "lng": 31.2,
+        "scope": "kraj",
         "approximate": true,
         "method": "title_keyword"
       }
