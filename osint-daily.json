@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-25T17:16:21+00:00",
+  "generatedAt": "2026-11-26T16:57:35+00:00",
   "newsletter": [
+    {
+      "title": "Wojna w Ukrainie może się rozszerzyć? Trump i szef NATO apelują do Rosji",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTVzQmJ6cVlpV0ZYTXVkeFJrLVpFdktoSk9ZRzNsOERabDAzOXIyQjNQVzR5Ym1ROFVCN1NYX003Wm9nNGowYlIwZUk0RWFURmdZYUtVQTk5SmttZFZWcnc3TFpnY05TRHlGamJxXzRQQWpZTm1NY1ZSZXZKeWozd2JaZldJWWtMMTM4N0lCUllnLS13cWJrTGI4VzR6Rlpjdm9HZWd3?oc=5",
+      "publishedAt": "2026-11-26T06:10:30+00:00",
+      "summary": "",
+      "source": "Polskie Radio 24",
+      "category": "Geopolityka",
+      "geo": null
+    },
     {
       "title": "Atak Rosji na Ukrainę. RCB odwołało alert o zagrożeniu",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVFsNjRhLVZiLV9EdHJ3M1lIM2NlOC1NQ3VaTWZKVThWVlNrODVlRzV1LTlhbkhiUWpMTGdxUUIzUUxjenVaWE01ZVI5NV9sbGJHQ0gtNVdPcTVtMUQ5dGVnd0c5ZGpzaXhib2U1VEpQT2N2MW5KR24yLVJad0E0TXZpcU9ib1FTQndCcWFQdjhvdld6XzhCVE9MdFBmaVFHSnNYTTVqaw?oc=5",
@@ -11,11 +20,86 @@
       "geo": null
     },
     {
-      "title": "\"Zapomniana\" południowa flanka NATO w grze. Ukraina zarysowała nową oś konfliktu",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTlRcjE1bG84VXpKOEhVSVlrN1hCM09iTHRHTWlkVU05WFNJcmFCbV9TUHBpWGxpdDZET1ZlaW55OFYzeUtPS0FqbmtDQXE4NzVSdmluUC1OVjh5WjJTdHp0RXBwTV9zNVlhSFVET2dESzFLR1NvdzJBZ3hsUW9DVDU4NHRfVkQyWUViWmtpSG1QaGFRRmdwWGsxUFh4bVRHd0I5NjE5V28xRW14dXo4OUp1czhpbXVB?oc=5",
-      "publishedAt": "2026-11-25T12:06:15+00:00",
+      "title": "Sikorski o wsparciu NATO: Polska potrzebuje od sojuszników m.in. rakiet i systemów dronowych",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUpyak9FZ09YUk5kNjBmU0xkMFdESWFqclhjUldIUE1WV3g4N2E4VUVTQjRRaDd0c0haUE02YUlkVzR5WDB6SUhqTGNPaGpYcDhKbFNWQ1l2c2ZBV3JaWkpfQWJJai0tWkpvTzV1NS0tMGhwZG9PYW5ROTdxRjl4cTVaQ0Y5MEEwWnp1QV9UTDhqRGJtNXBYM1hRcVJwcGF4WjFlQ1d4NVBRLTMyMkdzUTVscVh3UE1aWkZjWEpiS2xJRG5NaXdwRjJ0OXVwWDZNZTZXeW81Qzk?oc=5",
+      "publishedAt": "2026-11-26T11:25:00+00:00",
       "summary": "",
-      "source": "Interia Wydarzenia",
+      "source": "wnp.pl",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "CERT Polska ostrzega przed nową falą oszustw. Czekasz na paczkę? Jeden SMS może narazić cię na utratę pieniędzy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQTVGeUhJWGMwU3hnODY3cHh3SFppYUtROEZpQlluZEYwZUN6bHVaX2NXcjdneUNKSS11dkQ3Y01aU1BYb1NiVEpPNWl4dlFOMzVDUGdVQmd0TVpMdGxKY3ZoVXRTRGd1N2VFc1F1MnVsZDNBcVZOZW1MYXNYUGdBcWd3Y0RrZlZBUUxzM0xrYnV5OFpfZF9RdmNoRlBfV0szektYazdQYk8tMDlxcmlnSnRxQVFnczlEQXFhZ1pEVUNrRldoS21zTXA0aU54el9RUnRIZA?oc=5",
+      "publishedAt": "2026-11-25T18:30:00+00:00",
+      "summary": "",
+      "source": "Warszawa w Pigułce",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Kreml oskarża Ukrainę o rozszerzanie wojny. Wcześniej Trump zabronił tego Rosji",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTktqVGhMTmFobW1zU2ROek8tbVVHQWs4MEVRWGVtZlJLSmhHZDJiX1lqVF9nNk9XdHB1QmxmVU1jUk9kWDVFcmk5ZTRtSDIybFRkNllkR0hzWVpjZ1lULUlZUUpNdXNLaWpiN1RVN2V6eTJjTHV0U2hOT0hoanNCelNFQllMODM5SXE3VDAxZHBHa1RPbVJIOUlyTU5HSU9EWUU1T2hmQ0kySlNWR3FPekxSN1cyRDZnaEpZcW91Vnl3dW03aWo2RQ?oc=5",
+      "publishedAt": "2026-11-26T11:32:00+00:00",
+      "summary": "",
+      "source": "Rzeczpospolita",
+      "category": "Geopolityka",
+      "geo": null
+    },
+    {
+      "title": "RCB wydał alert dla woj. lubelskiego: Zagrożenie atakiem z powietrza, znajdź bezpieczne miejsce",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzZOYnE0OE84T1hTanROUEJlZkw0TGdhRUd2ZFpOWnZlM0k5T0R5NXpwOVNPcVRGejlLd3RTX040R0JDRzllM2J6YWU1WU1adTJCWklRRVktUjJlcDk1a3R5Y3FLQ1Q2dzk0cnVhdmhRQ0s2aUMxTmxaZVY5enItdlVyZXk3UmNMaGlCZEpoMDR4bTNuaTlGQmVHeGhyeXZ1M1IxMFpiSmhwSEc0akF0R1FEMTcyWUFCWnU1cVJDN1hEQXZ5Z0NjZzRR?oc=5",
+      "publishedAt": "2026-11-23T22:33:00+00:00",
+      "summary": "",
+      "source": "Radio Zet",
+      "category": "Zagrożenia",
+      "geo": null
+    },
+    {
+      "title": "Kolejny rosyjski dron przeleciał nad Polską, wojsko poderwało myśliwce",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXRpNWNVWFNyYW8zX09mLWVKcG1pQWg4ZTFkR0VoNUpJa0QtVXpUOXhLaEF1TzBZY2dKSWxFM3RibXRBQ2dfMERrc0syc2N3OWxRUjQ3VXdkRUg1ZHA4VTc3eGJQOU93aDZmNlRXajhDSjZZY3d0dWZXb2JBQmJEbl9ueEw3czd0akx3ZHBQNDdOX1RvYi1FVXNUUVlFdzNwLUljN1hmYjNIUmdweFNUbHZTMXJXZnptbXR1SUFueWJaNnhE?oc=5",
+      "publishedAt": "2026-11-24T06:35:00+00:00",
+      "summary": "",
+      "source": "Newsmax Polska",
+      "category": "Obronność",
+      "geo": null
+    },
+    {
+      "title": "Fałszywe sms-y podszywają się pod firmy kurierskie, ostrzega CERT Polska",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2YzVU1Od1NVYzIwa1o4eGs3Qlh4S2xyX2dyRGcwdUFwdlBQUGNmbWZuenJhWEV2RWhiSFJzNjIxVDFJV2YyWkxIRzl1cjhXbU55N0QtYWZCTVhXeWNpbmU4TDJ4ZE1pNlZqYU5mSl9WNUxTeFNqSW5CeGNvT0xlb2t1RWpubzh1WURCVGZtSW44WWFwdTF1Vkd1bjlBMzA?oc=5",
+      "publishedAt": "2026-11-25T14:30:45+00:00",
+      "summary": "",
+      "source": "WM112.pl",
+      "category": "Cyberbezpieczeństwo",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
+    },
+    {
+      "title": "Jared Kushner o wojnie na Ukrainie. Putin to \"arcymistrz polityki\", a konflikt to \"wojna zastępcza\"",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcnV3am91U0sybUxWWENmV3hhcG43eTJoU0o0N2I2elFBZS1SZnZFSU52dlJmY2tmaUJoVGtWajNOWjhCaTZGaFprRUZFbFBLQU9NYWlmLWVkLUU0RjRSN3Q0TzNiRU5XLUVFeEdaRm1WcDRzc1p4NVdrcUdXaS1yV0w5LURWRHc4LXR1QjBRZUlJZzFsNURUbXpvNGZwRlN4UHB0OXMzZlh2SXpwRlJONi1zZmxNa3RFMWdZUVBnRmZ3dk5rSjY1TU10QzVoVElTcExpTy1JdDZscEdqM2swZ1RNbElpY1kyenh6X1pXQzFZcGM?oc=5",
+      "publishedAt": "2026-11-26T07:27:00+00:00",
+      "summary": "",
+      "source": "Portal Obronny",
       "category": "Geopolityka",
       "geo": {
         "label": "Ukraina",
@@ -27,13 +111,29 @@
       }
     },
     {
-      "title": "Kolejny rosyjski dron przeleciał nad Polską, wojsko poderwało myśliwce",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXRpNWNVWFNyYW8zX09mLWVKcG1pQWg4ZTFkR0VoNUpJa0QtVXpUOXhLaEF1TzBZY2dKSWxFM3RibXRBQ2dfMERrc0syc2N3OWxRUjQ3VXdkRUg1ZHA4VTc3eGJQOU93aDZmNlRXajhDSjZZY3d0dWZXb2JBQmJEbl9ueEw3czd0akx3ZHBQNDdOX1RvYi1FVXNUUVlFdzNwLUljN1hmYjNIUmdweFNUbHZTMXJXZnptbXR1SUFueWJaNnhE?oc=5",
-      "publishedAt": "2026-11-24T06:35:00+00:00",
+      "title": "\"Zagrożenie atakiem z powietrza\". Pilny alert RCB na Lubelszczyźnie. Wojsko reaguje",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUw1QXljbG5ObjlqN01HblVWTXZYa09IUXlWclhZbVV6S3dRdUJkNmtpeFJUZGhWUTQ2X2hxbkh6S3B3bVlKSGJMNW1GYV9UTWV0Uzd4djRJWE4tZjZ4QjI0YkdNMDZ1Y1NIMWZUaXNDRGlWbFUtVmN2VU1jNmlkZ0JZdktYeXJTck5jOW9fNnFzNjBUUVZCWVh0ZktDampXT1NlVi1WLTVvR1JvOXhEZg?oc=5",
+      "publishedAt": "2026-11-23T22:13:00+00:00",
       "summary": "",
       "source": "Newsmax Polska",
-      "category": "Obronność",
+      "category": "Zagrożenia",
       "geo": null
+    },
+    {
+      "title": "Trzech graczy, setki tysięcy pocisków. Ambitne plany polskiej zbrojeniówski",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG1ETGRQZ18wZHFUVU41NVFEcC1yUWxBRUQ3UnRQYkdkRlBkaVhKT0t2WEVseXMzTVNtanJ2Rmd2RXlJaHpKbWZTZHNwZXFYdnJjckM2NXVUZ3dieXFDVlBSb2xqemlVcnA0MXd0ZFB1b3NxRnhOR0otNTJONW9JSWFkLXhuRUdLdU1jZWtoTVo2MHp6REZ3OExSTnBGOVhKWWY0dmNR?oc=5",
+      "publishedAt": "2026-11-26T13:59:39+00:00",
+      "summary": "",
+      "source": "Defence24",
+      "category": "Obronność",
+      "geo": {
+        "label": "Polska",
+        "lat": 52.0,
+        "lng": 19.2,
+        "scope": "kraj",
+        "approximate": true,
+        "method": "title_keyword"
+      }
     },
     {
       "title": "Masz dostać zwrot za prąd? CERT Polska ostrzega przed nowym oszustwem",
@@ -52,71 +152,12 @@
       }
     },
     {
-      "title": "RCB wydał alert dla woj. lubelskiego: Zagrożenie atakiem z powietrza, znajdź bezpieczne miejsce",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzZOYnE0OE84T1hTanROUEJlZkw0TGdhRUd2ZFpOWnZlM0k5T0R5NXpwOVNPcVRGejlLd3RTX040R0JDRzllM2J6YWU1WU1adTJCWklRRVktUjJlcDk1a3R5Y3FLQ1Q2dzk0cnVhdmhRQ0s2aUMxTmxaZVY5enItdlVyZXk3UmNMaGlCZEpoMDR4bTNuaTlGQmVHeGhyeXZ1M1IxMFpiSmhwSEc0akF0R1FEMTcyWUFCWnU1cVJDN1hEQXZ5Z0NjZzRR?oc=5",
-      "publishedAt": "2026-11-23T22:33:00+00:00",
+      "title": "Trump i Rutte rozmawiali o wojnie w Ukrainie. Padł ważny apel do Rosji",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zbER2a18wZ1M2LUdLcm1NMFZnbVREcXZDOWFWamRVZ2tNbVRJWTZ5STRfUkNKUE8xcHAtZXl6b3ZRNlVUQXNOOTFvUUhUelE0dm82RlVGV3M2LUtvaTBlNGMwaDlpQQ?oc=5",
+      "publishedAt": "2026-11-26T07:21:07+00:00",
       "summary": "",
-      "source": "Radio Zet",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Rosja coraz śmielej prowokuje NATO. Gen. Polko: w końcu znajdziemy się w środku wojny",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDVfM1pLQW9UQW4wRGt2UzNHMThCckZ4T2dnTkpsdTIxVzRROUNkdGNoUDRadnpxRURSeGJNNUFBV3lrTDFMZmZfSnN4MndjNERvc0o1M1hpNV9IOEo2eEVJNnJkQ0FLTHcwdGVHaHNLazJVNGRMRW9IMnRiQVlueDlrcmNCVzM3WHFSM0wxM18wOTdHZ1NpRkotY0phQjF4OFpHcTY1X01JVGhBOWtIblMtSERSQUEt?oc=5",
-      "publishedAt": "2026-11-25T10:57:12+00:00",
-      "summary": "",
-      "source": "Polskie Radio 24",
+      "source": "wm.pl",
       "category": "Geopolityka",
-      "geo": {
-        "label": "Rosja",
-        "lat": 56.0,
-        "lng": 37.6,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "PIORUNujący sukces polskiej zbrojeniówki. Kolejna armia NATO stawia na sprzęt z MESKO",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnh1Y3FiUFBoQy1OZ0pvbXU5VEY1QjBkTUE5RkVCbkhSaXh2LXpMQzQxUHFyZnBSSEJnWTFZblJKR3FGd3h2ZWpKdWNfV1JfNHB3MXFfcDhxVDZHUmJjSkp6ZzlLLXFsdlZEWWJTSkhla01EYzlmWVFBY19mQkVnU2lQZVRWWGhlRDRmdGROQmpQVk1MdnM3VlBOajQwOVdNSlJIWHB4bDlJNUpoR3NCbWRqQnpkZktpcmFvWmF0WUZSWEVOTDdNME90U0I?oc=5",
-      "publishedAt": "2026-11-23T08:07:00+00:00",
-      "summary": "",
-      "source": "Bankier.pl",
-      "category": "Obronność",
-      "geo": {
-        "label": "Polska",
-        "lat": 52.0,
-        "lng": 19.2,
-        "scope": "kraj",
-        "approximate": true,
-        "method": "title_keyword"
-      }
-    },
-    {
-      "title": "\"Zagrożenie atakiem z powietrza\". Pilny alert RCB na Lubelszczyźnie. Wojsko reaguje",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUw1QXljbG5ObjlqN01HblVWTXZYa09IUXlWclhZbVV6S3dRdUJkNmtpeFJUZGhWUTQ2X2hxbkh6S3B3bVlKSGJMNW1GYV9UTWV0Uzd4djRJWE4tZjZ4QjI0YkdNMDZ1Y1NIMWZUaXNDRGlWbFUtVmN2VU1jNmlkZ0JZdktYeXJTck5jOW9fNnFzNjBUUVZCWVh0ZktDampXT1NlVi1WLTVvR1JvOXhEZg?oc=5",
-      "publishedAt": "2026-11-23T22:13:00+00:00",
-      "summary": "",
-      "source": "Newsmax Polska",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Ukraina przed najtrudniejszą zimą wojny. Rosja uderza w energetykę",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEF5X3RYRFlMSG00YXJrY3doOW9WOWEtRWJtckFiRFpsVlRHUTAwX2J3cVZaR0ZiTFdGU0RwUUxMVEI4LWtNSlNCVDlUN2xsd1cyR0gwaE9rZGk5ZmVCcGQtT040X0NWLTlBNjdybEdvNWQ5dk9BcXhEblFWbTBab3p2RThORFVGNURmeDljSW1LV1FtVlJ0RHpWWFRNZmpsTlZOdE9UZmlpMVh4M1YtYUhBZHcxQ08wcmdGdA?oc=5",
-      "publishedAt": "2026-11-25T10:38:05+00:00",
-      "summary": "",
-      "source": "Money.pl",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Co zrobi NATO?! Polska proponuje zestrzeliwanie rakiet Rosji",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1VoZ1NJWkxicHRuNUVXSS1saUpVNFMyek5PWS12QXBVLVNBN3hUNFd0LTVWcURJcV9vRm9UMy12M1lZWGwxZngzRWh0SGFNdERlMzlfalFkQWQyS1ZMSW43d2oxQ3lYWnJCR1g3YmpENEl3cHJFeTBvYTljeVQ3bkJTa3dDaWpHZWhYRXJFMmtmRzA0RlNZ?oc=5",
-      "publishedAt": "2026-11-25T16:01:09+00:00",
-      "summary": "",
-      "source": "wPolityce.pl",
-      "category": "Obronność",
       "geo": null
     },
     {
@@ -136,39 +177,12 @@
       }
     },
     {
-      "title": "USA rezygnują z umów biznesowych z Rosją. Miała to być zachęta do zakończenia wojny na Ukrainie",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzlmQzRWMHhVU1AwQlVRbzlldXZxSkhyOHFpMUZHVGdlN29zbE95QkIwYXMwNFU3TXNJWm90TVROSzI4R3NUVmo5SVpnekVybGdOYWtUeHpvckdfS1hqS252QXlQT2RrakZ3OGJud2ZkRXBmcHVUcEYzR0JGclFpZzV5d3ZheVhRUFJrREVJRlo0bnNZVWhUWmJCU0o1aU5NXzZOeUJiR1QxMTRINVExeXliUUNqV29DODdYRlVBOV9xRVFCN3c?oc=5",
-      "publishedAt": "2026-11-25T08:27:00+00:00",
+      "title": "Polska chce zgody NATO, żeby zestrzeliwać lecące w naszą stronę pociski już na ukraińskim niebie",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkZrdU9EWnNfdUFRUkc4Zy0tSnFiYU5LQ3RDaFBlMURkdHVXbkdya202YlZpaVpjdVNQRWtVa0xNT3RuNENhZmVZVnJ4d29vaXdrQV96VXFqd2tiNnBBMUQzZTFuRDYtV053R2RQVGFWWU1CclVXYzFFQUtHYmJjT2R3SUxLVHZOVEk5T2R4VlVfdEh2d0Nzd0hKaDF5UWpRbXBkYkQ4anRaZU5GbTBnUDVucUdKQXR0RnZoc2p1VGh0VEhscHJ5MU5yMWFReU5j?oc=5",
+      "publishedAt": "2026-11-26T09:30:00+00:00",
       "summary": "",
-      "source": "Newsmax Polska",
-      "category": "Geopolityka",
-      "geo": null
-    },
-    {
-      "title": "Polska zestrzeli rosyjskie rakiety nad Ukrainą? Ekspert ostrzega przed reakcją Moskwy i NATO",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEJhcEtqbmY0eklkNnJzTmNlX3NGTFR6bXNseERXY2IxNjBtZlZEZm9ySFdOY3dYaFpXblpjSmJZYUhHYmtGYnFJa3FkeVppb29sOWNBdFFMV1lCV1ktSUpPSVFycE1MVHY3bWJqUGtVLVZhcE9TZEV2d3pUbFB6YWh5QjBENy1ZSk5OLTNyeFBEengyVmRpMlFqMVlWZkxWS09rVjJ4SnRzVnlMYWFtWFVxRV9HSnpaT3R6RDJGTEM4b3hKVTZpZkJZTnZDS09BYUgwZ1NWQ2VhVDVYXy03cEt3?oc=5",
-      "publishedAt": "2026-11-25T15:47:00+00:00",
-      "summary": "",
-      "source": "Radio ESKA",
+      "source": "Donald.pl",
       "category": "Obronność",
-      "geo": null
-    },
-    {
-      "title": "Rosyjski atak na Ukrainę. Kolejny alert RCB w części województwa lubelskiego",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUR5X3NidGt6MWpxNDJhb1pqQjRFeXJxV18ybERjX01tZEc3RnJVc2tUVUQ4WkxsdjEycFNSbDdNcGdvTXdhZFRLWGJReGRCU1VkZnh4eExqRzl6WFdOcklPMFhWUEN5OXRHRTBQREpGamo1cFJkc3pRcTYxZENKbTlIWWxhbnRnYTZ5aWZ6QThvZFNXeFZsLUdjdGxLamhlY2haejRXY21WVXplOXlZdDJnSWpCUzlfZXc?oc=5",
-      "publishedAt": "2026-11-24T18:19:35+00:00",
-      "summary": "",
-      "source": "WP Wiadomości",
-      "category": "Zagrożenia",
-      "geo": null
-    },
-    {
-      "title": "Rosja zapłaciła ogromną cenę za wojnę w Ukrainie. Ujawnione dane pokazują skalę strat",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TN1E1U2V2UDh5VWtUbkFvR1NYaU1KY3NqaVNVeVY0ZDNsekEtQlRBM25maTd0M0drLVpRRVBPUWNKSTFXVU4wQnhFYzJqTW1mcDEzU3duMF9QaTlLc1ZmTl85a0o?oc=5",
-      "publishedAt": "2026-11-25T08:08:29+00:00",
-      "summary": "",
-      "source": "wm.pl",
-      "category": "Geopolityka",
       "geo": null
     }
   ],
